@@ -1,0 +1,8 @@
+numpy>=1.26
+pandas>=2.2
+scikit-learn>=1.4
+matplotlib>=3.8
+# Optional: install for full GeoPandas workflow (we ship a pure-Python
+# GPKG reader that works without these, so they're optional).
+# geopandas>=0.14
+# pyogrio>=0.7

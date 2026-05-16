@@ -1,0 +1,4032 @@
+{
+  "Central::Asikuma-Odoben-Brakwa": [
+    {
+      "id": "build_phc",
+      "title": "Build additional primary healthcare centre",
+      "rationale": "Hospital + clinic supply is below 1.5 per 100k people, well under WHO primary-care benchmarks.",
+      "priority_score": 0.95
+    },
+    {
+      "id": "deploy_chps",
+      "title": "Deploy new CHPS compound",
+      "rationale": "Rural district with very low total facility density. A CHPS compound is the lowest-cost, highest-coverage intervention.",
+      "priority_score": 0.9
+    },
+    {
+      "id": "personnel_allocation",
+      "title": "Increase healthcare personnel allocation",
+      "rationale": "Even where physical infrastructure exists, this risk tier indicates under-staffing relative to need.",
+      "priority_score": 0.75
+    },
+    {
+      "id": "pharmacy_expansion",
+      "title": "Subsidise pharmacy expansion",
+      "rationale": "Pharmacy density is below 2 per 100k \u2014 medication access is constrained.",
+      "priority_score": 0.7
+    },
+    {
+      "id": "specialty_diversification",
+      "title": "Add specialist healthcare provision",
+      "rationale": "Only a narrow set of facility types are present; residents have to travel out of district for many services.",
+      "priority_score": 0.65
+    }
+  ],
+  "Ashanti::Amansie South": [
+    {
+      "id": "build_phc",
+      "title": "Build additional primary healthcare centre",
+      "rationale": "Hospital + clinic supply is below 1.5 per 100k people, well under WHO primary-care benchmarks.",
+      "priority_score": 0.948
+    },
+    {
+      "id": "deploy_chps",
+      "title": "Deploy new CHPS compound",
+      "rationale": "Rural district with very low total facility density. A CHPS compound is the lowest-cost, highest-coverage intervention.",
+      "priority_score": 0.898
+    },
+    {
+      "id": "personnel_allocation",
+      "title": "Increase healthcare personnel allocation",
+      "rationale": "Even where physical infrastructure exists, this risk tier indicates under-staffing relative to need.",
+      "priority_score": 0.748
+    },
+    {
+      "id": "pharmacy_expansion",
+      "title": "Subsidise pharmacy expansion",
+      "rationale": "Pharmacy density is below 2 per 100k \u2014 medication access is constrained.",
+      "priority_score": 0.698
+    },
+    {
+      "id": "specialty_diversification",
+      "title": "Add specialist healthcare provision",
+      "rationale": "Only a narrow set of facility types are present; residents have to travel out of district for many services.",
+      "priority_score": 0.648
+    }
+  ],
+  "Northern::Nanumba South": [
+    {
+      "id": "build_phc",
+      "title": "Build additional primary healthcare centre",
+      "rationale": "Hospital + clinic supply is below 1.5 per 100k people, well under WHO primary-care benchmarks.",
+      "priority_score": 0.947
+    },
+    {
+      "id": "deploy_chps",
+      "title": "Deploy new CHPS compound",
+      "rationale": "Rural district with very low total facility density. A CHPS compound is the lowest-cost, highest-coverage intervention.",
+      "priority_score": 0.897
+    },
+    {
+      "id": "personnel_allocation",
+      "title": "Increase healthcare personnel allocation",
+      "rationale": "Even where physical infrastructure exists, this risk tier indicates under-staffing relative to need.",
+      "priority_score": 0.748
+    },
+    {
+      "id": "pharmacy_expansion",
+      "title": "Subsidise pharmacy expansion",
+      "rationale": "Pharmacy density is below 2 per 100k \u2014 medication access is constrained.",
+      "priority_score": 0.698
+    },
+    {
+      "id": "specialty_diversification",
+      "title": "Add specialist healthcare provision",
+      "rationale": "Only a narrow set of facility types are present; residents have to travel out of district for many services.",
+      "priority_score": 0.648
+    }
+  ],
+  "Bono East::Pru East": [
+    {
+      "id": "build_phc",
+      "title": "Build additional primary healthcare centre",
+      "rationale": "Hospital + clinic supply is below 1.5 per 100k people, well under WHO primary-care benchmarks.",
+      "priority_score": 0.947
+    },
+    {
+      "id": "deploy_chps",
+      "title": "Deploy new CHPS compound",
+      "rationale": "Rural district with very low total facility density. A CHPS compound is the lowest-cost, highest-coverage intervention.",
+      "priority_score": 0.897
+    },
+    {
+      "id": "personnel_allocation",
+      "title": "Increase healthcare personnel allocation",
+      "rationale": "Even where physical infrastructure exists, this risk tier indicates under-staffing relative to need.",
+      "priority_score": 0.748
+    },
+    {
+      "id": "pharmacy_expansion",
+      "title": "Subsidise pharmacy expansion",
+      "rationale": "Pharmacy density is below 2 per 100k \u2014 medication access is constrained.",
+      "priority_score": 0.698
+    },
+    {
+      "id": "specialty_diversification",
+      "title": "Add specialist healthcare provision",
+      "rationale": "Only a narrow set of facility types are present; residents have to travel out of district for many services.",
+      "priority_score": 0.648
+    }
+  ],
+  "Central::Agona East": [
+    {
+      "id": "build_phc",
+      "title": "Build additional primary healthcare centre",
+      "rationale": "Hospital + clinic supply is below 1.5 per 100k people, well under WHO primary-care benchmarks.",
+      "priority_score": 0.947
+    },
+    {
+      "id": "deploy_chps",
+      "title": "Deploy new CHPS compound",
+      "rationale": "Rural district with very low total facility density. A CHPS compound is the lowest-cost, highest-coverage intervention.",
+      "priority_score": 0.897
+    },
+    {
+      "id": "personnel_allocation",
+      "title": "Increase healthcare personnel allocation",
+      "rationale": "Even where physical infrastructure exists, this risk tier indicates under-staffing relative to need.",
+      "priority_score": 0.748
+    },
+    {
+      "id": "pharmacy_expansion",
+      "title": "Subsidise pharmacy expansion",
+      "rationale": "Pharmacy density is below 2 per 100k \u2014 medication access is constrained.",
+      "priority_score": 0.698
+    },
+    {
+      "id": "specialty_diversification",
+      "title": "Add specialist healthcare provision",
+      "rationale": "Only a narrow set of facility types are present; residents have to travel out of district for many services.",
+      "priority_score": 0.648
+    }
+  ],
+  "Central::Abura-Asebu-Kwamankese": [
+    {
+      "id": "build_phc",
+      "title": "Build additional primary healthcare centre",
+      "rationale": "Hospital + clinic supply is below 1.5 per 100k people, well under WHO primary-care benchmarks.",
+      "priority_score": 0.947
+    },
+    {
+      "id": "deploy_chps",
+      "title": "Deploy new CHPS compound",
+      "rationale": "Rural district with very low total facility density. A CHPS compound is the lowest-cost, highest-coverage intervention.",
+      "priority_score": 0.897
+    },
+    {
+      "id": "personnel_allocation",
+      "title": "Increase healthcare personnel allocation",
+      "rationale": "Even where physical infrastructure exists, this risk tier indicates under-staffing relative to need.",
+      "priority_score": 0.748
+    },
+    {
+      "id": "pharmacy_expansion",
+      "title": "Subsidise pharmacy expansion",
+      "rationale": "Pharmacy density is below 2 per 100k \u2014 medication access is constrained.",
+      "priority_score": 0.698
+    },
+    {
+      "id": "specialty_diversification",
+      "title": "Add specialist healthcare provision",
+      "rationale": "Only a narrow set of facility types are present; residents have to travel out of district for many services.",
+      "priority_score": 0.648
+    }
+  ],
+  "Ashanti::Ejura-Sekyedumase": [
+    {
+      "id": "build_phc",
+      "title": "Build additional primary healthcare centre",
+      "rationale": "Hospital + clinic supply is below 1.5 per 100k people, well under WHO primary-care benchmarks.",
+      "priority_score": 0.945
+    },
+    {
+      "id": "deploy_chps",
+      "title": "Deploy new CHPS compound",
+      "rationale": "Rural district with very low total facility density. A CHPS compound is the lowest-cost, highest-coverage intervention.",
+      "priority_score": 0.895
+    },
+    {
+      "id": "personnel_allocation",
+      "title": "Increase healthcare personnel allocation",
+      "rationale": "Even where physical infrastructure exists, this risk tier indicates under-staffing relative to need.",
+      "priority_score": 0.746
+    },
+    {
+      "id": "pharmacy_expansion",
+      "title": "Subsidise pharmacy expansion",
+      "rationale": "Pharmacy density is below 2 per 100k \u2014 medication access is constrained.",
+      "priority_score": 0.696
+    },
+    {
+      "id": "specialty_diversification",
+      "title": "Add specialist healthcare provision",
+      "rationale": "Only a narrow set of facility types are present; residents have to travel out of district for many services.",
+      "priority_score": 0.646
+    }
+  ],
+  "Ashanti::Asante Akim North": [
+    {
+      "id": "build_phc",
+      "title": "Build additional primary healthcare centre",
+      "rationale": "Hospital + clinic supply is below 1.5 per 100k people, well under WHO primary-care benchmarks.",
+      "priority_score": 0.945
+    },
+    {
+      "id": "deploy_chps",
+      "title": "Deploy new CHPS compound",
+      "rationale": "Rural district with very low total facility density. A CHPS compound is the lowest-cost, highest-coverage intervention.",
+      "priority_score": 0.895
+    },
+    {
+      "id": "personnel_allocation",
+      "title": "Increase healthcare personnel allocation",
+      "rationale": "Even where physical infrastructure exists, this risk tier indicates under-staffing relative to need.",
+      "priority_score": 0.746
+    },
+    {
+      "id": "pharmacy_expansion",
+      "title": "Subsidise pharmacy expansion",
+      "rationale": "Pharmacy density is below 2 per 100k \u2014 medication access is constrained.",
+      "priority_score": 0.696
+    },
+    {
+      "id": "specialty_diversification",
+      "title": "Add specialist healthcare provision",
+      "rationale": "Only a narrow set of facility types are present; residents have to travel out of district for many services.",
+      "priority_score": 0.646
+    }
+  ],
+  "Ashanti::Bosomtwe": [
+    {
+      "id": "build_phc",
+      "title": "Build additional primary healthcare centre",
+      "rationale": "Hospital + clinic supply is below 1.5 per 100k people, well under WHO primary-care benchmarks.",
+      "priority_score": 0.945
+    },
+    {
+      "id": "deploy_chps",
+      "title": "Deploy new CHPS compound",
+      "rationale": "Rural district with very low total facility density. A CHPS compound is the lowest-cost, highest-coverage intervention.",
+      "priority_score": 0.895
+    },
+    {
+      "id": "personnel_allocation",
+      "title": "Increase healthcare personnel allocation",
+      "rationale": "Even where physical infrastructure exists, this risk tier indicates under-staffing relative to need.",
+      "priority_score": 0.746
+    },
+    {
+      "id": "pharmacy_expansion",
+      "title": "Subsidise pharmacy expansion",
+      "rationale": "Pharmacy density is below 2 per 100k \u2014 medication access is constrained.",
+      "priority_score": 0.696
+    },
+    {
+      "id": "specialty_diversification",
+      "title": "Add specialist healthcare provision",
+      "rationale": "Only a narrow set of facility types are present; residents have to travel out of district for many services.",
+      "priority_score": 0.646
+    }
+  ],
+  "Ashanti::Sekyere Kumawu": [
+    {
+      "id": "build_phc",
+      "title": "Build additional primary healthcare centre",
+      "rationale": "Hospital + clinic supply is below 1.5 per 100k people, well under WHO primary-care benchmarks.",
+      "priority_score": 0.945
+    },
+    {
+      "id": "deploy_chps",
+      "title": "Deploy new CHPS compound",
+      "rationale": "Rural district with very low total facility density. A CHPS compound is the lowest-cost, highest-coverage intervention.",
+      "priority_score": 0.895
+    },
+    {
+      "id": "personnel_allocation",
+      "title": "Increase healthcare personnel allocation",
+      "rationale": "Even where physical infrastructure exists, this risk tier indicates under-staffing relative to need.",
+      "priority_score": 0.746
+    },
+    {
+      "id": "pharmacy_expansion",
+      "title": "Subsidise pharmacy expansion",
+      "rationale": "Pharmacy density is below 2 per 100k \u2014 medication access is constrained.",
+      "priority_score": 0.696
+    },
+    {
+      "id": "specialty_diversification",
+      "title": "Add specialist healthcare provision",
+      "rationale": "Only a narrow set of facility types are present; residents have to travel out of district for many services.",
+      "priority_score": 0.646
+    }
+  ],
+  "Greater Accra::Ada West": [
+    {
+      "id": "build_phc",
+      "title": "Build additional primary healthcare centre",
+      "rationale": "Hospital + clinic supply is below 1.5 per 100k people, well under WHO primary-care benchmarks.",
+      "priority_score": 0.945
+    },
+    {
+      "id": "deploy_chps",
+      "title": "Deploy new CHPS compound",
+      "rationale": "Rural district with very low total facility density. A CHPS compound is the lowest-cost, highest-coverage intervention.",
+      "priority_score": 0.895
+    },
+    {
+      "id": "personnel_allocation",
+      "title": "Increase healthcare personnel allocation",
+      "rationale": "Even where physical infrastructure exists, this risk tier indicates under-staffing relative to need.",
+      "priority_score": 0.746
+    },
+    {
+      "id": "pharmacy_expansion",
+      "title": "Subsidise pharmacy expansion",
+      "rationale": "Pharmacy density is below 2 per 100k \u2014 medication access is constrained.",
+      "priority_score": 0.696
+    },
+    {
+      "id": "specialty_diversification",
+      "title": "Add specialist healthcare provision",
+      "rationale": "Only a narrow set of facility types are present; residents have to travel out of district for many services.",
+      "priority_score": 0.646
+    }
+  ],
+  "Western::Nzema East": [
+    {
+      "id": "build_phc",
+      "title": "Build additional primary healthcare centre",
+      "rationale": "Hospital + clinic supply is below 1.5 per 100k people, well under WHO primary-care benchmarks.",
+      "priority_score": 0.944
+    },
+    {
+      "id": "deploy_chps",
+      "title": "Deploy new CHPS compound",
+      "rationale": "Rural district with very low total facility density. A CHPS compound is the lowest-cost, highest-coverage intervention.",
+      "priority_score": 0.894
+    },
+    {
+      "id": "personnel_allocation",
+      "title": "Increase healthcare personnel allocation",
+      "rationale": "Even where physical infrastructure exists, this risk tier indicates under-staffing relative to need.",
+      "priority_score": 0.745
+    },
+    {
+      "id": "pharmacy_expansion",
+      "title": "Subsidise pharmacy expansion",
+      "rationale": "Pharmacy density is below 2 per 100k \u2014 medication access is constrained.",
+      "priority_score": 0.695
+    },
+    {
+      "id": "specialty_diversification",
+      "title": "Add specialist healthcare provision",
+      "rationale": "Only a narrow set of facility types are present; residents have to travel out of district for many services.",
+      "priority_score": 0.646
+    }
+  ],
+  "Northern::Nanton": [
+    {
+      "id": "build_phc",
+      "title": "Build additional primary healthcare centre",
+      "rationale": "Hospital + clinic supply is below 1.5 per 100k people, well under WHO primary-care benchmarks.",
+      "priority_score": 0.943
+    },
+    {
+      "id": "deploy_chps",
+      "title": "Deploy new CHPS compound",
+      "rationale": "Rural district with very low total facility density. A CHPS compound is the lowest-cost, highest-coverage intervention.",
+      "priority_score": 0.894
+    },
+    {
+      "id": "personnel_allocation",
+      "title": "Increase healthcare personnel allocation",
+      "rationale": "Even where physical infrastructure exists, this risk tier indicates under-staffing relative to need.",
+      "priority_score": 0.745
+    },
+    {
+      "id": "pharmacy_expansion",
+      "title": "Subsidise pharmacy expansion",
+      "rationale": "Pharmacy density is below 2 per 100k \u2014 medication access is constrained.",
+      "priority_score": 0.695
+    },
+    {
+      "id": "specialty_diversification",
+      "title": "Add specialist healthcare provision",
+      "rationale": "Only a narrow set of facility types are present; residents have to travel out of district for many services.",
+      "priority_score": 0.645
+    }
+  ],
+  "Northern::Mion": [
+    {
+      "id": "build_phc",
+      "title": "Build additional primary healthcare centre",
+      "rationale": "Hospital + clinic supply is below 1.5 per 100k people, well under WHO primary-care benchmarks.",
+      "priority_score": 0.943
+    },
+    {
+      "id": "deploy_chps",
+      "title": "Deploy new CHPS compound",
+      "rationale": "Rural district with very low total facility density. A CHPS compound is the lowest-cost, highest-coverage intervention.",
+      "priority_score": 0.894
+    },
+    {
+      "id": "personnel_allocation",
+      "title": "Increase healthcare personnel allocation",
+      "rationale": "Even where physical infrastructure exists, this risk tier indicates under-staffing relative to need.",
+      "priority_score": 0.745
+    },
+    {
+      "id": "pharmacy_expansion",
+      "title": "Subsidise pharmacy expansion",
+      "rationale": "Pharmacy density is below 2 per 100k \u2014 medication access is constrained.",
+      "priority_score": 0.695
+    },
+    {
+      "id": "specialty_diversification",
+      "title": "Add specialist healthcare provision",
+      "rationale": "Only a narrow set of facility types are present; residents have to travel out of district for many services.",
+      "priority_score": 0.645
+    }
+  ],
+  "Northern::Tatale Sanguli": [
+    {
+      "id": "build_phc",
+      "title": "Build additional primary healthcare centre",
+      "rationale": "Hospital + clinic supply is below 1.5 per 100k people, well under WHO primary-care benchmarks.",
+      "priority_score": 0.943
+    },
+    {
+      "id": "deploy_chps",
+      "title": "Deploy new CHPS compound",
+      "rationale": "Rural district with very low total facility density. A CHPS compound is the lowest-cost, highest-coverage intervention.",
+      "priority_score": 0.894
+    },
+    {
+      "id": "personnel_allocation",
+      "title": "Increase healthcare personnel allocation",
+      "rationale": "Even where physical infrastructure exists, this risk tier indicates under-staffing relative to need.",
+      "priority_score": 0.745
+    },
+    {
+      "id": "pharmacy_expansion",
+      "title": "Subsidise pharmacy expansion",
+      "rationale": "Pharmacy density is below 2 per 100k \u2014 medication access is constrained.",
+      "priority_score": 0.695
+    },
+    {
+      "id": "specialty_diversification",
+      "title": "Add specialist healthcare provision",
+      "rationale": "Only a narrow set of facility types are present; residents have to travel out of district for many services.",
+      "priority_score": 0.645
+    }
+  ],
+  "Northern::Kumbungu": [
+    {
+      "id": "build_phc",
+      "title": "Build additional primary healthcare centre",
+      "rationale": "Hospital + clinic supply is below 1.5 per 100k people, well under WHO primary-care benchmarks.",
+      "priority_score": 0.943
+    },
+    {
+      "id": "deploy_chps",
+      "title": "Deploy new CHPS compound",
+      "rationale": "Rural district with very low total facility density. A CHPS compound is the lowest-cost, highest-coverage intervention.",
+      "priority_score": 0.894
+    },
+    {
+      "id": "personnel_allocation",
+      "title": "Increase healthcare personnel allocation",
+      "rationale": "Even where physical infrastructure exists, this risk tier indicates under-staffing relative to need.",
+      "priority_score": 0.745
+    },
+    {
+      "id": "pharmacy_expansion",
+      "title": "Subsidise pharmacy expansion",
+      "rationale": "Pharmacy density is below 2 per 100k \u2014 medication access is constrained.",
+      "priority_score": 0.695
+    },
+    {
+      "id": "specialty_diversification",
+      "title": "Add specialist healthcare provision",
+      "rationale": "Only a narrow set of facility types are present; residents have to travel out of district for many services.",
+      "priority_score": 0.645
+    }
+  ],
+  "Central::Gomoa Central": [
+    {
+      "id": "build_phc",
+      "title": "Build additional primary healthcare centre",
+      "rationale": "Hospital + clinic supply is below 1.5 per 100k people, well under WHO primary-care benchmarks.",
+      "priority_score": 0.943
+    },
+    {
+      "id": "deploy_chps",
+      "title": "Deploy new CHPS compound",
+      "rationale": "Rural district with very low total facility density. A CHPS compound is the lowest-cost, highest-coverage intervention.",
+      "priority_score": 0.894
+    },
+    {
+      "id": "personnel_allocation",
+      "title": "Increase healthcare personnel allocation",
+      "rationale": "Even where physical infrastructure exists, this risk tier indicates under-staffing relative to need.",
+      "priority_score": 0.745
+    },
+    {
+      "id": "pharmacy_expansion",
+      "title": "Subsidise pharmacy expansion",
+      "rationale": "Pharmacy density is below 2 per 100k \u2014 medication access is constrained.",
+      "priority_score": 0.695
+    },
+    {
+      "id": "specialty_diversification",
+      "title": "Add specialist healthcare provision",
+      "rationale": "Only a narrow set of facility types are present; residents have to travel out of district for many services.",
+      "priority_score": 0.645
+    }
+  ],
+  "Western North::Juaboso": [
+    {
+      "id": "build_phc",
+      "title": "Build additional primary healthcare centre",
+      "rationale": "Hospital + clinic supply is below 1.5 per 100k people, well under WHO primary-care benchmarks.",
+      "priority_score": 0.943
+    },
+    {
+      "id": "deploy_chps",
+      "title": "Deploy new CHPS compound",
+      "rationale": "Rural district with very low total facility density. A CHPS compound is the lowest-cost, highest-coverage intervention.",
+      "priority_score": 0.893
+    },
+    {
+      "id": "personnel_allocation",
+      "title": "Increase healthcare personnel allocation",
+      "rationale": "Even where physical infrastructure exists, this risk tier indicates under-staffing relative to need.",
+      "priority_score": 0.744
+    },
+    {
+      "id": "pharmacy_expansion",
+      "title": "Subsidise pharmacy expansion",
+      "rationale": "Pharmacy density is below 2 per 100k \u2014 medication access is constrained.",
+      "priority_score": 0.695
+    },
+    {
+      "id": "specialty_diversification",
+      "title": "Add specialist healthcare provision",
+      "rationale": "Only a narrow set of facility types are present; residents have to travel out of district for many services.",
+      "priority_score": 0.645
+    }
+  ],
+  "Western North::Bia East": [
+    {
+      "id": "build_phc",
+      "title": "Build additional primary healthcare centre",
+      "rationale": "Hospital + clinic supply is below 1.5 per 100k people, well under WHO primary-care benchmarks.",
+      "priority_score": 0.943
+    },
+    {
+      "id": "deploy_chps",
+      "title": "Deploy new CHPS compound",
+      "rationale": "Rural district with very low total facility density. A CHPS compound is the lowest-cost, highest-coverage intervention.",
+      "priority_score": 0.893
+    },
+    {
+      "id": "personnel_allocation",
+      "title": "Increase healthcare personnel allocation",
+      "rationale": "Even where physical infrastructure exists, this risk tier indicates under-staffing relative to need.",
+      "priority_score": 0.744
+    },
+    {
+      "id": "pharmacy_expansion",
+      "title": "Subsidise pharmacy expansion",
+      "rationale": "Pharmacy density is below 2 per 100k \u2014 medication access is constrained.",
+      "priority_score": 0.695
+    },
+    {
+      "id": "specialty_diversification",
+      "title": "Add specialist healthcare provision",
+      "rationale": "Only a narrow set of facility types are present; residents have to travel out of district for many services.",
+      "priority_score": 0.645
+    }
+  ],
+  "Western North::Bodi": [
+    {
+      "id": "build_phc",
+      "title": "Build additional primary healthcare centre",
+      "rationale": "Hospital + clinic supply is below 1.5 per 100k people, well under WHO primary-care benchmarks.",
+      "priority_score": 0.943
+    },
+    {
+      "id": "deploy_chps",
+      "title": "Deploy new CHPS compound",
+      "rationale": "Rural district with very low total facility density. A CHPS compound is the lowest-cost, highest-coverage intervention.",
+      "priority_score": 0.893
+    },
+    {
+      "id": "personnel_allocation",
+      "title": "Increase healthcare personnel allocation",
+      "rationale": "Even where physical infrastructure exists, this risk tier indicates under-staffing relative to need.",
+      "priority_score": 0.744
+    },
+    {
+      "id": "pharmacy_expansion",
+      "title": "Subsidise pharmacy expansion",
+      "rationale": "Pharmacy density is below 2 per 100k \u2014 medication access is constrained.",
+      "priority_score": 0.695
+    },
+    {
+      "id": "specialty_diversification",
+      "title": "Add specialist healthcare provision",
+      "rationale": "Only a narrow set of facility types are present; residents have to travel out of district for many services.",
+      "priority_score": 0.645
+    }
+  ],
+  "Savannah::Bole": [
+    {
+      "id": "build_phc",
+      "title": "Build additional primary healthcare centre",
+      "rationale": "Hospital + clinic supply is below 1.5 per 100k people, well under WHO primary-care benchmarks.",
+      "priority_score": 0.942
+    },
+    {
+      "id": "deploy_chps",
+      "title": "Deploy new CHPS compound",
+      "rationale": "Rural district with very low total facility density. A CHPS compound is the lowest-cost, highest-coverage intervention.",
+      "priority_score": 0.892
+    },
+    {
+      "id": "personnel_allocation",
+      "title": "Increase healthcare personnel allocation",
+      "rationale": "Even where physical infrastructure exists, this risk tier indicates under-staffing relative to need.",
+      "priority_score": 0.744
+    },
+    {
+      "id": "pharmacy_expansion",
+      "title": "Subsidise pharmacy expansion",
+      "rationale": "Pharmacy density is below 2 per 100k \u2014 medication access is constrained.",
+      "priority_score": 0.694
+    },
+    {
+      "id": "specialty_diversification",
+      "title": "Add specialist healthcare provision",
+      "rationale": "Only a narrow set of facility types are present; residents have to travel out of district for many services.",
+      "priority_score": 0.644
+    }
+  ],
+  "Bono::Dormaa West": [
+    {
+      "id": "build_phc",
+      "title": "Build additional primary healthcare centre",
+      "rationale": "Hospital + clinic supply is below 1.5 per 100k people, well under WHO primary-care benchmarks.",
+      "priority_score": 0.941
+    },
+    {
+      "id": "deploy_chps",
+      "title": "Deploy new CHPS compound",
+      "rationale": "Rural district with very low total facility density. A CHPS compound is the lowest-cost, highest-coverage intervention.",
+      "priority_score": 0.892
+    },
+    {
+      "id": "personnel_allocation",
+      "title": "Increase healthcare personnel allocation",
+      "rationale": "Even where physical infrastructure exists, this risk tier indicates under-staffing relative to need.",
+      "priority_score": 0.743
+    },
+    {
+      "id": "pharmacy_expansion",
+      "title": "Subsidise pharmacy expansion",
+      "rationale": "Pharmacy density is below 2 per 100k \u2014 medication access is constrained.",
+      "priority_score": 0.693
+    },
+    {
+      "id": "specialty_diversification",
+      "title": "Add specialist healthcare provision",
+      "rationale": "Only a narrow set of facility types are present; residents have to travel out of district for many services.",
+      "priority_score": 0.644
+    }
+  ],
+  "Bono::Berekum West": [
+    {
+      "id": "build_phc",
+      "title": "Build additional primary healthcare centre",
+      "rationale": "Hospital + clinic supply is below 1.5 per 100k people, well under WHO primary-care benchmarks.",
+      "priority_score": 0.941
+    },
+    {
+      "id": "deploy_chps",
+      "title": "Deploy new CHPS compound",
+      "rationale": "Rural district with very low total facility density. A CHPS compound is the lowest-cost, highest-coverage intervention.",
+      "priority_score": 0.892
+    },
+    {
+      "id": "personnel_allocation",
+      "title": "Increase healthcare personnel allocation",
+      "rationale": "Even where physical infrastructure exists, this risk tier indicates under-staffing relative to need.",
+      "priority_score": 0.743
+    },
+    {
+      "id": "pharmacy_expansion",
+      "title": "Subsidise pharmacy expansion",
+      "rationale": "Pharmacy density is below 2 per 100k \u2014 medication access is constrained.",
+      "priority_score": 0.693
+    },
+    {
+      "id": "specialty_diversification",
+      "title": "Add specialist healthcare provision",
+      "rationale": "Only a narrow set of facility types are present; residents have to travel out of district for many services.",
+      "priority_score": 0.644
+    }
+  ],
+  "Bono::Dormaa East": [
+    {
+      "id": "build_phc",
+      "title": "Build additional primary healthcare centre",
+      "rationale": "Hospital + clinic supply is below 1.5 per 100k people, well under WHO primary-care benchmarks.",
+      "priority_score": 0.941
+    },
+    {
+      "id": "deploy_chps",
+      "title": "Deploy new CHPS compound",
+      "rationale": "Rural district with very low total facility density. A CHPS compound is the lowest-cost, highest-coverage intervention.",
+      "priority_score": 0.892
+    },
+    {
+      "id": "personnel_allocation",
+      "title": "Increase healthcare personnel allocation",
+      "rationale": "Even where physical infrastructure exists, this risk tier indicates under-staffing relative to need.",
+      "priority_score": 0.743
+    },
+    {
+      "id": "pharmacy_expansion",
+      "title": "Subsidise pharmacy expansion",
+      "rationale": "Pharmacy density is below 2 per 100k \u2014 medication access is constrained.",
+      "priority_score": 0.693
+    },
+    {
+      "id": "specialty_diversification",
+      "title": "Add specialist healthcare provision",
+      "rationale": "Only a narrow set of facility types are present; residents have to travel out of district for many services.",
+      "priority_score": 0.644
+    }
+  ],
+  "Bono::Wenchi Municipal": [
+    {
+      "id": "build_phc",
+      "title": "Build additional primary healthcare centre",
+      "rationale": "Hospital + clinic supply is below 1.5 per 100k people, well under WHO primary-care benchmarks.",
+      "priority_score": 0.941
+    },
+    {
+      "id": "deploy_chps",
+      "title": "Deploy new CHPS compound",
+      "rationale": "Rural district with very low total facility density. A CHPS compound is the lowest-cost, highest-coverage intervention.",
+      "priority_score": 0.892
+    },
+    {
+      "id": "personnel_allocation",
+      "title": "Increase healthcare personnel allocation",
+      "rationale": "Even where physical infrastructure exists, this risk tier indicates under-staffing relative to need.",
+      "priority_score": 0.743
+    },
+    {
+      "id": "pharmacy_expansion",
+      "title": "Subsidise pharmacy expansion",
+      "rationale": "Pharmacy density is below 2 per 100k \u2014 medication access is constrained.",
+      "priority_score": 0.693
+    },
+    {
+      "id": "specialty_diversification",
+      "title": "Add specialist healthcare provision",
+      "rationale": "Only a narrow set of facility types are present; residents have to travel out of district for many services.",
+      "priority_score": 0.644
+    }
+  ],
+  "Upper West::Lawra": [
+    {
+      "id": "build_phc",
+      "title": "Build additional primary healthcare centre",
+      "rationale": "Hospital + clinic supply is below 1.5 per 100k people, well under WHO primary-care benchmarks.",
+      "priority_score": 0.94
+    },
+    {
+      "id": "deploy_chps",
+      "title": "Deploy new CHPS compound",
+      "rationale": "Rural district with very low total facility density. A CHPS compound is the lowest-cost, highest-coverage intervention.",
+      "priority_score": 0.891
+    },
+    {
+      "id": "personnel_allocation",
+      "title": "Increase healthcare personnel allocation",
+      "rationale": "Even where physical infrastructure exists, this risk tier indicates under-staffing relative to need.",
+      "priority_score": 0.742
+    },
+    {
+      "id": "pharmacy_expansion",
+      "title": "Subsidise pharmacy expansion",
+      "rationale": "Pharmacy density is below 2 per 100k \u2014 medication access is constrained.",
+      "priority_score": 0.693
+    },
+    {
+      "id": "specialty_diversification",
+      "title": "Add specialist healthcare provision",
+      "rationale": "Only a narrow set of facility types are present; residents have to travel out of district for many services.",
+      "priority_score": 0.643
+    }
+  ],
+  "Eastern::Kwahu East": [
+    {
+      "id": "build_phc",
+      "title": "Build additional primary healthcare centre",
+      "rationale": "Hospital + clinic supply is below 1.5 per 100k people, well under WHO primary-care benchmarks.",
+      "priority_score": 0.94
+    },
+    {
+      "id": "deploy_chps",
+      "title": "Deploy new CHPS compound",
+      "rationale": "Rural district with very low total facility density. A CHPS compound is the lowest-cost, highest-coverage intervention.",
+      "priority_score": 0.891
+    },
+    {
+      "id": "personnel_allocation",
+      "title": "Increase healthcare personnel allocation",
+      "rationale": "Even where physical infrastructure exists, this risk tier indicates under-staffing relative to need.",
+      "priority_score": 0.742
+    },
+    {
+      "id": "pharmacy_expansion",
+      "title": "Subsidise pharmacy expansion",
+      "rationale": "Pharmacy density is below 2 per 100k \u2014 medication access is constrained.",
+      "priority_score": 0.693
+    },
+    {
+      "id": "specialty_diversification",
+      "title": "Add specialist healthcare provision",
+      "rationale": "Only a narrow set of facility types are present; residents have to travel out of district for many services.",
+      "priority_score": 0.643
+    }
+  ],
+  "Eastern::Upper Manya": [
+    {
+      "id": "build_phc",
+      "title": "Build additional primary healthcare centre",
+      "rationale": "Hospital + clinic supply is below 1.5 per 100k people, well under WHO primary-care benchmarks.",
+      "priority_score": 0.94
+    },
+    {
+      "id": "deploy_chps",
+      "title": "Deploy new CHPS compound",
+      "rationale": "Rural district with very low total facility density. A CHPS compound is the lowest-cost, highest-coverage intervention.",
+      "priority_score": 0.891
+    },
+    {
+      "id": "personnel_allocation",
+      "title": "Increase healthcare personnel allocation",
+      "rationale": "Even where physical infrastructure exists, this risk tier indicates under-staffing relative to need.",
+      "priority_score": 0.742
+    },
+    {
+      "id": "pharmacy_expansion",
+      "title": "Subsidise pharmacy expansion",
+      "rationale": "Pharmacy density is below 2 per 100k \u2014 medication access is constrained.",
+      "priority_score": 0.693
+    },
+    {
+      "id": "specialty_diversification",
+      "title": "Add specialist healthcare provision",
+      "rationale": "Only a narrow set of facility types are present; residents have to travel out of district for many services.",
+      "priority_score": 0.643
+    }
+  ],
+  "Eastern::Denkyembour": [
+    {
+      "id": "build_phc",
+      "title": "Build additional primary healthcare centre",
+      "rationale": "Hospital + clinic supply is below 1.5 per 100k people, well under WHO primary-care benchmarks.",
+      "priority_score": 0.94
+    },
+    {
+      "id": "deploy_chps",
+      "title": "Deploy new CHPS compound",
+      "rationale": "Rural district with very low total facility density. A CHPS compound is the lowest-cost, highest-coverage intervention.",
+      "priority_score": 0.891
+    },
+    {
+      "id": "personnel_allocation",
+      "title": "Increase healthcare personnel allocation",
+      "rationale": "Even where physical infrastructure exists, this risk tier indicates under-staffing relative to need.",
+      "priority_score": 0.742
+    },
+    {
+      "id": "pharmacy_expansion",
+      "title": "Subsidise pharmacy expansion",
+      "rationale": "Pharmacy density is below 2 per 100k \u2014 medication access is constrained.",
+      "priority_score": 0.693
+    },
+    {
+      "id": "specialty_diversification",
+      "title": "Add specialist healthcare provision",
+      "rationale": "Only a narrow set of facility types are present; residents have to travel out of district for many services.",
+      "priority_score": 0.643
+    }
+  ],
+  "Eastern::West Akim": [
+    {
+      "id": "build_phc",
+      "title": "Build additional primary healthcare centre",
+      "rationale": "Hospital + clinic supply is below 1.5 per 100k people, well under WHO primary-care benchmarks.",
+      "priority_score": 0.94
+    },
+    {
+      "id": "deploy_chps",
+      "title": "Deploy new CHPS compound",
+      "rationale": "Rural district with very low total facility density. A CHPS compound is the lowest-cost, highest-coverage intervention.",
+      "priority_score": 0.891
+    },
+    {
+      "id": "personnel_allocation",
+      "title": "Increase healthcare personnel allocation",
+      "rationale": "Even where physical infrastructure exists, this risk tier indicates under-staffing relative to need.",
+      "priority_score": 0.742
+    },
+    {
+      "id": "pharmacy_expansion",
+      "title": "Subsidise pharmacy expansion",
+      "rationale": "Pharmacy density is below 2 per 100k \u2014 medication access is constrained.",
+      "priority_score": 0.693
+    },
+    {
+      "id": "specialty_diversification",
+      "title": "Add specialist healthcare provision",
+      "rationale": "Only a narrow set of facility types are present; residents have to travel out of district for many services.",
+      "priority_score": 0.643
+    }
+  ],
+  "Eastern::Achiase": [
+    {
+      "id": "build_phc",
+      "title": "Build additional primary healthcare centre",
+      "rationale": "Hospital + clinic supply is below 1.5 per 100k people, well under WHO primary-care benchmarks.",
+      "priority_score": 0.94
+    },
+    {
+      "id": "deploy_chps",
+      "title": "Deploy new CHPS compound",
+      "rationale": "Rural district with very low total facility density. A CHPS compound is the lowest-cost, highest-coverage intervention.",
+      "priority_score": 0.891
+    },
+    {
+      "id": "personnel_allocation",
+      "title": "Increase healthcare personnel allocation",
+      "rationale": "Even where physical infrastructure exists, this risk tier indicates under-staffing relative to need.",
+      "priority_score": 0.742
+    },
+    {
+      "id": "pharmacy_expansion",
+      "title": "Subsidise pharmacy expansion",
+      "rationale": "Pharmacy density is below 2 per 100k \u2014 medication access is constrained.",
+      "priority_score": 0.693
+    },
+    {
+      "id": "specialty_diversification",
+      "title": "Add specialist healthcare provision",
+      "rationale": "Only a narrow set of facility types are present; residents have to travel out of district for many services.",
+      "priority_score": 0.643
+    }
+  ],
+  "Upper East::Bongo": [
+    {
+      "id": "build_phc",
+      "title": "Build additional primary healthcare centre",
+      "rationale": "Hospital + clinic supply is below 1.5 per 100k people, well under WHO primary-care benchmarks.",
+      "priority_score": 0.94
+    },
+    {
+      "id": "deploy_chps",
+      "title": "Deploy new CHPS compound",
+      "rationale": "Rural district with very low total facility density. A CHPS compound is the lowest-cost, highest-coverage intervention.",
+      "priority_score": 0.891
+    },
+    {
+      "id": "personnel_allocation",
+      "title": "Increase healthcare personnel allocation",
+      "rationale": "Even where physical infrastructure exists, this risk tier indicates under-staffing relative to need.",
+      "priority_score": 0.742
+    },
+    {
+      "id": "pharmacy_expansion",
+      "title": "Subsidise pharmacy expansion",
+      "rationale": "Pharmacy density is below 2 per 100k \u2014 medication access is constrained.",
+      "priority_score": 0.693
+    },
+    {
+      "id": "specialty_diversification",
+      "title": "Add specialist healthcare provision",
+      "rationale": "Only a narrow set of facility types are present; residents have to travel out of district for many services.",
+      "priority_score": 0.643
+    }
+  ],
+  "Upper East::Garu": [
+    {
+      "id": "build_phc",
+      "title": "Build additional primary healthcare centre",
+      "rationale": "Hospital + clinic supply is below 1.5 per 100k people, well under WHO primary-care benchmarks.",
+      "priority_score": 0.94
+    },
+    {
+      "id": "deploy_chps",
+      "title": "Deploy new CHPS compound",
+      "rationale": "Rural district with very low total facility density. A CHPS compound is the lowest-cost, highest-coverage intervention.",
+      "priority_score": 0.891
+    },
+    {
+      "id": "personnel_allocation",
+      "title": "Increase healthcare personnel allocation",
+      "rationale": "Even where physical infrastructure exists, this risk tier indicates under-staffing relative to need.",
+      "priority_score": 0.742
+    },
+    {
+      "id": "pharmacy_expansion",
+      "title": "Subsidise pharmacy expansion",
+      "rationale": "Pharmacy density is below 2 per 100k \u2014 medication access is constrained.",
+      "priority_score": 0.693
+    },
+    {
+      "id": "specialty_diversification",
+      "title": "Add specialist healthcare provision",
+      "rationale": "Only a narrow set of facility types are present; residents have to travel out of district for many services.",
+      "priority_score": 0.643
+    }
+  ],
+  "Eastern::Nsawam Adoagyiri": [
+    {
+      "id": "build_phc",
+      "title": "Build additional primary healthcare centre",
+      "rationale": "Hospital + clinic supply is below 1.5 per 100k people, well under WHO primary-care benchmarks.",
+      "priority_score": 0.939
+    },
+    {
+      "id": "deploy_chps",
+      "title": "Deploy new CHPS compound",
+      "rationale": "Rural district with very low total facility density. A CHPS compound is the lowest-cost, highest-coverage intervention.",
+      "priority_score": 0.89
+    },
+    {
+      "id": "personnel_allocation",
+      "title": "Increase healthcare personnel allocation",
+      "rationale": "Even where physical infrastructure exists, this risk tier indicates under-staffing relative to need.",
+      "priority_score": 0.741
+    },
+    {
+      "id": "pharmacy_expansion",
+      "title": "Subsidise pharmacy expansion",
+      "rationale": "Pharmacy density is below 2 per 100k \u2014 medication access is constrained.",
+      "priority_score": 0.692
+    },
+    {
+      "id": "specialty_diversification",
+      "title": "Add specialist healthcare provision",
+      "rationale": "Only a narrow set of facility types are present; residents have to travel out of district for many services.",
+      "priority_score": 0.643
+    }
+  ],
+  "Ahafo::Tano North Municipal": [
+    {
+      "id": "build_phc",
+      "title": "Build additional primary healthcare centre",
+      "rationale": "Hospital + clinic supply is below 1.5 per 100k people, well under WHO primary-care benchmarks.",
+      "priority_score": 0.938
+    },
+    {
+      "id": "deploy_chps",
+      "title": "Deploy new CHPS compound",
+      "rationale": "Rural district with very low total facility density. A CHPS compound is the lowest-cost, highest-coverage intervention.",
+      "priority_score": 0.889
+    },
+    {
+      "id": "personnel_allocation",
+      "title": "Increase healthcare personnel allocation",
+      "rationale": "Even where physical infrastructure exists, this risk tier indicates under-staffing relative to need.",
+      "priority_score": 0.741
+    },
+    {
+      "id": "pharmacy_expansion",
+      "title": "Subsidise pharmacy expansion",
+      "rationale": "Pharmacy density is below 2 per 100k \u2014 medication access is constrained.",
+      "priority_score": 0.691
+    },
+    {
+      "id": "specialty_diversification",
+      "title": "Add specialist healthcare provision",
+      "rationale": "Only a narrow set of facility types are present; residents have to travel out of district for many services.",
+      "priority_score": 0.642
+    }
+  ],
+  "Savannah::Central Gonja": [
+    {
+      "id": "deploy_chps",
+      "title": "Deploy new CHPS compound",
+      "rationale": "Rural district with very low total facility density. A CHPS compound is the lowest-cost, highest-coverage intervention.",
+      "priority_score": 0.883
+    },
+    {
+      "id": "mobile_clinic",
+      "title": "Deploy mobile clinic services",
+      "rationale": "Facilities are sparsely distributed (median nearest-neighbour distance > 15 km). Mobile units bridge the gap.",
+      "priority_score": 0.834
+    },
+    {
+      "id": "personnel_allocation",
+      "title": "Increase healthcare personnel allocation",
+      "rationale": "Even where physical infrastructure exists, this risk tier indicates under-staffing relative to need.",
+      "priority_score": 0.736
+    },
+    {
+      "id": "pharmacy_expansion",
+      "title": "Subsidise pharmacy expansion",
+      "rationale": "Pharmacy density is below 2 per 100k \u2014 medication access is constrained.",
+      "priority_score": 0.687
+    },
+    {
+      "id": "specialty_diversification",
+      "title": "Add specialist healthcare provision",
+      "rationale": "Only a narrow set of facility types are present; residents have to travel out of district for many services.",
+      "priority_score": 0.638
+    }
+  ],
+  "Greater Accra::Ada East": [
+    {
+      "id": "build_phc",
+      "title": "Build additional primary healthcare centre",
+      "rationale": "Hospital + clinic supply is below 1.5 per 100k people, well under WHO primary-care benchmarks.",
+      "priority_score": 0.927
+    },
+    {
+      "id": "deploy_chps",
+      "title": "Deploy new CHPS compound",
+      "rationale": "Rural district with very low total facility density. A CHPS compound is the lowest-cost, highest-coverage intervention.",
+      "priority_score": 0.878
+    },
+    {
+      "id": "personnel_allocation",
+      "title": "Increase healthcare personnel allocation",
+      "rationale": "Even where physical infrastructure exists, this risk tier indicates under-staffing relative to need.",
+      "priority_score": 0.732
+    },
+    {
+      "id": "pharmacy_expansion",
+      "title": "Subsidise pharmacy expansion",
+      "rationale": "Pharmacy density is below 2 per 100k \u2014 medication access is constrained.",
+      "priority_score": 0.683
+    },
+    {
+      "id": "specialty_diversification",
+      "title": "Add specialist healthcare provision",
+      "rationale": "Only a narrow set of facility types are present; residents have to travel out of district for many services.",
+      "priority_score": 0.634
+    }
+  ],
+  "Ashanti::Sekyere South": [
+    {
+      "id": "build_phc",
+      "title": "Build additional primary healthcare centre",
+      "rationale": "Hospital + clinic supply is below 1.5 per 100k people, well under WHO primary-care benchmarks.",
+      "priority_score": 0.926
+    },
+    {
+      "id": "deploy_chps",
+      "title": "Deploy new CHPS compound",
+      "rationale": "Rural district with very low total facility density. A CHPS compound is the lowest-cost, highest-coverage intervention.",
+      "priority_score": 0.877
+    },
+    {
+      "id": "personnel_allocation",
+      "title": "Increase healthcare personnel allocation",
+      "rationale": "Even where physical infrastructure exists, this risk tier indicates under-staffing relative to need.",
+      "priority_score": 0.731
+    },
+    {
+      "id": "pharmacy_expansion",
+      "title": "Subsidise pharmacy expansion",
+      "rationale": "Pharmacy density is below 2 per 100k \u2014 medication access is constrained.",
+      "priority_score": 0.682
+    },
+    {
+      "id": "specialty_diversification",
+      "title": "Add specialist healthcare provision",
+      "rationale": "Only a narrow set of facility types are present; residents have to travel out of district for many services.",
+      "priority_score": 0.634
+    }
+  ],
+  "Ashanti::Asokwa  Municipal": [
+    {
+      "id": "build_phc",
+      "title": "Build additional primary healthcare centre",
+      "rationale": "Hospital + clinic supply is below 1.5 per 100k people, well under WHO primary-care benchmarks.",
+      "priority_score": 0.926
+    },
+    {
+      "id": "deploy_chps",
+      "title": "Deploy new CHPS compound",
+      "rationale": "Rural district with very low total facility density. A CHPS compound is the lowest-cost, highest-coverage intervention.",
+      "priority_score": 0.877
+    },
+    {
+      "id": "personnel_allocation",
+      "title": "Increase healthcare personnel allocation",
+      "rationale": "Even where physical infrastructure exists, this risk tier indicates under-staffing relative to need.",
+      "priority_score": 0.731
+    },
+    {
+      "id": "pharmacy_expansion",
+      "title": "Subsidise pharmacy expansion",
+      "rationale": "Pharmacy density is below 2 per 100k \u2014 medication access is constrained.",
+      "priority_score": 0.682
+    },
+    {
+      "id": "specialty_diversification",
+      "title": "Add specialist healthcare provision",
+      "rationale": "Only a narrow set of facility types are present; residents have to travel out of district for many services.",
+      "priority_score": 0.634
+    }
+  ],
+  "Ashanti::Atwima Mponua": [
+    {
+      "id": "build_phc",
+      "title": "Build additional primary healthcare centre",
+      "rationale": "Hospital + clinic supply is below 1.5 per 100k people, well under WHO primary-care benchmarks.",
+      "priority_score": 0.926
+    },
+    {
+      "id": "deploy_chps",
+      "title": "Deploy new CHPS compound",
+      "rationale": "Rural district with very low total facility density. A CHPS compound is the lowest-cost, highest-coverage intervention.",
+      "priority_score": 0.877
+    },
+    {
+      "id": "personnel_allocation",
+      "title": "Increase healthcare personnel allocation",
+      "rationale": "Even where physical infrastructure exists, this risk tier indicates under-staffing relative to need.",
+      "priority_score": 0.731
+    },
+    {
+      "id": "pharmacy_expansion",
+      "title": "Subsidise pharmacy expansion",
+      "rationale": "Pharmacy density is below 2 per 100k \u2014 medication access is constrained.",
+      "priority_score": 0.682
+    },
+    {
+      "id": "specialty_diversification",
+      "title": "Add specialist healthcare provision",
+      "rationale": "Only a narrow set of facility types are present; residents have to travel out of district for many services.",
+      "priority_score": 0.634
+    }
+  ],
+  "Ashanti::Ahafo Ano North": [
+    {
+      "id": "build_phc",
+      "title": "Build additional primary healthcare centre",
+      "rationale": "Hospital + clinic supply is below 1.5 per 100k people, well under WHO primary-care benchmarks.",
+      "priority_score": 0.926
+    },
+    {
+      "id": "deploy_chps",
+      "title": "Deploy new CHPS compound",
+      "rationale": "Rural district with very low total facility density. A CHPS compound is the lowest-cost, highest-coverage intervention.",
+      "priority_score": 0.877
+    },
+    {
+      "id": "personnel_allocation",
+      "title": "Increase healthcare personnel allocation",
+      "rationale": "Even where physical infrastructure exists, this risk tier indicates under-staffing relative to need.",
+      "priority_score": 0.731
+    },
+    {
+      "id": "pharmacy_expansion",
+      "title": "Subsidise pharmacy expansion",
+      "rationale": "Pharmacy density is below 2 per 100k \u2014 medication access is constrained.",
+      "priority_score": 0.682
+    },
+    {
+      "id": "specialty_diversification",
+      "title": "Add specialist healthcare provision",
+      "rationale": "Only a narrow set of facility types are present; residents have to travel out of district for many services.",
+      "priority_score": 0.634
+    }
+  ],
+  "Ashanti::Ahafo Ano South East": [
+    {
+      "id": "build_phc",
+      "title": "Build additional primary healthcare centre",
+      "rationale": "Hospital + clinic supply is below 1.5 per 100k people, well under WHO primary-care benchmarks.",
+      "priority_score": 0.926
+    },
+    {
+      "id": "deploy_chps",
+      "title": "Deploy new CHPS compound",
+      "rationale": "Rural district with very low total facility density. A CHPS compound is the lowest-cost, highest-coverage intervention.",
+      "priority_score": 0.877
+    },
+    {
+      "id": "personnel_allocation",
+      "title": "Increase healthcare personnel allocation",
+      "rationale": "Even where physical infrastructure exists, this risk tier indicates under-staffing relative to need.",
+      "priority_score": 0.731
+    },
+    {
+      "id": "pharmacy_expansion",
+      "title": "Subsidise pharmacy expansion",
+      "rationale": "Pharmacy density is below 2 per 100k \u2014 medication access is constrained.",
+      "priority_score": 0.682
+    },
+    {
+      "id": "specialty_diversification",
+      "title": "Add specialist healthcare provision",
+      "rationale": "Only a narrow set of facility types are present; residents have to travel out of district for many services.",
+      "priority_score": 0.634
+    }
+  ],
+  "Savannah::Sawla-Tuna-Kalba": [
+    {
+      "id": "build_phc",
+      "title": "Build additional primary healthcare centre",
+      "rationale": "Hospital + clinic supply is below 1.5 per 100k people, well under WHO primary-care benchmarks.",
+      "priority_score": 0.925
+    },
+    {
+      "id": "deploy_chps",
+      "title": "Deploy new CHPS compound",
+      "rationale": "Rural district with very low total facility density. A CHPS compound is the lowest-cost, highest-coverage intervention.",
+      "priority_score": 0.877
+    },
+    {
+      "id": "personnel_allocation",
+      "title": "Increase healthcare personnel allocation",
+      "rationale": "Even where physical infrastructure exists, this risk tier indicates under-staffing relative to need.",
+      "priority_score": 0.73
+    },
+    {
+      "id": "pharmacy_expansion",
+      "title": "Subsidise pharmacy expansion",
+      "rationale": "Pharmacy density is below 2 per 100k \u2014 medication access is constrained.",
+      "priority_score": 0.682
+    },
+    {
+      "id": "specialty_diversification",
+      "title": "Add specialist healthcare provision",
+      "rationale": "Only a narrow set of facility types are present; residents have to travel out of district for many services.",
+      "priority_score": 0.633
+    }
+  ],
+  "Central::Ajumako-Enyan-Essiam": [
+    {
+      "id": "build_phc",
+      "title": "Build additional primary healthcare centre",
+      "rationale": "Hospital + clinic supply is below 1.5 per 100k people, well under WHO primary-care benchmarks.",
+      "priority_score": 0.924
+    },
+    {
+      "id": "deploy_chps",
+      "title": "Deploy new CHPS compound",
+      "rationale": "Rural district with very low total facility density. A CHPS compound is the lowest-cost, highest-coverage intervention.",
+      "priority_score": 0.875
+    },
+    {
+      "id": "personnel_allocation",
+      "title": "Increase healthcare personnel allocation",
+      "rationale": "Even where physical infrastructure exists, this risk tier indicates under-staffing relative to need.",
+      "priority_score": 0.729
+    },
+    {
+      "id": "pharmacy_expansion",
+      "title": "Subsidise pharmacy expansion",
+      "rationale": "Pharmacy density is below 2 per 100k \u2014 medication access is constrained.",
+      "priority_score": 0.681
+    },
+    {
+      "id": "specialty_diversification",
+      "title": "Add specialist healthcare provision",
+      "rationale": "Only a narrow set of facility types are present; residents have to travel out of district for many services.",
+      "priority_score": 0.632
+    }
+  ],
+  "Upper East::Builsa North": [
+    {
+      "id": "build_phc",
+      "title": "Build additional primary healthcare centre",
+      "rationale": "Hospital + clinic supply is below 1.5 per 100k people, well under WHO primary-care benchmarks.",
+      "priority_score": 0.923
+    },
+    {
+      "id": "deploy_chps",
+      "title": "Deploy new CHPS compound",
+      "rationale": "Rural district with very low total facility density. A CHPS compound is the lowest-cost, highest-coverage intervention.",
+      "priority_score": 0.874
+    },
+    {
+      "id": "personnel_allocation",
+      "title": "Increase healthcare personnel allocation",
+      "rationale": "Even where physical infrastructure exists, this risk tier indicates under-staffing relative to need.",
+      "priority_score": 0.729
+    },
+    {
+      "id": "pharmacy_expansion",
+      "title": "Subsidise pharmacy expansion",
+      "rationale": "Pharmacy density is below 2 per 100k \u2014 medication access is constrained.",
+      "priority_score": 0.68
+    },
+    {
+      "id": "specialty_diversification",
+      "title": "Add specialist healthcare provision",
+      "rationale": "Only a narrow set of facility types are present; residents have to travel out of district for many services.",
+      "priority_score": 0.632
+    }
+  ],
+  "Eastern::Okere": [
+    {
+      "id": "build_phc",
+      "title": "Build additional primary healthcare centre",
+      "rationale": "Hospital + clinic supply is below 1.5 per 100k people, well under WHO primary-care benchmarks.",
+      "priority_score": 0.919
+    },
+    {
+      "id": "deploy_chps",
+      "title": "Deploy new CHPS compound",
+      "rationale": "Rural district with very low total facility density. A CHPS compound is the lowest-cost, highest-coverage intervention.",
+      "priority_score": 0.871
+    },
+    {
+      "id": "personnel_allocation",
+      "title": "Increase healthcare personnel allocation",
+      "rationale": "Even where physical infrastructure exists, this risk tier indicates under-staffing relative to need.",
+      "priority_score": 0.726
+    },
+    {
+      "id": "pharmacy_expansion",
+      "title": "Subsidise pharmacy expansion",
+      "rationale": "Pharmacy density is below 2 per 100k \u2014 medication access is constrained.",
+      "priority_score": 0.677
+    },
+    {
+      "id": "specialty_diversification",
+      "title": "Add specialist healthcare provision",
+      "rationale": "Only a narrow set of facility types are present; residents have to travel out of district for many services.",
+      "priority_score": 0.629
+    }
+  ],
+  "Volta::Ketu North": [
+    {
+      "id": "build_phc",
+      "title": "Build additional primary healthcare centre",
+      "rationale": "Hospital + clinic supply is below 1.5 per 100k people, well under WHO primary-care benchmarks.",
+      "priority_score": 0.917
+    },
+    {
+      "id": "deploy_chps",
+      "title": "Deploy new CHPS compound",
+      "rationale": "Rural district with very low total facility density. A CHPS compound is the lowest-cost, highest-coverage intervention.",
+      "priority_score": 0.868
+    },
+    {
+      "id": "personnel_allocation",
+      "title": "Increase healthcare personnel allocation",
+      "rationale": "Even where physical infrastructure exists, this risk tier indicates under-staffing relative to need.",
+      "priority_score": 0.724
+    },
+    {
+      "id": "pharmacy_expansion",
+      "title": "Subsidise pharmacy expansion",
+      "rationale": "Pharmacy density is below 2 per 100k \u2014 medication access is constrained.",
+      "priority_score": 0.675
+    },
+    {
+      "id": "specialty_diversification",
+      "title": "Add specialist healthcare provision",
+      "rationale": "Only a narrow set of facility types are present; residents have to travel out of district for many services.",
+      "priority_score": 0.627
+    }
+  ],
+  "Volta::Agotime Ziope": [
+    {
+      "id": "build_phc",
+      "title": "Build additional primary healthcare centre",
+      "rationale": "Hospital + clinic supply is below 1.5 per 100k people, well under WHO primary-care benchmarks.",
+      "priority_score": 0.917
+    },
+    {
+      "id": "deploy_chps",
+      "title": "Deploy new CHPS compound",
+      "rationale": "Rural district with very low total facility density. A CHPS compound is the lowest-cost, highest-coverage intervention.",
+      "priority_score": 0.868
+    },
+    {
+      "id": "personnel_allocation",
+      "title": "Increase healthcare personnel allocation",
+      "rationale": "Even where physical infrastructure exists, this risk tier indicates under-staffing relative to need.",
+      "priority_score": 0.724
+    },
+    {
+      "id": "pharmacy_expansion",
+      "title": "Subsidise pharmacy expansion",
+      "rationale": "Pharmacy density is below 2 per 100k \u2014 medication access is constrained.",
+      "priority_score": 0.675
+    },
+    {
+      "id": "specialty_diversification",
+      "title": "Add specialist healthcare provision",
+      "rationale": "Only a narrow set of facility types are present; residents have to travel out of district for many services.",
+      "priority_score": 0.627
+    }
+  ],
+  "Volta::North Tongu": [
+    {
+      "id": "build_phc",
+      "title": "Build additional primary healthcare centre",
+      "rationale": "Hospital + clinic supply is below 1.5 per 100k people, well under WHO primary-care benchmarks.",
+      "priority_score": 0.917
+    },
+    {
+      "id": "deploy_chps",
+      "title": "Deploy new CHPS compound",
+      "rationale": "Rural district with very low total facility density. A CHPS compound is the lowest-cost, highest-coverage intervention.",
+      "priority_score": 0.868
+    },
+    {
+      "id": "personnel_allocation",
+      "title": "Increase healthcare personnel allocation",
+      "rationale": "Even where physical infrastructure exists, this risk tier indicates under-staffing relative to need.",
+      "priority_score": 0.724
+    },
+    {
+      "id": "pharmacy_expansion",
+      "title": "Subsidise pharmacy expansion",
+      "rationale": "Pharmacy density is below 2 per 100k \u2014 medication access is constrained.",
+      "priority_score": 0.675
+    },
+    {
+      "id": "specialty_diversification",
+      "title": "Add specialist healthcare provision",
+      "rationale": "Only a narrow set of facility types are present; residents have to travel out of district for many services.",
+      "priority_score": 0.627
+    }
+  ],
+  "Oti::Krachi West": [
+    {
+      "id": "build_phc",
+      "title": "Build additional primary healthcare centre",
+      "rationale": "Hospital + clinic supply is below 1.5 per 100k people, well under WHO primary-care benchmarks.",
+      "priority_score": 0.916
+    },
+    {
+      "id": "deploy_chps",
+      "title": "Deploy new CHPS compound",
+      "rationale": "Rural district with very low total facility density. A CHPS compound is the lowest-cost, highest-coverage intervention.",
+      "priority_score": 0.868
+    },
+    {
+      "id": "personnel_allocation",
+      "title": "Increase healthcare personnel allocation",
+      "rationale": "Even where physical infrastructure exists, this risk tier indicates under-staffing relative to need.",
+      "priority_score": 0.723
+    },
+    {
+      "id": "pharmacy_expansion",
+      "title": "Subsidise pharmacy expansion",
+      "rationale": "Pharmacy density is below 2 per 100k \u2014 medication access is constrained.",
+      "priority_score": 0.675
+    },
+    {
+      "id": "specialty_diversification",
+      "title": "Add specialist healthcare provision",
+      "rationale": "Only a narrow set of facility types are present; residents have to travel out of district for many services.",
+      "priority_score": 0.627
+    }
+  ],
+  "Ashanti::Kwabre East": [
+    {
+      "id": "build_phc",
+      "title": "Build additional primary healthcare centre",
+      "rationale": "Hospital + clinic supply is below 1.5 per 100k people, well under WHO primary-care benchmarks.",
+      "priority_score": 0.915
+    },
+    {
+      "id": "deploy_chps",
+      "title": "Deploy new CHPS compound",
+      "rationale": "Rural district with very low total facility density. A CHPS compound is the lowest-cost, highest-coverage intervention.",
+      "priority_score": 0.867
+    },
+    {
+      "id": "personnel_allocation",
+      "title": "Increase healthcare personnel allocation",
+      "rationale": "Even where physical infrastructure exists, this risk tier indicates under-staffing relative to need.",
+      "priority_score": 0.723
+    },
+    {
+      "id": "specialty_diversification",
+      "title": "Add specialist healthcare provision",
+      "rationale": "Only a narrow set of facility types are present; residents have to travel out of district for many services.",
+      "priority_score": 0.626
+    }
+  ],
+  "Greater Accra::Ga Central Municipal": [
+    {
+      "id": "build_phc",
+      "title": "Build additional primary healthcare centre",
+      "rationale": "Hospital + clinic supply is below 1.5 per 100k people, well under WHO primary-care benchmarks.",
+      "priority_score": 0.91
+    },
+    {
+      "id": "personnel_allocation",
+      "title": "Increase healthcare personnel allocation",
+      "rationale": "Even where physical infrastructure exists, this risk tier indicates under-staffing relative to need.",
+      "priority_score": 0.718
+    },
+    {
+      "id": "specialty_diversification",
+      "title": "Add specialist healthcare provision",
+      "rationale": "Only a narrow set of facility types are present; residents have to travel out of district for many services.",
+      "priority_score": 0.623
+    }
+  ],
+  "Western::Ahanta West Municipal": [
+    {
+      "id": "build_phc",
+      "title": "Build additional primary healthcare centre",
+      "rationale": "Hospital + clinic supply is below 1.5 per 100k people, well under WHO primary-care benchmarks.",
+      "priority_score": 0.908
+    },
+    {
+      "id": "deploy_chps",
+      "title": "Deploy new CHPS compound",
+      "rationale": "Rural district with very low total facility density. A CHPS compound is the lowest-cost, highest-coverage intervention.",
+      "priority_score": 0.86
+    },
+    {
+      "id": "personnel_allocation",
+      "title": "Increase healthcare personnel allocation",
+      "rationale": "Even where physical infrastructure exists, this risk tier indicates under-staffing relative to need.",
+      "priority_score": 0.717
+    },
+    {
+      "id": "pharmacy_expansion",
+      "title": "Subsidise pharmacy expansion",
+      "rationale": "Pharmacy density is below 2 per 100k \u2014 medication access is constrained.",
+      "priority_score": 0.669
+    }
+  ],
+  "Eastern::Asuogyaman": [
+    {
+      "id": "build_phc",
+      "title": "Build additional primary healthcare centre",
+      "rationale": "Hospital + clinic supply is below 1.5 per 100k people, well under WHO primary-care benchmarks.",
+      "priority_score": 0.907
+    },
+    {
+      "id": "deploy_chps",
+      "title": "Deploy new CHPS compound",
+      "rationale": "Rural district with very low total facility density. A CHPS compound is the lowest-cost, highest-coverage intervention.",
+      "priority_score": 0.859
+    },
+    {
+      "id": "personnel_allocation",
+      "title": "Increase healthcare personnel allocation",
+      "rationale": "Even where physical infrastructure exists, this risk tier indicates under-staffing relative to need.",
+      "priority_score": 0.716
+    },
+    {
+      "id": "specialty_diversification",
+      "title": "Add specialist healthcare provision",
+      "rationale": "Only a narrow set of facility types are present; residents have to travel out of district for many services.",
+      "priority_score": 0.621
+    }
+  ],
+  "Eastern::Fanteakwa South": [
+    {
+      "id": "build_phc",
+      "title": "Build additional primary healthcare centre",
+      "rationale": "Hospital + clinic supply is below 1.5 per 100k people, well under WHO primary-care benchmarks.",
+      "priority_score": 0.907
+    },
+    {
+      "id": "deploy_chps",
+      "title": "Deploy new CHPS compound",
+      "rationale": "Rural district with very low total facility density. A CHPS compound is the lowest-cost, highest-coverage intervention.",
+      "priority_score": 0.859
+    },
+    {
+      "id": "personnel_allocation",
+      "title": "Increase healthcare personnel allocation",
+      "rationale": "Even where physical infrastructure exists, this risk tier indicates under-staffing relative to need.",
+      "priority_score": 0.716
+    },
+    {
+      "id": "specialty_diversification",
+      "title": "Add specialist healthcare provision",
+      "rationale": "Only a narrow set of facility types are present; residents have to travel out of district for many services.",
+      "priority_score": 0.621
+    }
+  ],
+  "Eastern::Abuakwa North": [
+    {
+      "id": "build_phc",
+      "title": "Build additional primary healthcare centre",
+      "rationale": "Hospital + clinic supply is below 1.5 per 100k people, well under WHO primary-care benchmarks.",
+      "priority_score": 0.907
+    },
+    {
+      "id": "deploy_chps",
+      "title": "Deploy new CHPS compound",
+      "rationale": "Rural district with very low total facility density. A CHPS compound is the lowest-cost, highest-coverage intervention.",
+      "priority_score": 0.859
+    },
+    {
+      "id": "personnel_allocation",
+      "title": "Increase healthcare personnel allocation",
+      "rationale": "Even where physical infrastructure exists, this risk tier indicates under-staffing relative to need.",
+      "priority_score": 0.716
+    },
+    {
+      "id": "specialty_diversification",
+      "title": "Add specialist healthcare provision",
+      "rationale": "Only a narrow set of facility types are present; residents have to travel out of district for many services.",
+      "priority_score": 0.621
+    }
+  ],
+  "Oti::Krachi Nchumuru": [
+    {
+      "id": "build_phc",
+      "title": "Build additional primary healthcare centre",
+      "rationale": "Hospital + clinic supply is below 1.5 per 100k people, well under WHO primary-care benchmarks.",
+      "priority_score": 0.901
+    },
+    {
+      "id": "personnel_allocation",
+      "title": "Increase healthcare personnel allocation",
+      "rationale": "Even where physical infrastructure exists, this risk tier indicates under-staffing relative to need.",
+      "priority_score": 0.711
+    },
+    {
+      "id": "specialty_diversification",
+      "title": "Add specialist healthcare provision",
+      "rationale": "Only a narrow set of facility types are present; residents have to travel out of district for many services.",
+      "priority_score": 0.617
+    }
+  ],
+  "Upper West::Wa East": [
+    {
+      "id": "build_phc",
+      "title": "Build additional primary healthcare centre",
+      "rationale": "Hospital + clinic supply is below 1.5 per 100k people, well under WHO primary-care benchmarks.",
+      "priority_score": 0.901
+    },
+    {
+      "id": "personnel_allocation",
+      "title": "Increase healthcare personnel allocation",
+      "rationale": "Even where physical infrastructure exists, this risk tier indicates under-staffing relative to need.",
+      "priority_score": 0.711
+    },
+    {
+      "id": "specialty_diversification",
+      "title": "Add specialist healthcare provision",
+      "rationale": "Only a narrow set of facility types are present; residents have to travel out of district for many services.",
+      "priority_score": 0.616
+    }
+  ],
+  "Northern::Yendi Municipal": [
+    {
+      "id": "build_phc",
+      "title": "Build additional primary healthcare centre",
+      "rationale": "Hospital + clinic supply is below 1.5 per 100k people, well under WHO primary-care benchmarks.",
+      "priority_score": 0.899
+    },
+    {
+      "id": "deploy_chps",
+      "title": "Deploy new CHPS compound",
+      "rationale": "Rural district with very low total facility density. A CHPS compound is the lowest-cost, highest-coverage intervention.",
+      "priority_score": 0.851
+    },
+    {
+      "id": "personnel_allocation",
+      "title": "Increase healthcare personnel allocation",
+      "rationale": "Even where physical infrastructure exists, this risk tier indicates under-staffing relative to need.",
+      "priority_score": 0.709
+    },
+    {
+      "id": "pharmacy_expansion",
+      "title": "Subsidise pharmacy expansion",
+      "rationale": "Pharmacy density is below 2 per 100k \u2014 medication access is constrained.",
+      "priority_score": 0.662
+    }
+  ],
+  "Bono::Tain": [
+    {
+      "id": "deploy_chps",
+      "title": "Deploy new CHPS compound",
+      "rationale": "Rural district with very low total facility density. A CHPS compound is the lowest-cost, highest-coverage intervention.",
+      "priority_score": 0.839
+    },
+    {
+      "id": "mobile_clinic",
+      "title": "Deploy mobile clinic services",
+      "rationale": "Facilities are sparsely distributed (median nearest-neighbour distance > 15 km). Mobile units bridge the gap.",
+      "priority_score": 0.793
+    },
+    {
+      "id": "personnel_allocation",
+      "title": "Increase healthcare personnel allocation",
+      "rationale": "Even where physical infrastructure exists, this risk tier indicates under-staffing relative to need.",
+      "priority_score": 0.699
+    },
+    {
+      "id": "pharmacy_expansion",
+      "title": "Subsidise pharmacy expansion",
+      "rationale": "Pharmacy density is below 2 per 100k \u2014 medication access is constrained.",
+      "priority_score": 0.653
+    },
+    {
+      "id": "specialty_diversification",
+      "title": "Add specialist healthcare provision",
+      "rationale": "Only a narrow set of facility types are present; residents have to travel out of district for many services.",
+      "priority_score": 0.606
+    }
+  ],
+  "Upper West::Daffiama Bussie Issa": [
+    {
+      "id": "deploy_chps",
+      "title": "Deploy new CHPS compound",
+      "rationale": "Rural district with very low total facility density. A CHPS compound is the lowest-cost, highest-coverage intervention.",
+      "priority_score": 0.838
+    },
+    {
+      "id": "mobile_clinic",
+      "title": "Deploy mobile clinic services",
+      "rationale": "Facilities are sparsely distributed (median nearest-neighbour distance > 15 km). Mobile units bridge the gap.",
+      "priority_score": 0.792
+    },
+    {
+      "id": "personnel_allocation",
+      "title": "Increase healthcare personnel allocation",
+      "rationale": "Even where physical infrastructure exists, this risk tier indicates under-staffing relative to need.",
+      "priority_score": 0.699
+    },
+    {
+      "id": "pharmacy_expansion",
+      "title": "Subsidise pharmacy expansion",
+      "rationale": "Pharmacy density is below 2 per 100k \u2014 medication access is constrained.",
+      "priority_score": 0.652
+    },
+    {
+      "id": "specialty_diversification",
+      "title": "Add specialist healthcare provision",
+      "rationale": "Only a narrow set of facility types are present; residents have to travel out of district for many services.",
+      "priority_score": 0.606
+    }
+  ],
+  "Central::Twifo Hemang Lower Denkyira": [
+    {
+      "id": "build_phc",
+      "title": "Build additional primary healthcare centre",
+      "rationale": "Hospital + clinic supply is below 1.5 per 100k people, well under WHO primary-care benchmarks.",
+      "priority_score": 0.884
+    },
+    {
+      "id": "deploy_chps",
+      "title": "Deploy new CHPS compound",
+      "rationale": "Rural district with very low total facility density. A CHPS compound is the lowest-cost, highest-coverage intervention.",
+      "priority_score": 0.837
+    },
+    {
+      "id": "personnel_allocation",
+      "title": "Increase healthcare personnel allocation",
+      "rationale": "Even where physical infrastructure exists, this risk tier indicates under-staffing relative to need.",
+      "priority_score": 0.698
+    },
+    {
+      "id": "pharmacy_expansion",
+      "title": "Subsidise pharmacy expansion",
+      "rationale": "Pharmacy density is below 2 per 100k \u2014 medication access is constrained.",
+      "priority_score": 0.651
+    },
+    {
+      "id": "specialty_diversification",
+      "title": "Add specialist healthcare provision",
+      "rationale": "Only a narrow set of facility types are present; residents have to travel out of district for many services.",
+      "priority_score": 0.605
+    }
+  ],
+  "Upper West::Jirapa": [
+    {
+      "id": "deploy_chps",
+      "title": "Deploy new CHPS compound",
+      "rationale": "Rural district with very low total facility density. A CHPS compound is the lowest-cost, highest-coverage intervention.",
+      "priority_score": 0.834
+    },
+    {
+      "id": "mobile_clinic",
+      "title": "Deploy mobile clinic services",
+      "rationale": "Facilities are sparsely distributed (median nearest-neighbour distance > 15 km). Mobile units bridge the gap.",
+      "priority_score": 0.787
+    },
+    {
+      "id": "personnel_allocation",
+      "title": "Increase healthcare personnel allocation",
+      "rationale": "Even where physical infrastructure exists, this risk tier indicates under-staffing relative to need.",
+      "priority_score": 0.695
+    },
+    {
+      "id": "pharmacy_expansion",
+      "title": "Subsidise pharmacy expansion",
+      "rationale": "Pharmacy density is below 2 per 100k \u2014 medication access is constrained.",
+      "priority_score": 0.648
+    },
+    {
+      "id": "specialty_diversification",
+      "title": "Add specialist healthcare provision",
+      "rationale": "Only a narrow set of facility types are present; residents have to travel out of district for many services.",
+      "priority_score": 0.602
+    }
+  ],
+  "Central::Gomoa West": [
+    {
+      "id": "build_phc",
+      "title": "Build additional primary healthcare centre",
+      "rationale": "Hospital + clinic supply is below 1.5 per 100k people, well under WHO primary-care benchmarks.",
+      "priority_score": 0.874
+    },
+    {
+      "id": "deploy_chps",
+      "title": "Deploy new CHPS compound",
+      "rationale": "Rural district with very low total facility density. A CHPS compound is the lowest-cost, highest-coverage intervention.",
+      "priority_score": 0.828
+    },
+    {
+      "id": "personnel_allocation",
+      "title": "Increase healthcare personnel allocation",
+      "rationale": "Even where physical infrastructure exists, this risk tier indicates under-staffing relative to need.",
+      "priority_score": 0.69
+    },
+    {
+      "id": "pharmacy_expansion",
+      "title": "Subsidise pharmacy expansion",
+      "rationale": "Pharmacy density is below 2 per 100k \u2014 medication access is constrained.",
+      "priority_score": 0.644
+    },
+    {
+      "id": "specialty_diversification",
+      "title": "Add specialist healthcare provision",
+      "rationale": "Only a narrow set of facility types are present; residents have to travel out of district for many services.",
+      "priority_score": 0.598
+    }
+  ],
+  "Western::Wassa East": [
+    {
+      "id": "build_phc",
+      "title": "Build additional primary healthcare centre",
+      "rationale": "Hospital + clinic supply is below 1.5 per 100k people, well under WHO primary-care benchmarks.",
+      "priority_score": 0.873
+    },
+    {
+      "id": "deploy_chps",
+      "title": "Deploy new CHPS compound",
+      "rationale": "Rural district with very low total facility density. A CHPS compound is the lowest-cost, highest-coverage intervention.",
+      "priority_score": 0.827
+    },
+    {
+      "id": "personnel_allocation",
+      "title": "Increase healthcare personnel allocation",
+      "rationale": "Even where physical infrastructure exists, this risk tier indicates under-staffing relative to need.",
+      "priority_score": 0.689
+    },
+    {
+      "id": "pharmacy_expansion",
+      "title": "Subsidise pharmacy expansion",
+      "rationale": "Pharmacy density is below 2 per 100k \u2014 medication access is constrained.",
+      "priority_score": 0.643
+    },
+    {
+      "id": "specialty_diversification",
+      "title": "Add specialist healthcare provision",
+      "rationale": "Only a narrow set of facility types are present; residents have to travel out of district for many services.",
+      "priority_score": 0.597
+    }
+  ],
+  "Northern::Gushegu": [
+    {
+      "id": "build_phc",
+      "title": "Build additional primary healthcare centre",
+      "rationale": "Hospital + clinic supply is below 1.5 per 100k people, well under WHO primary-care benchmarks.",
+      "priority_score": 0.872
+    },
+    {
+      "id": "deploy_chps",
+      "title": "Deploy new CHPS compound",
+      "rationale": "Rural district with very low total facility density. A CHPS compound is the lowest-cost, highest-coverage intervention.",
+      "priority_score": 0.826
+    },
+    {
+      "id": "mobile_clinic",
+      "title": "Deploy mobile clinic services",
+      "rationale": "Facilities are sparsely distributed (median nearest-neighbour distance > 15 km). Mobile units bridge the gap.",
+      "priority_score": 0.78
+    },
+    {
+      "id": "personnel_allocation",
+      "title": "Increase healthcare personnel allocation",
+      "rationale": "Even where physical infrastructure exists, this risk tier indicates under-staffing relative to need.",
+      "priority_score": 0.688
+    },
+    {
+      "id": "pharmacy_expansion",
+      "title": "Subsidise pharmacy expansion",
+      "rationale": "Pharmacy density is below 2 per 100k \u2014 medication access is constrained.",
+      "priority_score": 0.642
+    }
+  ],
+  "Central::Upper Denkyira East Municipal": [
+    {
+      "id": "build_phc",
+      "title": "Build additional primary healthcare centre",
+      "rationale": "Hospital + clinic supply is below 1.5 per 100k people, well under WHO primary-care benchmarks.",
+      "priority_score": 0.867
+    },
+    {
+      "id": "deploy_chps",
+      "title": "Deploy new CHPS compound",
+      "rationale": "Rural district with very low total facility density. A CHPS compound is the lowest-cost, highest-coverage intervention.",
+      "priority_score": 0.822
+    },
+    {
+      "id": "personnel_allocation",
+      "title": "Increase healthcare personnel allocation",
+      "rationale": "Even where physical infrastructure exists, this risk tier indicates under-staffing relative to need.",
+      "priority_score": 0.685
+    },
+    {
+      "id": "pharmacy_expansion",
+      "title": "Subsidise pharmacy expansion",
+      "rationale": "Pharmacy density is below 2 per 100k \u2014 medication access is constrained.",
+      "priority_score": 0.639
+    },
+    {
+      "id": "specialty_diversification",
+      "title": "Add specialist healthcare provision",
+      "rationale": "Only a narrow set of facility types are present; residents have to travel out of district for many services.",
+      "priority_score": 0.594
+    }
+  ],
+  "Eastern::Suhum Municipal": [
+    {
+      "id": "deploy_chps",
+      "title": "Deploy new CHPS compound",
+      "rationale": "Rural district with very low total facility density. A CHPS compound is the lowest-cost, highest-coverage intervention.",
+      "priority_score": 0.821
+    },
+    {
+      "id": "personnel_allocation",
+      "title": "Increase healthcare personnel allocation",
+      "rationale": "Even where physical infrastructure exists, this risk tier indicates under-staffing relative to need.",
+      "priority_score": 0.684
+    },
+    {
+      "id": "pharmacy_expansion",
+      "title": "Subsidise pharmacy expansion",
+      "rationale": "Pharmacy density is below 2 per 100k \u2014 medication access is constrained.",
+      "priority_score": 0.638
+    },
+    {
+      "id": "specialty_diversification",
+      "title": "Add specialist healthcare provision",
+      "rationale": "Only a narrow set of facility types are present; residents have to travel out of district for many services.",
+      "priority_score": 0.593
+    }
+  ],
+  "Upper West::Nandom": [
+    {
+      "id": "deploy_chps",
+      "title": "Deploy new CHPS compound",
+      "rationale": "Rural district with very low total facility density. A CHPS compound is the lowest-cost, highest-coverage intervention.",
+      "priority_score": 0.82
+    },
+    {
+      "id": "personnel_allocation",
+      "title": "Increase healthcare personnel allocation",
+      "rationale": "Even where physical infrastructure exists, this risk tier indicates under-staffing relative to need.",
+      "priority_score": 0.684
+    },
+    {
+      "id": "pharmacy_expansion",
+      "title": "Subsidise pharmacy expansion",
+      "rationale": "Pharmacy density is below 2 per 100k \u2014 medication access is constrained.",
+      "priority_score": 0.638
+    },
+    {
+      "id": "specialty_diversification",
+      "title": "Add specialist healthcare provision",
+      "rationale": "Only a narrow set of facility types are present; residents have to travel out of district for many services.",
+      "priority_score": 0.593
+    }
+  ],
+  "Upper East::Bawku West": [
+    {
+      "id": "deploy_chps",
+      "title": "Deploy new CHPS compound",
+      "rationale": "Rural district with very low total facility density. A CHPS compound is the lowest-cost, highest-coverage intervention.",
+      "priority_score": 0.82
+    },
+    {
+      "id": "personnel_allocation",
+      "title": "Increase healthcare personnel allocation",
+      "rationale": "Even where physical infrastructure exists, this risk tier indicates under-staffing relative to need.",
+      "priority_score": 0.683
+    },
+    {
+      "id": "pharmacy_expansion",
+      "title": "Subsidise pharmacy expansion",
+      "rationale": "Pharmacy density is below 2 per 100k \u2014 medication access is constrained.",
+      "priority_score": 0.637
+    },
+    {
+      "id": "specialty_diversification",
+      "title": "Add specialist healthcare provision",
+      "rationale": "Only a narrow set of facility types are present; residents have to travel out of district for many services.",
+      "priority_score": 0.592
+    }
+  ],
+  "Northern::Tolon": [
+    {
+      "id": "build_phc",
+      "title": "Build additional primary healthcare centre",
+      "rationale": "Hospital + clinic supply is below 1.5 per 100k people, well under WHO primary-care benchmarks.",
+      "priority_score": 0.863
+    },
+    {
+      "id": "deploy_chps",
+      "title": "Deploy new CHPS compound",
+      "rationale": "Rural district with very low total facility density. A CHPS compound is the lowest-cost, highest-coverage intervention.",
+      "priority_score": 0.818
+    },
+    {
+      "id": "personnel_allocation",
+      "title": "Increase healthcare personnel allocation",
+      "rationale": "Even where physical infrastructure exists, this risk tier indicates under-staffing relative to need.",
+      "priority_score": 0.682
+    },
+    {
+      "id": "pharmacy_expansion",
+      "title": "Subsidise pharmacy expansion",
+      "rationale": "Pharmacy density is below 2 per 100k \u2014 medication access is constrained.",
+      "priority_score": 0.636
+    },
+    {
+      "id": "specialty_diversification",
+      "title": "Add specialist healthcare provision",
+      "rationale": "Only a narrow set of facility types are present; residents have to travel out of district for many services.",
+      "priority_score": 0.591
+    }
+  ],
+  "Bono East::Pru West": [
+    {
+      "id": "build_phc",
+      "title": "Build additional primary healthcare centre",
+      "rationale": "Hospital + clinic supply is below 1.5 per 100k people, well under WHO primary-care benchmarks.",
+      "priority_score": 0.863
+    },
+    {
+      "id": "deploy_chps",
+      "title": "Deploy new CHPS compound",
+      "rationale": "Rural district with very low total facility density. A CHPS compound is the lowest-cost, highest-coverage intervention.",
+      "priority_score": 0.818
+    },
+    {
+      "id": "personnel_allocation",
+      "title": "Increase healthcare personnel allocation",
+      "rationale": "Even where physical infrastructure exists, this risk tier indicates under-staffing relative to need.",
+      "priority_score": 0.682
+    },
+    {
+      "id": "pharmacy_expansion",
+      "title": "Subsidise pharmacy expansion",
+      "rationale": "Pharmacy density is below 2 per 100k \u2014 medication access is constrained.",
+      "priority_score": 0.636
+    },
+    {
+      "id": "specialty_diversification",
+      "title": "Add specialist healthcare provision",
+      "rationale": "Only a narrow set of facility types are present; residents have to travel out of district for many services.",
+      "priority_score": 0.591
+    }
+  ],
+  "Bono East::Atebubu Amantin": [
+    {
+      "id": "deploy_chps",
+      "title": "Deploy new CHPS compound",
+      "rationale": "Rural district with very low total facility density. A CHPS compound is the lowest-cost, highest-coverage intervention.",
+      "priority_score": 0.818
+    },
+    {
+      "id": "personnel_allocation",
+      "title": "Increase healthcare personnel allocation",
+      "rationale": "Even where physical infrastructure exists, this risk tier indicates under-staffing relative to need.",
+      "priority_score": 0.681
+    },
+    {
+      "id": "pharmacy_expansion",
+      "title": "Subsidise pharmacy expansion",
+      "rationale": "Pharmacy density is below 2 per 100k \u2014 medication access is constrained.",
+      "priority_score": 0.636
+    },
+    {
+      "id": "specialty_diversification",
+      "title": "Add specialist healthcare provision",
+      "rationale": "Only a narrow set of facility types are present; residents have to travel out of district for many services.",
+      "priority_score": 0.591
+    }
+  ],
+  "Eastern::Akwapem North": [
+    {
+      "id": "deploy_chps",
+      "title": "Deploy new CHPS compound",
+      "rationale": "Rural district with very low total facility density. A CHPS compound is the lowest-cost, highest-coverage intervention.",
+      "priority_score": 0.817
+    },
+    {
+      "id": "personnel_allocation",
+      "title": "Increase healthcare personnel allocation",
+      "rationale": "Even where physical infrastructure exists, this risk tier indicates under-staffing relative to need.",
+      "priority_score": 0.681
+    },
+    {
+      "id": "pharmacy_expansion",
+      "title": "Subsidise pharmacy expansion",
+      "rationale": "Pharmacy density is below 2 per 100k \u2014 medication access is constrained.",
+      "priority_score": 0.635
+    },
+    {
+      "id": "specialty_diversification",
+      "title": "Add specialist healthcare provision",
+      "rationale": "Only a narrow set of facility types are present; residents have to travel out of district for many services.",
+      "priority_score": 0.59
+    }
+  ],
+  "Eastern::Atiwa East": [
+    {
+      "id": "deploy_chps",
+      "title": "Deploy new CHPS compound",
+      "rationale": "Rural district with very low total facility density. A CHPS compound is the lowest-cost, highest-coverage intervention.",
+      "priority_score": 0.817
+    },
+    {
+      "id": "mobile_clinic",
+      "title": "Deploy mobile clinic services",
+      "rationale": "Facilities are sparsely distributed (median nearest-neighbour distance > 15 km). Mobile units bridge the gap.",
+      "priority_score": 0.771
+    },
+    {
+      "id": "personnel_allocation",
+      "title": "Increase healthcare personnel allocation",
+      "rationale": "Even where physical infrastructure exists, this risk tier indicates under-staffing relative to need.",
+      "priority_score": 0.681
+    },
+    {
+      "id": "pharmacy_expansion",
+      "title": "Subsidise pharmacy expansion",
+      "rationale": "Pharmacy density is below 2 per 100k \u2014 medication access is constrained.",
+      "priority_score": 0.635
+    }
+  ],
+  "Central::Awutu Senya": [
+    {
+      "id": "build_phc",
+      "title": "Build additional primary healthcare centre",
+      "rationale": "Hospital + clinic supply is below 1.5 per 100k people, well under WHO primary-care benchmarks.",
+      "priority_score": 0.861
+    },
+    {
+      "id": "deploy_chps",
+      "title": "Deploy new CHPS compound",
+      "rationale": "Rural district with very low total facility density. A CHPS compound is the lowest-cost, highest-coverage intervention.",
+      "priority_score": 0.816
+    },
+    {
+      "id": "personnel_allocation",
+      "title": "Increase healthcare personnel allocation",
+      "rationale": "Even where physical infrastructure exists, this risk tier indicates under-staffing relative to need.",
+      "priority_score": 0.68
+    },
+    {
+      "id": "pharmacy_expansion",
+      "title": "Subsidise pharmacy expansion",
+      "rationale": "Pharmacy density is below 2 per 100k \u2014 medication access is constrained.",
+      "priority_score": 0.635
+    },
+    {
+      "id": "specialty_diversification",
+      "title": "Add specialist healthcare provision",
+      "rationale": "Only a narrow set of facility types are present; residents have to travel out of district for many services.",
+      "priority_score": 0.589
+    }
+  ],
+  "Ashanti::Obuasi Municipal": [
+    {
+      "id": "build_phc",
+      "title": "Build additional primary healthcare centre",
+      "rationale": "Hospital + clinic supply is below 1.5 per 100k people, well under WHO primary-care benchmarks.",
+      "priority_score": 0.86
+    },
+    {
+      "id": "deploy_chps",
+      "title": "Deploy new CHPS compound",
+      "rationale": "Rural district with very low total facility density. A CHPS compound is the lowest-cost, highest-coverage intervention.",
+      "priority_score": 0.815
+    },
+    {
+      "id": "personnel_allocation",
+      "title": "Increase healthcare personnel allocation",
+      "rationale": "Even where physical infrastructure exists, this risk tier indicates under-staffing relative to need.",
+      "priority_score": 0.679
+    },
+    {
+      "id": "pharmacy_expansion",
+      "title": "Subsidise pharmacy expansion",
+      "rationale": "Pharmacy density is below 2 per 100k \u2014 medication access is constrained.",
+      "priority_score": 0.634
+    },
+    {
+      "id": "specialty_diversification",
+      "title": "Add specialist healthcare provision",
+      "rationale": "Only a narrow set of facility types are present; residents have to travel out of district for many services.",
+      "priority_score": 0.589
+    }
+  ],
+  "Western::Wassa Amenfi Central": [
+    {
+      "id": "deploy_chps",
+      "title": "Deploy new CHPS compound",
+      "rationale": "Rural district with very low total facility density. A CHPS compound is the lowest-cost, highest-coverage intervention.",
+      "priority_score": 0.814
+    },
+    {
+      "id": "personnel_allocation",
+      "title": "Increase healthcare personnel allocation",
+      "rationale": "Even where physical infrastructure exists, this risk tier indicates under-staffing relative to need.",
+      "priority_score": 0.678
+    },
+    {
+      "id": "pharmacy_expansion",
+      "title": "Subsidise pharmacy expansion",
+      "rationale": "Pharmacy density is below 2 per 100k \u2014 medication access is constrained.",
+      "priority_score": 0.633
+    },
+    {
+      "id": "specialty_diversification",
+      "title": "Add specialist healthcare provision",
+      "rationale": "Only a narrow set of facility types are present; residents have to travel out of district for many services.",
+      "priority_score": 0.588
+    }
+  ],
+  "Bono East::Nkoranza South": [
+    {
+      "id": "build_phc",
+      "title": "Build additional primary healthcare centre",
+      "rationale": "Hospital + clinic supply is below 1.5 per 100k people, well under WHO primary-care benchmarks.",
+      "priority_score": 0.858
+    },
+    {
+      "id": "deploy_chps",
+      "title": "Deploy new CHPS compound",
+      "rationale": "Rural district with very low total facility density. A CHPS compound is the lowest-cost, highest-coverage intervention.",
+      "priority_score": 0.813
+    },
+    {
+      "id": "personnel_allocation",
+      "title": "Increase healthcare personnel allocation",
+      "rationale": "Even where physical infrastructure exists, this risk tier indicates under-staffing relative to need.",
+      "priority_score": 0.678
+    },
+    {
+      "id": "pharmacy_expansion",
+      "title": "Subsidise pharmacy expansion",
+      "rationale": "Pharmacy density is below 2 per 100k \u2014 medication access is constrained.",
+      "priority_score": 0.632
+    },
+    {
+      "id": "specialty_diversification",
+      "title": "Add specialist healthcare provision",
+      "rationale": "Only a narrow set of facility types are present; residents have to travel out of district for many services.",
+      "priority_score": 0.587
+    }
+  ],
+  "Ashanti::Atwima Kwanwoma": [
+    {
+      "id": "build_phc",
+      "title": "Build additional primary healthcare centre",
+      "rationale": "Hospital + clinic supply is below 1.5 per 100k people, well under WHO primary-care benchmarks.",
+      "priority_score": 0.858
+    },
+    {
+      "id": "deploy_chps",
+      "title": "Deploy new CHPS compound",
+      "rationale": "Rural district with very low total facility density. A CHPS compound is the lowest-cost, highest-coverage intervention.",
+      "priority_score": 0.813
+    },
+    {
+      "id": "personnel_allocation",
+      "title": "Increase healthcare personnel allocation",
+      "rationale": "Even where physical infrastructure exists, this risk tier indicates under-staffing relative to need.",
+      "priority_score": 0.677
+    },
+    {
+      "id": "pharmacy_expansion",
+      "title": "Subsidise pharmacy expansion",
+      "rationale": "Pharmacy density is below 2 per 100k \u2014 medication access is constrained.",
+      "priority_score": 0.632
+    },
+    {
+      "id": "specialty_diversification",
+      "title": "Add specialist healthcare provision",
+      "rationale": "Only a narrow set of facility types are present; residents have to travel out of district for many services.",
+      "priority_score": 0.587
+    }
+  ],
+  "Bono::Berekum East Municipal": [
+    {
+      "id": "deploy_chps",
+      "title": "Deploy new CHPS compound",
+      "rationale": "Rural district with very low total facility density. A CHPS compound is the lowest-cost, highest-coverage intervention.",
+      "priority_score": 0.812
+    },
+    {
+      "id": "personnel_allocation",
+      "title": "Increase healthcare personnel allocation",
+      "rationale": "Even where physical infrastructure exists, this risk tier indicates under-staffing relative to need.",
+      "priority_score": 0.677
+    },
+    {
+      "id": "pharmacy_expansion",
+      "title": "Subsidise pharmacy expansion",
+      "rationale": "Pharmacy density is below 2 per 100k \u2014 medication access is constrained.",
+      "priority_score": 0.632
+    },
+    {
+      "id": "specialty_diversification",
+      "title": "Add specialist healthcare provision",
+      "rationale": "Only a narrow set of facility types are present; residents have to travel out of district for many services.",
+      "priority_score": 0.587
+    }
+  ],
+  "Eastern::Kwaebibirem": [
+    {
+      "id": "deploy_chps",
+      "title": "Deploy new CHPS compound",
+      "rationale": "Rural district with very low total facility density. A CHPS compound is the lowest-cost, highest-coverage intervention.",
+      "priority_score": 0.812
+    },
+    {
+      "id": "personnel_allocation",
+      "title": "Increase healthcare personnel allocation",
+      "rationale": "Even where physical infrastructure exists, this risk tier indicates under-staffing relative to need.",
+      "priority_score": 0.677
+    },
+    {
+      "id": "pharmacy_expansion",
+      "title": "Subsidise pharmacy expansion",
+      "rationale": "Pharmacy density is below 2 per 100k \u2014 medication access is constrained.",
+      "priority_score": 0.632
+    },
+    {
+      "id": "specialty_diversification",
+      "title": "Add specialist healthcare provision",
+      "rationale": "Only a narrow set of facility types are present; residents have to travel out of district for many services.",
+      "priority_score": 0.587
+    }
+  ],
+  "Ashanti::Offinso Municipal": [
+    {
+      "id": "build_phc",
+      "title": "Build additional primary healthcare centre",
+      "rationale": "Hospital + clinic supply is below 1.5 per 100k people, well under WHO primary-care benchmarks.",
+      "priority_score": 0.857
+    },
+    {
+      "id": "deploy_chps",
+      "title": "Deploy new CHPS compound",
+      "rationale": "Rural district with very low total facility density. A CHPS compound is the lowest-cost, highest-coverage intervention.",
+      "priority_score": 0.812
+    },
+    {
+      "id": "personnel_allocation",
+      "title": "Increase healthcare personnel allocation",
+      "rationale": "Even where physical infrastructure exists, this risk tier indicates under-staffing relative to need.",
+      "priority_score": 0.677
+    },
+    {
+      "id": "pharmacy_expansion",
+      "title": "Subsidise pharmacy expansion",
+      "rationale": "Pharmacy density is below 2 per 100k \u2014 medication access is constrained.",
+      "priority_score": 0.632
+    },
+    {
+      "id": "specialty_diversification",
+      "title": "Add specialist healthcare provision",
+      "rationale": "Only a narrow set of facility types are present; residents have to travel out of district for many services.",
+      "priority_score": 0.586
+    }
+  ],
+  "Savannah::North East Gonja": [
+    {
+      "id": "deploy_chps",
+      "title": "Deploy new CHPS compound",
+      "rationale": "Rural district with very low total facility density. A CHPS compound is the lowest-cost, highest-coverage intervention.",
+      "priority_score": 0.809
+    },
+    {
+      "id": "personnel_allocation",
+      "title": "Increase healthcare personnel allocation",
+      "rationale": "Even where physical infrastructure exists, this risk tier indicates under-staffing relative to need.",
+      "priority_score": 0.674
+    },
+    {
+      "id": "pharmacy_expansion",
+      "title": "Subsidise pharmacy expansion",
+      "rationale": "Pharmacy density is below 2 per 100k \u2014 medication access is constrained.",
+      "priority_score": 0.629
+    },
+    {
+      "id": "specialty_diversification",
+      "title": "Add specialist healthcare provision",
+      "rationale": "Only a narrow set of facility types are present; residents have to travel out of district for many services.",
+      "priority_score": 0.584
+    }
+  ],
+  "Ashanti::Sekyere Central": [
+    {
+      "id": "deploy_chps",
+      "title": "Deploy new CHPS compound",
+      "rationale": "Rural district with very low total facility density. A CHPS compound is the lowest-cost, highest-coverage intervention.",
+      "priority_score": 0.808
+    },
+    {
+      "id": "personnel_allocation",
+      "title": "Increase healthcare personnel allocation",
+      "rationale": "Even where physical infrastructure exists, this risk tier indicates under-staffing relative to need.",
+      "priority_score": 0.674
+    },
+    {
+      "id": "pharmacy_expansion",
+      "title": "Subsidise pharmacy expansion",
+      "rationale": "Pharmacy density is below 2 per 100k \u2014 medication access is constrained.",
+      "priority_score": 0.629
+    },
+    {
+      "id": "specialty_diversification",
+      "title": "Add specialist healthcare provision",
+      "rationale": "Only a narrow set of facility types are present; residents have to travel out of district for many services.",
+      "priority_score": 0.584
+    }
+  ],
+  "Ashanti::Mampong Municipal": [
+    {
+      "id": "deploy_chps",
+      "title": "Deploy new CHPS compound",
+      "rationale": "Rural district with very low total facility density. A CHPS compound is the lowest-cost, highest-coverage intervention.",
+      "priority_score": 0.808
+    },
+    {
+      "id": "personnel_allocation",
+      "title": "Increase healthcare personnel allocation",
+      "rationale": "Even where physical infrastructure exists, this risk tier indicates under-staffing relative to need.",
+      "priority_score": 0.674
+    },
+    {
+      "id": "pharmacy_expansion",
+      "title": "Subsidise pharmacy expansion",
+      "rationale": "Pharmacy density is below 2 per 100k \u2014 medication access is constrained.",
+      "priority_score": 0.629
+    },
+    {
+      "id": "specialty_diversification",
+      "title": "Add specialist healthcare provision",
+      "rationale": "Only a narrow set of facility types are present; residents have to travel out of district for many services.",
+      "priority_score": 0.584
+    }
+  ],
+  "Upper East::Tempane": [
+    {
+      "id": "deploy_chps",
+      "title": "Deploy new CHPS compound",
+      "rationale": "Rural district with very low total facility density. A CHPS compound is the lowest-cost, highest-coverage intervention.",
+      "priority_score": 0.808
+    },
+    {
+      "id": "personnel_allocation",
+      "title": "Increase healthcare personnel allocation",
+      "rationale": "Even where physical infrastructure exists, this risk tier indicates under-staffing relative to need.",
+      "priority_score": 0.673
+    },
+    {
+      "id": "pharmacy_expansion",
+      "title": "Subsidise pharmacy expansion",
+      "rationale": "Pharmacy density is below 2 per 100k \u2014 medication access is constrained.",
+      "priority_score": 0.628
+    },
+    {
+      "id": "specialty_diversification",
+      "title": "Add specialist healthcare provision",
+      "rationale": "Only a narrow set of facility types are present; residents have to travel out of district for many services.",
+      "priority_score": 0.584
+    }
+  ],
+  "Western North::Bia West": [
+    {
+      "id": "deploy_chps",
+      "title": "Deploy new CHPS compound",
+      "rationale": "Rural district with very low total facility density. A CHPS compound is the lowest-cost, highest-coverage intervention.",
+      "priority_score": 0.808
+    },
+    {
+      "id": "personnel_allocation",
+      "title": "Increase healthcare personnel allocation",
+      "rationale": "Even where physical infrastructure exists, this risk tier indicates under-staffing relative to need.",
+      "priority_score": 0.673
+    },
+    {
+      "id": "pharmacy_expansion",
+      "title": "Subsidise pharmacy expansion",
+      "rationale": "Pharmacy density is below 2 per 100k \u2014 medication access is constrained.",
+      "priority_score": 0.628
+    },
+    {
+      "id": "specialty_diversification",
+      "title": "Add specialist healthcare provision",
+      "rationale": "Only a narrow set of facility types are present; residents have to travel out of district for many services.",
+      "priority_score": 0.583
+    }
+  ],
+  "Bono::Jaman North": [
+    {
+      "id": "deploy_chps",
+      "title": "Deploy new CHPS compound",
+      "rationale": "Rural district with very low total facility density. A CHPS compound is the lowest-cost, highest-coverage intervention.",
+      "priority_score": 0.805
+    },
+    {
+      "id": "personnel_allocation",
+      "title": "Increase healthcare personnel allocation",
+      "rationale": "Even where physical infrastructure exists, this risk tier indicates under-staffing relative to need.",
+      "priority_score": 0.671
+    },
+    {
+      "id": "pharmacy_expansion",
+      "title": "Subsidise pharmacy expansion",
+      "rationale": "Pharmacy density is below 2 per 100k \u2014 medication access is constrained.",
+      "priority_score": 0.626
+    },
+    {
+      "id": "specialty_diversification",
+      "title": "Add specialist healthcare provision",
+      "rationale": "Only a narrow set of facility types are present; residents have to travel out of district for many services.",
+      "priority_score": 0.581
+    }
+  ],
+  "Greater Accra::Shai Osudoku": [
+    {
+      "id": "build_phc",
+      "title": "Build additional primary healthcare centre",
+      "rationale": "Hospital + clinic supply is below 1.5 per 100k people, well under WHO primary-care benchmarks.",
+      "priority_score": 0.849
+    },
+    {
+      "id": "deploy_chps",
+      "title": "Deploy new CHPS compound",
+      "rationale": "Rural district with very low total facility density. A CHPS compound is the lowest-cost, highest-coverage intervention.",
+      "priority_score": 0.804
+    },
+    {
+      "id": "personnel_allocation",
+      "title": "Increase healthcare personnel allocation",
+      "rationale": "Even where physical infrastructure exists, this risk tier indicates under-staffing relative to need.",
+      "priority_score": 0.67
+    },
+    {
+      "id": "pharmacy_expansion",
+      "title": "Subsidise pharmacy expansion",
+      "rationale": "Pharmacy density is below 2 per 100k \u2014 medication access is constrained.",
+      "priority_score": 0.626
+    },
+    {
+      "id": "specialty_diversification",
+      "title": "Add specialist healthcare provision",
+      "rationale": "Only a narrow set of facility types are present; residents have to travel out of district for many services.",
+      "priority_score": 0.581
+    }
+  ],
+  "Central::Upper Denkyira West": [
+    {
+      "id": "deploy_chps",
+      "title": "Deploy new CHPS compound",
+      "rationale": "Rural district with very low total facility density. A CHPS compound is the lowest-cost, highest-coverage intervention.",
+      "priority_score": 0.804
+    },
+    {
+      "id": "personnel_allocation",
+      "title": "Increase healthcare personnel allocation",
+      "rationale": "Even where physical infrastructure exists, this risk tier indicates under-staffing relative to need.",
+      "priority_score": 0.67
+    },
+    {
+      "id": "pharmacy_expansion",
+      "title": "Subsidise pharmacy expansion",
+      "rationale": "Pharmacy density is below 2 per 100k \u2014 medication access is constrained.",
+      "priority_score": 0.626
+    },
+    {
+      "id": "specialty_diversification",
+      "title": "Add specialist healthcare provision",
+      "rationale": "Only a narrow set of facility types are present; residents have to travel out of district for many services.",
+      "priority_score": 0.581
+    }
+  ],
+  "Oti::Krachi East Municipal": [
+    {
+      "id": "deploy_chps",
+      "title": "Deploy new CHPS compound",
+      "rationale": "Rural district with very low total facility density. A CHPS compound is the lowest-cost, highest-coverage intervention.",
+      "priority_score": 0.804
+    },
+    {
+      "id": "personnel_allocation",
+      "title": "Increase healthcare personnel allocation",
+      "rationale": "Even where physical infrastructure exists, this risk tier indicates under-staffing relative to need.",
+      "priority_score": 0.67
+    },
+    {
+      "id": "pharmacy_expansion",
+      "title": "Subsidise pharmacy expansion",
+      "rationale": "Pharmacy density is below 2 per 100k \u2014 medication access is constrained.",
+      "priority_score": 0.625
+    },
+    {
+      "id": "specialty_diversification",
+      "title": "Add specialist healthcare provision",
+      "rationale": "Only a narrow set of facility types are present; residents have to travel out of district for many services.",
+      "priority_score": 0.58
+    }
+  ],
+  "Western::Wassa Amenfi East": [
+    {
+      "id": "deploy_chps",
+      "title": "Deploy new CHPS compound",
+      "rationale": "Rural district with very low total facility density. A CHPS compound is the lowest-cost, highest-coverage intervention.",
+      "priority_score": 0.802
+    },
+    {
+      "id": "personnel_allocation",
+      "title": "Increase healthcare personnel allocation",
+      "rationale": "Even where physical infrastructure exists, this risk tier indicates under-staffing relative to need.",
+      "priority_score": 0.669
+    },
+    {
+      "id": "pharmacy_expansion",
+      "title": "Subsidise pharmacy expansion",
+      "rationale": "Pharmacy density is below 2 per 100k \u2014 medication access is constrained.",
+      "priority_score": 0.624
+    },
+    {
+      "id": "specialty_diversification",
+      "title": "Add specialist healthcare provision",
+      "rationale": "Only a narrow set of facility types are present; residents have to travel out of district for many services.",
+      "priority_score": 0.58
+    }
+  ],
+  "Ashanti::Bekwai Municipal": [
+    {
+      "id": "deploy_chps",
+      "title": "Deploy new CHPS compound",
+      "rationale": "Rural district with very low total facility density. A CHPS compound is the lowest-cost, highest-coverage intervention.",
+      "priority_score": 0.802
+    },
+    {
+      "id": "personnel_allocation",
+      "title": "Increase healthcare personnel allocation",
+      "rationale": "Even where physical infrastructure exists, this risk tier indicates under-staffing relative to need.",
+      "priority_score": 0.669
+    },
+    {
+      "id": "pharmacy_expansion",
+      "title": "Subsidise pharmacy expansion",
+      "rationale": "Pharmacy density is below 2 per 100k \u2014 medication access is constrained.",
+      "priority_score": 0.624
+    },
+    {
+      "id": "specialty_diversification",
+      "title": "Add specialist healthcare provision",
+      "rationale": "Only a narrow set of facility types are present; residents have to travel out of district for many services.",
+      "priority_score": 0.579
+    }
+  ],
+  "Ashanti::Afigya Kwabre South": [
+    {
+      "id": "build_phc",
+      "title": "Build additional primary healthcare centre",
+      "rationale": "Hospital + clinic supply is below 1.5 per 100k people, well under WHO primary-care benchmarks.",
+      "priority_score": 0.846
+    },
+    {
+      "id": "personnel_allocation",
+      "title": "Increase healthcare personnel allocation",
+      "rationale": "Even where physical infrastructure exists, this risk tier indicates under-staffing relative to need.",
+      "priority_score": 0.668
+    },
+    {
+      "id": "specialty_diversification",
+      "title": "Add specialist healthcare provision",
+      "rationale": "Only a narrow set of facility types are present; residents have to travel out of district for many services.",
+      "priority_score": 0.579
+    }
+  ],
+  "Northern::Karaga": [
+    {
+      "id": "deploy_chps",
+      "title": "Deploy new CHPS compound",
+      "rationale": "Rural district with very low total facility density. A CHPS compound is the lowest-cost, highest-coverage intervention.",
+      "priority_score": 0.801
+    },
+    {
+      "id": "personnel_allocation",
+      "title": "Increase healthcare personnel allocation",
+      "rationale": "Even where physical infrastructure exists, this risk tier indicates under-staffing relative to need.",
+      "priority_score": 0.668
+    },
+    {
+      "id": "pharmacy_expansion",
+      "title": "Subsidise pharmacy expansion",
+      "rationale": "Pharmacy density is below 2 per 100k \u2014 medication access is constrained.",
+      "priority_score": 0.623
+    },
+    {
+      "id": "specialty_diversification",
+      "title": "Add specialist healthcare provision",
+      "rationale": "Only a narrow set of facility types are present; residents have to travel out of district for many services.",
+      "priority_score": 0.579
+    }
+  ],
+  "Western::Wassa Amenfi West": [
+    {
+      "id": "personnel_allocation",
+      "title": "Increase healthcare personnel allocation",
+      "rationale": "Even where physical infrastructure exists, this risk tier indicates under-staffing relative to need.",
+      "priority_score": 0.667
+    },
+    {
+      "id": "pharmacy_expansion",
+      "title": "Subsidise pharmacy expansion",
+      "rationale": "Pharmacy density is below 2 per 100k \u2014 medication access is constrained.",
+      "priority_score": 0.623
+    },
+    {
+      "id": "specialty_diversification",
+      "title": "Add specialist healthcare provision",
+      "rationale": "Only a narrow set of facility types are present; residents have to travel out of district for many services.",
+      "priority_score": 0.578
+    }
+  ],
+  "Eastern::Kwahu South": [
+    {
+      "id": "deploy_chps",
+      "title": "Deploy new CHPS compound",
+      "rationale": "Rural district with very low total facility density. A CHPS compound is the lowest-cost, highest-coverage intervention.",
+      "priority_score": 0.798
+    },
+    {
+      "id": "personnel_allocation",
+      "title": "Increase healthcare personnel allocation",
+      "rationale": "Even where physical infrastructure exists, this risk tier indicates under-staffing relative to need.",
+      "priority_score": 0.665
+    },
+    {
+      "id": "pharmacy_expansion",
+      "title": "Subsidise pharmacy expansion",
+      "rationale": "Pharmacy density is below 2 per 100k \u2014 medication access is constrained.",
+      "priority_score": 0.621
+    },
+    {
+      "id": "specialty_diversification",
+      "title": "Add specialist healthcare provision",
+      "rationale": "Only a narrow set of facility types are present; residents have to travel out of district for many services.",
+      "priority_score": 0.576
+    }
+  ],
+  "Northern::Nanumba North": [
+    {
+      "id": "build_phc",
+      "title": "Build additional primary healthcare centre",
+      "rationale": "Hospital + clinic supply is below 1.5 per 100k people, well under WHO primary-care benchmarks.",
+      "priority_score": 0.841
+    },
+    {
+      "id": "mobile_clinic",
+      "title": "Deploy mobile clinic services",
+      "rationale": "Facilities are sparsely distributed (median nearest-neighbour distance > 15 km). Mobile units bridge the gap.",
+      "priority_score": 0.753
+    },
+    {
+      "id": "personnel_allocation",
+      "title": "Increase healthcare personnel allocation",
+      "rationale": "Even where physical infrastructure exists, this risk tier indicates under-staffing relative to need.",
+      "priority_score": 0.664
+    },
+    {
+      "id": "road_accessibility",
+      "title": "Improve road accessibility to existing facilities",
+      "rationale": "Facilities exist but are far apart \u2014 investment in feeder roads multiplies their effective reach.",
+      "priority_score": 0.531
+    }
+  ],
+  "Upper East::Bawku Municipal": [
+    {
+      "id": "deploy_chps",
+      "title": "Deploy new CHPS compound",
+      "rationale": "Rural district with very low total facility density. A CHPS compound is the lowest-cost, highest-coverage intervention.",
+      "priority_score": 0.796
+    },
+    {
+      "id": "personnel_allocation",
+      "title": "Increase healthcare personnel allocation",
+      "rationale": "Even where physical infrastructure exists, this risk tier indicates under-staffing relative to need.",
+      "priority_score": 0.663
+    },
+    {
+      "id": "pharmacy_expansion",
+      "title": "Subsidise pharmacy expansion",
+      "rationale": "Pharmacy density is below 2 per 100k \u2014 medication access is constrained.",
+      "priority_score": 0.619
+    },
+    {
+      "id": "specialty_diversification",
+      "title": "Add specialist healthcare provision",
+      "rationale": "Only a narrow set of facility types are present; residents have to travel out of district for many services.",
+      "priority_score": 0.575
+    }
+  ],
+  "Western::Prestea/Huni Valley": [
+    {
+      "id": "personnel_allocation",
+      "title": "Increase healthcare personnel allocation",
+      "rationale": "Even where physical infrastructure exists, this risk tier indicates under-staffing relative to need.",
+      "priority_score": 0.663
+    },
+    {
+      "id": "pharmacy_expansion",
+      "title": "Subsidise pharmacy expansion",
+      "rationale": "Pharmacy density is below 2 per 100k \u2014 medication access is constrained.",
+      "priority_score": 0.619
+    },
+    {
+      "id": "specialty_diversification",
+      "title": "Add specialist healthcare provision",
+      "rationale": "Only a narrow set of facility types are present; residents have to travel out of district for many services.",
+      "priority_score": 0.575
+    }
+  ],
+  "Eastern::Birim Central Municipal": [
+    {
+      "id": "deploy_chps",
+      "title": "Deploy new CHPS compound",
+      "rationale": "Rural district with very low total facility density. A CHPS compound is the lowest-cost, highest-coverage intervention.",
+      "priority_score": 0.796
+    },
+    {
+      "id": "personnel_allocation",
+      "title": "Increase healthcare personnel allocation",
+      "rationale": "Even where physical infrastructure exists, this risk tier indicates under-staffing relative to need.",
+      "priority_score": 0.663
+    },
+    {
+      "id": "pharmacy_expansion",
+      "title": "Subsidise pharmacy expansion",
+      "rationale": "Pharmacy density is below 2 per 100k \u2014 medication access is constrained.",
+      "priority_score": 0.619
+    },
+    {
+      "id": "specialty_diversification",
+      "title": "Add specialist healthcare provision",
+      "rationale": "Only a narrow set of facility types are present; residents have to travel out of district for many services.",
+      "priority_score": 0.575
+    }
+  ],
+  "Ahafo::Asutifi North": [
+    {
+      "id": "deploy_chps",
+      "title": "Deploy new CHPS compound",
+      "rationale": "Rural district with very low total facility density. A CHPS compound is the lowest-cost, highest-coverage intervention.",
+      "priority_score": 0.795
+    },
+    {
+      "id": "mobile_clinic",
+      "title": "Deploy mobile clinic services",
+      "rationale": "Facilities are sparsely distributed (median nearest-neighbour distance > 15 km). Mobile units bridge the gap.",
+      "priority_score": 0.751
+    },
+    {
+      "id": "personnel_allocation",
+      "title": "Increase healthcare personnel allocation",
+      "rationale": "Even where physical infrastructure exists, this risk tier indicates under-staffing relative to need.",
+      "priority_score": 0.663
+    },
+    {
+      "id": "pharmacy_expansion",
+      "title": "Subsidise pharmacy expansion",
+      "rationale": "Pharmacy density is below 2 per 100k \u2014 medication access is constrained.",
+      "priority_score": 0.619
+    }
+  ],
+  "Central::Agona West Municipal": [
+    {
+      "id": "build_phc",
+      "title": "Build additional primary healthcare centre",
+      "rationale": "Hospital + clinic supply is below 1.5 per 100k people, well under WHO primary-care benchmarks.",
+      "priority_score": 0.839
+    },
+    {
+      "id": "personnel_allocation",
+      "title": "Increase healthcare personnel allocation",
+      "rationale": "Even where physical infrastructure exists, this risk tier indicates under-staffing relative to need.",
+      "priority_score": 0.662
+    },
+    {
+      "id": "specialty_diversification",
+      "title": "Add specialist healthcare provision",
+      "rationale": "Only a narrow set of facility types are present; residents have to travel out of district for many services.",
+      "priority_score": 0.574
+    }
+  ],
+  "Western::Shama": [
+    {
+      "id": "build_phc",
+      "title": "Build additional primary healthcare centre",
+      "rationale": "Hospital + clinic supply is below 1.5 per 100k people, well under WHO primary-care benchmarks.",
+      "priority_score": 0.838
+    },
+    {
+      "id": "deploy_chps",
+      "title": "Deploy new CHPS compound",
+      "rationale": "Rural district with very low total facility density. A CHPS compound is the lowest-cost, highest-coverage intervention.",
+      "priority_score": 0.794
+    },
+    {
+      "id": "personnel_allocation",
+      "title": "Increase healthcare personnel allocation",
+      "rationale": "Even where physical infrastructure exists, this risk tier indicates under-staffing relative to need.",
+      "priority_score": 0.661
+    },
+    {
+      "id": "pharmacy_expansion",
+      "title": "Subsidise pharmacy expansion",
+      "rationale": "Pharmacy density is below 2 per 100k \u2014 medication access is constrained.",
+      "priority_score": 0.617
+    }
+  ],
+  "Eastern::Birim North": [
+    {
+      "id": "deploy_chps",
+      "title": "Deploy new CHPS compound",
+      "rationale": "Rural district with very low total facility density. A CHPS compound is the lowest-cost, highest-coverage intervention.",
+      "priority_score": 0.79
+    },
+    {
+      "id": "personnel_allocation",
+      "title": "Increase healthcare personnel allocation",
+      "rationale": "Even where physical infrastructure exists, this risk tier indicates under-staffing relative to need.",
+      "priority_score": 0.659
+    },
+    {
+      "id": "pharmacy_expansion",
+      "title": "Subsidise pharmacy expansion",
+      "rationale": "Pharmacy density is below 2 per 100k \u2014 medication access is constrained.",
+      "priority_score": 0.615
+    }
+  ],
+  "Ashanti::Offinso North": [
+    {
+      "id": "deploy_chps",
+      "title": "Deploy new CHPS compound",
+      "rationale": "Rural district with very low total facility density. A CHPS compound is the lowest-cost, highest-coverage intervention.",
+      "priority_score": 0.789
+    },
+    {
+      "id": "personnel_allocation",
+      "title": "Increase healthcare personnel allocation",
+      "rationale": "Even where physical infrastructure exists, this risk tier indicates under-staffing relative to need.",
+      "priority_score": 0.658
+    },
+    {
+      "id": "pharmacy_expansion",
+      "title": "Subsidise pharmacy expansion",
+      "rationale": "Pharmacy density is below 2 per 100k \u2014 medication access is constrained.",
+      "priority_score": 0.614
+    }
+  ],
+  "Eastern::Upper West Akim": [
+    {
+      "id": "deploy_chps",
+      "title": "Deploy new CHPS compound",
+      "rationale": "Rural district with very low total facility density. A CHPS compound is the lowest-cost, highest-coverage intervention.",
+      "priority_score": 0.789
+    },
+    {
+      "id": "personnel_allocation",
+      "title": "Increase healthcare personnel allocation",
+      "rationale": "Even where physical infrastructure exists, this risk tier indicates under-staffing relative to need.",
+      "priority_score": 0.657
+    },
+    {
+      "id": "pharmacy_expansion",
+      "title": "Subsidise pharmacy expansion",
+      "rationale": "Pharmacy density is below 2 per 100k \u2014 medication access is constrained.",
+      "priority_score": 0.614
+    },
+    {
+      "id": "specialty_diversification",
+      "title": "Add specialist healthcare provision",
+      "rationale": "Only a narrow set of facility types are present; residents have to travel out of district for many services.",
+      "priority_score": 0.57
+    }
+  ],
+  "Northern East::West Mamprusi Municipal": [
+    {
+      "id": "personnel_allocation",
+      "title": "Increase healthcare personnel allocation",
+      "rationale": "Even where physical infrastructure exists, this risk tier indicates under-staffing relative to need.",
+      "priority_score": 0.657
+    },
+    {
+      "id": "pharmacy_expansion",
+      "title": "Subsidise pharmacy expansion",
+      "rationale": "Pharmacy density is below 2 per 100k \u2014 medication access is constrained.",
+      "priority_score": 0.613
+    }
+  ],
+  "Northern East::Chereponi": [
+    {
+      "id": "deploy_chps",
+      "title": "Deploy new CHPS compound",
+      "rationale": "Rural district with very low total facility density. A CHPS compound is the lowest-cost, highest-coverage intervention.",
+      "priority_score": 0.789
+    },
+    {
+      "id": "personnel_allocation",
+      "title": "Increase healthcare personnel allocation",
+      "rationale": "Even where physical infrastructure exists, this risk tier indicates under-staffing relative to need.",
+      "priority_score": 0.657
+    },
+    {
+      "id": "pharmacy_expansion",
+      "title": "Subsidise pharmacy expansion",
+      "rationale": "Pharmacy density is below 2 per 100k \u2014 medication access is constrained.",
+      "priority_score": 0.613
+    }
+  ],
+  "Upper East::Builsa South": [
+    {
+      "id": "personnel_allocation",
+      "title": "Increase healthcare personnel allocation",
+      "rationale": "Even where physical infrastructure exists, this risk tier indicates under-staffing relative to need.",
+      "priority_score": 0.657
+    },
+    {
+      "id": "pharmacy_expansion",
+      "title": "Subsidise pharmacy expansion",
+      "rationale": "Pharmacy density is below 2 per 100k \u2014 medication access is constrained.",
+      "priority_score": 0.613
+    },
+    {
+      "id": "specialty_diversification",
+      "title": "Add specialist healthcare provision",
+      "rationale": "Only a narrow set of facility types are present; residents have to travel out of district for many services.",
+      "priority_score": 0.569
+    }
+  ],
+  "Eastern::Abuakwa South": [
+    {
+      "id": "deploy_chps",
+      "title": "Deploy new CHPS compound",
+      "rationale": "Rural district with very low total facility density. A CHPS compound is the lowest-cost, highest-coverage intervention.",
+      "priority_score": 0.788
+    },
+    {
+      "id": "personnel_allocation",
+      "title": "Increase healthcare personnel allocation",
+      "rationale": "Even where physical infrastructure exists, this risk tier indicates under-staffing relative to need.",
+      "priority_score": 0.657
+    },
+    {
+      "id": "pharmacy_expansion",
+      "title": "Subsidise pharmacy expansion",
+      "rationale": "Pharmacy density is below 2 per 100k \u2014 medication access is constrained.",
+      "priority_score": 0.613
+    }
+  ],
+  "Volta::Anloga": [
+    {
+      "id": "deploy_chps",
+      "title": "Deploy new CHPS compound",
+      "rationale": "Rural district with very low total facility density. A CHPS compound is the lowest-cost, highest-coverage intervention.",
+      "priority_score": 0.788
+    },
+    {
+      "id": "personnel_allocation",
+      "title": "Increase healthcare personnel allocation",
+      "rationale": "Even where physical infrastructure exists, this risk tier indicates under-staffing relative to need.",
+      "priority_score": 0.656
+    },
+    {
+      "id": "pharmacy_expansion",
+      "title": "Subsidise pharmacy expansion",
+      "rationale": "Pharmacy density is below 2 per 100k \u2014 medication access is constrained.",
+      "priority_score": 0.613
+    }
+  ],
+  "Central::Awutu Senya East": [
+    {
+      "id": "build_phc",
+      "title": "Build additional primary healthcare centre",
+      "rationale": "Hospital + clinic supply is below 1.5 per 100k people, well under WHO primary-care benchmarks.",
+      "priority_score": 0.831
+    },
+    {
+      "id": "personnel_allocation",
+      "title": "Increase healthcare personnel allocation",
+      "rationale": "Even where physical infrastructure exists, this risk tier indicates under-staffing relative to need.",
+      "priority_score": 0.656
+    },
+    {
+      "id": "road_accessibility",
+      "title": "Improve road accessibility to existing facilities",
+      "rationale": "Facilities exist but are far apart \u2014 investment in feeder roads multiplies their effective reach.",
+      "priority_score": 0.525
+    }
+  ],
+  "Northern East::East Mamprusi": [
+    {
+      "id": "personnel_allocation",
+      "title": "Increase healthcare personnel allocation",
+      "rationale": "Even where physical infrastructure exists, this risk tier indicates under-staffing relative to need.",
+      "priority_score": 0.656
+    },
+    {
+      "id": "road_accessibility",
+      "title": "Improve road accessibility to existing facilities",
+      "rationale": "Facilities exist but are far apart \u2014 investment in feeder roads multiplies their effective reach.",
+      "priority_score": 0.525
+    }
+  ],
+  "Ashanti::Sekyere East": [
+    {
+      "id": "personnel_allocation",
+      "title": "Increase healthcare personnel allocation",
+      "rationale": "Even where physical infrastructure exists, this risk tier indicates under-staffing relative to need.",
+      "priority_score": 0.655
+    },
+    {
+      "id": "specialty_diversification",
+      "title": "Add specialist healthcare provision",
+      "rationale": "Only a narrow set of facility types are present; residents have to travel out of district for many services.",
+      "priority_score": 0.567
+    }
+  ],
+  "Northern::Kpandai": [
+    {
+      "id": "deploy_chps",
+      "title": "Deploy new CHPS compound",
+      "rationale": "Rural district with very low total facility density. A CHPS compound is the lowest-cost, highest-coverage intervention.",
+      "priority_score": 0.785
+    },
+    {
+      "id": "personnel_allocation",
+      "title": "Increase healthcare personnel allocation",
+      "rationale": "Even where physical infrastructure exists, this risk tier indicates under-staffing relative to need.",
+      "priority_score": 0.655
+    },
+    {
+      "id": "pharmacy_expansion",
+      "title": "Subsidise pharmacy expansion",
+      "rationale": "Pharmacy density is below 2 per 100k \u2014 medication access is constrained.",
+      "priority_score": 0.611
+    }
+  ],
+  "Eastern::Atiwa West": [
+    {
+      "id": "deploy_chps",
+      "title": "Deploy new CHPS compound",
+      "rationale": "Rural district with very low total facility density. A CHPS compound is the lowest-cost, highest-coverage intervention.",
+      "priority_score": 0.785
+    },
+    {
+      "id": "personnel_allocation",
+      "title": "Increase healthcare personnel allocation",
+      "rationale": "Even where physical infrastructure exists, this risk tier indicates under-staffing relative to need.",
+      "priority_score": 0.654
+    },
+    {
+      "id": "pharmacy_expansion",
+      "title": "Subsidise pharmacy expansion",
+      "rationale": "Pharmacy density is below 2 per 100k \u2014 medication access is constrained.",
+      "priority_score": 0.611
+    },
+    {
+      "id": "specialty_diversification",
+      "title": "Add specialist healthcare provision",
+      "rationale": "Only a narrow set of facility types are present; residents have to travel out of district for many services.",
+      "priority_score": 0.567
+    }
+  ],
+  "Ashanti::Asokore Mampong Municipal": [
+    {
+      "id": "personnel_allocation",
+      "title": "Increase healthcare personnel allocation",
+      "rationale": "Even where physical infrastructure exists, this risk tier indicates under-staffing relative to need.",
+      "priority_score": 0.654
+    },
+    {
+      "id": "specialty_diversification",
+      "title": "Add specialist healthcare provision",
+      "rationale": "Only a narrow set of facility types are present; residents have to travel out of district for many services.",
+      "priority_score": 0.567
+    }
+  ],
+  "Ashanti::Asante Akim Central Municipal": [
+    {
+      "id": "personnel_allocation",
+      "title": "Increase healthcare personnel allocation",
+      "rationale": "Even where physical infrastructure exists, this risk tier indicates under-staffing relative to need.",
+      "priority_score": 0.653
+    },
+    {
+      "id": "pharmacy_expansion",
+      "title": "Subsidise pharmacy expansion",
+      "rationale": "Pharmacy density is below 2 per 100k \u2014 medication access is constrained.",
+      "priority_score": 0.61
+    }
+  ],
+  "Central::Komenda-Edina-Eguafo-Abirem Municipal": [
+    {
+      "id": "deploy_chps",
+      "title": "Deploy new CHPS compound",
+      "rationale": "Rural district with very low total facility density. A CHPS compound is the lowest-cost, highest-coverage intervention.",
+      "priority_score": 0.784
+    },
+    {
+      "id": "personnel_allocation",
+      "title": "Increase healthcare personnel allocation",
+      "rationale": "Even where physical infrastructure exists, this risk tier indicates under-staffing relative to need.",
+      "priority_score": 0.653
+    },
+    {
+      "id": "pharmacy_expansion",
+      "title": "Subsidise pharmacy expansion",
+      "rationale": "Pharmacy density is below 2 per 100k \u2014 medication access is constrained.",
+      "priority_score": 0.61
+    }
+  ],
+  "Bono East::Techiman North": [
+    {
+      "id": "deploy_chps",
+      "title": "Deploy new CHPS compound",
+      "rationale": "Rural district with very low total facility density. A CHPS compound is the lowest-cost, highest-coverage intervention.",
+      "priority_score": 0.782
+    },
+    {
+      "id": "personnel_allocation",
+      "title": "Increase healthcare personnel allocation",
+      "rationale": "Even where physical infrastructure exists, this risk tier indicates under-staffing relative to need.",
+      "priority_score": 0.652
+    },
+    {
+      "id": "pharmacy_expansion",
+      "title": "Subsidise pharmacy expansion",
+      "rationale": "Pharmacy density is below 2 per 100k \u2014 medication access is constrained.",
+      "priority_score": 0.608
+    }
+  ],
+  "Oti::Biakoye": [
+    {
+      "id": "personnel_allocation",
+      "title": "Increase healthcare personnel allocation",
+      "rationale": "Even where physical infrastructure exists, this risk tier indicates under-staffing relative to need.",
+      "priority_score": 0.651
+    },
+    {
+      "id": "pharmacy_expansion",
+      "title": "Subsidise pharmacy expansion",
+      "rationale": "Pharmacy density is below 2 per 100k \u2014 medication access is constrained.",
+      "priority_score": 0.607
+    },
+    {
+      "id": "road_accessibility",
+      "title": "Improve road accessibility to existing facilities",
+      "rationale": "Facilities exist but are far apart \u2014 investment in feeder roads multiplies their effective reach.",
+      "priority_score": 0.521
+    }
+  ],
+  "Volta::Keta Municipal": [
+    {
+      "id": "personnel_allocation",
+      "title": "Increase healthcare personnel allocation",
+      "rationale": "Even where physical infrastructure exists, this risk tier indicates under-staffing relative to need.",
+      "priority_score": 0.65
+    },
+    {
+      "id": "specialty_diversification",
+      "title": "Add specialist healthcare provision",
+      "rationale": "Only a narrow set of facility types are present; residents have to travel out of district for many services.",
+      "priority_score": 0.563
+    }
+  ],
+  "Eastern::Kwahu Afram Plains South": [
+    {
+      "id": "mobile_clinic",
+      "title": "Deploy mobile clinic services",
+      "rationale": "Facilities are sparsely distributed (median nearest-neighbour distance > 15 km). Mobile units bridge the gap.",
+      "priority_score": 0.735
+    },
+    {
+      "id": "personnel_allocation",
+      "title": "Increase healthcare personnel allocation",
+      "rationale": "Even where physical infrastructure exists, this risk tier indicates under-staffing relative to need.",
+      "priority_score": 0.649
+    },
+    {
+      "id": "pharmacy_expansion",
+      "title": "Subsidise pharmacy expansion",
+      "rationale": "Pharmacy density is below 2 per 100k \u2014 medication access is constrained.",
+      "priority_score": 0.606
+    },
+    {
+      "id": "road_accessibility",
+      "title": "Improve road accessibility to existing facilities",
+      "rationale": "Facilities exist but are far apart \u2014 investment in feeder roads multiplies their effective reach.",
+      "priority_score": 0.519
+    }
+  ],
+  "Greater Accra::Ga West Municipal": [
+    {
+      "id": "personnel_allocation",
+      "title": "Increase healthcare personnel allocation",
+      "rationale": "Even where physical infrastructure exists, this risk tier indicates under-staffing relative to need.",
+      "priority_score": 0.648
+    },
+    {
+      "id": "pharmacy_expansion",
+      "title": "Subsidise pharmacy expansion",
+      "rationale": "Pharmacy density is below 2 per 100k \u2014 medication access is constrained.",
+      "priority_score": 0.605
+    }
+  ],
+  "Volta::Akatsi South": [
+    {
+      "id": "personnel_allocation",
+      "title": "Increase healthcare personnel allocation",
+      "rationale": "Even where physical infrastructure exists, this risk tier indicates under-staffing relative to need.",
+      "priority_score": 0.647
+    }
+  ],
+  "Western::Ellembelle": [
+    {
+      "id": "personnel_allocation",
+      "title": "Increase healthcare personnel allocation",
+      "rationale": "Even where physical infrastructure exists, this risk tier indicates under-staffing relative to need.",
+      "priority_score": 0.647
+    },
+    {
+      "id": "pharmacy_expansion",
+      "title": "Subsidise pharmacy expansion",
+      "rationale": "Pharmacy density is below 2 per 100k \u2014 medication access is constrained.",
+      "priority_score": 0.604
+    },
+    {
+      "id": "specialty_diversification",
+      "title": "Add specialist healthcare provision",
+      "rationale": "Only a narrow set of facility types are present; residents have to travel out of district for many services.",
+      "priority_score": 0.561
+    }
+  ],
+  "Upper East::Kasena Nankana West": [
+    {
+      "id": "personnel_allocation",
+      "title": "Increase healthcare personnel allocation",
+      "rationale": "Even where physical infrastructure exists, this risk tier indicates under-staffing relative to need.",
+      "priority_score": 0.645
+    },
+    {
+      "id": "pharmacy_expansion",
+      "title": "Subsidise pharmacy expansion",
+      "rationale": "Pharmacy density is below 2 per 100k \u2014 medication access is constrained.",
+      "priority_score": 0.602
+    }
+  ],
+  "Bono::Sunyani West": [
+    {
+      "id": "personnel_allocation",
+      "title": "Increase healthcare personnel allocation",
+      "rationale": "Even where physical infrastructure exists, this risk tier indicates under-staffing relative to need.",
+      "priority_score": 0.645
+    },
+    {
+      "id": "pharmacy_expansion",
+      "title": "Subsidise pharmacy expansion",
+      "rationale": "Pharmacy density is below 2 per 100k \u2014 medication access is constrained.",
+      "priority_score": 0.602
+    }
+  ],
+  "Ashanti::Ejisu Municipal": [
+    {
+      "id": "personnel_allocation",
+      "title": "Increase healthcare personnel allocation",
+      "rationale": "Even where physical infrastructure exists, this risk tier indicates under-staffing relative to need.",
+      "priority_score": 0.645
+    },
+    {
+      "id": "pharmacy_expansion",
+      "title": "Subsidise pharmacy expansion",
+      "rationale": "Pharmacy density is below 2 per 100k \u2014 medication access is constrained.",
+      "priority_score": 0.602
+    }
+  ],
+  "Upper West::Nadowli-Kaleo": [
+    {
+      "id": "personnel_allocation",
+      "title": "Increase healthcare personnel allocation",
+      "rationale": "Even where physical infrastructure exists, this risk tier indicates under-staffing relative to need.",
+      "priority_score": 0.645
+    },
+    {
+      "id": "pharmacy_expansion",
+      "title": "Subsidise pharmacy expansion",
+      "rationale": "Pharmacy density is below 2 per 100k \u2014 medication access is constrained.",
+      "priority_score": 0.602
+    }
+  ],
+  "Bono::Jaman South Municipal": [
+    {
+      "id": "personnel_allocation",
+      "title": "Increase healthcare personnel allocation",
+      "rationale": "Even where physical infrastructure exists, this risk tier indicates under-staffing relative to need.",
+      "priority_score": 0.644
+    },
+    {
+      "id": "pharmacy_expansion",
+      "title": "Subsidise pharmacy expansion",
+      "rationale": "Pharmacy density is below 2 per 100k \u2014 medication access is constrained.",
+      "priority_score": 0.601
+    }
+  ],
+  "Upper East::Bolga  East": [
+    {
+      "id": "personnel_allocation",
+      "title": "Increase healthcare personnel allocation",
+      "rationale": "Even where physical infrastructure exists, this risk tier indicates under-staffing relative to need.",
+      "priority_score": 0.642
+    },
+    {
+      "id": "specialty_diversification",
+      "title": "Add specialist healthcare provision",
+      "rationale": "Only a narrow set of facility types are present; residents have to travel out of district for many services.",
+      "priority_score": 0.557
+    }
+  ],
+  "Northern::Savelugu": [
+    {
+      "id": "personnel_allocation",
+      "title": "Increase healthcare personnel allocation",
+      "rationale": "Even where physical infrastructure exists, this risk tier indicates under-staffing relative to need.",
+      "priority_score": 0.642
+    },
+    {
+      "id": "pharmacy_expansion",
+      "title": "Subsidise pharmacy expansion",
+      "rationale": "Pharmacy density is below 2 per 100k \u2014 medication access is constrained.",
+      "priority_score": 0.599
+    }
+  ],
+  "Bono East::Kintampo South": [
+    {
+      "id": "personnel_allocation",
+      "title": "Increase healthcare personnel allocation",
+      "rationale": "Even where physical infrastructure exists, this risk tier indicates under-staffing relative to need.",
+      "priority_score": 0.639
+    },
+    {
+      "id": "pharmacy_expansion",
+      "title": "Subsidise pharmacy expansion",
+      "rationale": "Pharmacy density is below 2 per 100k \u2014 medication access is constrained.",
+      "priority_score": 0.597
+    }
+  ],
+  "Ahafo::Tano South Municipal": [
+    {
+      "id": "personnel_allocation",
+      "title": "Increase healthcare personnel allocation",
+      "rationale": "Even where physical infrastructure exists, this risk tier indicates under-staffing relative to need.",
+      "priority_score": 0.639
+    },
+    {
+      "id": "pharmacy_expansion",
+      "title": "Subsidise pharmacy expansion",
+      "rationale": "Pharmacy density is below 2 per 100k \u2014 medication access is constrained.",
+      "priority_score": 0.596
+    },
+    {
+      "id": "road_accessibility",
+      "title": "Improve road accessibility to existing facilities",
+      "rationale": "Facilities exist but are far apart \u2014 investment in feeder roads multiplies their effective reach.",
+      "priority_score": 0.511
+    }
+  ],
+  "Greater Accra::Ayawaso North Municipal": [
+    {
+      "id": "personnel_allocation",
+      "title": "Increase healthcare personnel allocation",
+      "rationale": "Even where physical infrastructure exists, this risk tier indicates under-staffing relative to need.",
+      "priority_score": 0.638
+    },
+    {
+      "id": "pharmacy_expansion",
+      "title": "Subsidise pharmacy expansion",
+      "rationale": "Pharmacy density is below 2 per 100k \u2014 medication access is constrained.",
+      "priority_score": 0.596
+    }
+  ],
+  "Greater Accra::Ablekuma Central Municipal": [
+    {
+      "id": "personnel_allocation",
+      "title": "Increase healthcare personnel allocation",
+      "rationale": "Even where physical infrastructure exists, this risk tier indicates under-staffing relative to need.",
+      "priority_score": 0.636
+    },
+    {
+      "id": "pharmacy_expansion",
+      "title": "Subsidise pharmacy expansion",
+      "rationale": "Pharmacy density is below 2 per 100k \u2014 medication access is constrained.",
+      "priority_score": 0.594
+    }
+  ],
+  "Upper East::Talensi": [
+    {
+      "id": "personnel_allocation",
+      "title": "Increase healthcare personnel allocation",
+      "rationale": "Even where physical infrastructure exists, this risk tier indicates under-staffing relative to need.",
+      "priority_score": 0.635
+    },
+    {
+      "id": "pharmacy_expansion",
+      "title": "Subsidise pharmacy expansion",
+      "rationale": "Pharmacy density is below 2 per 100k \u2014 medication access is constrained.",
+      "priority_score": 0.592
+    }
+  ],
+  "Ahafo::Asutifi South": [
+    {
+      "id": "personnel_allocation",
+      "title": "Increase healthcare personnel allocation",
+      "rationale": "Even where physical infrastructure exists, this risk tier indicates under-staffing relative to need.",
+      "priority_score": 0.632
+    },
+    {
+      "id": "pharmacy_expansion",
+      "title": "Subsidise pharmacy expansion",
+      "rationale": "Pharmacy density is below 2 per 100k \u2014 medication access is constrained.",
+      "priority_score": 0.59
+    }
+  ],
+  "Northern::Saboba": [
+    {
+      "id": "personnel_allocation",
+      "title": "Increase healthcare personnel allocation",
+      "rationale": "Even where physical infrastructure exists, this risk tier indicates under-staffing relative to need.",
+      "priority_score": 0.632
+    },
+    {
+      "id": "pharmacy_expansion",
+      "title": "Subsidise pharmacy expansion",
+      "rationale": "Pharmacy density is below 2 per 100k \u2014 medication access is constrained.",
+      "priority_score": 0.59
+    }
+  ],
+  "Central::Ekumfi": [
+    {
+      "id": "personnel_allocation",
+      "title": "Increase healthcare personnel allocation",
+      "rationale": "Even where physical infrastructure exists, this risk tier indicates under-staffing relative to need.",
+      "priority_score": 0.628
+    },
+    {
+      "id": "pharmacy_expansion",
+      "title": "Subsidise pharmacy expansion",
+      "rationale": "Pharmacy density is below 2 per 100k \u2014 medication access is constrained.",
+      "priority_score": 0.586
+    }
+  ],
+  "Ashanti::Old Tafo Municipal": [
+    {
+      "id": "personnel_allocation",
+      "title": "Increase healthcare personnel allocation",
+      "rationale": "Even where physical infrastructure exists, this risk tier indicates under-staffing relative to need.",
+      "priority_score": 0.627
+    }
+  ],
+  "Central::Mfantseman Municipal": [
+    {
+      "id": "personnel_allocation",
+      "title": "Increase healthcare personnel allocation",
+      "rationale": "Even where physical infrastructure exists, this risk tier indicates under-staffing relative to need.",
+      "priority_score": 0.626
+    }
+  ],
+  "Greater Accra::Ablekuma West Municipal": [
+    {
+      "id": "personnel_allocation",
+      "title": "Increase healthcare personnel allocation",
+      "rationale": "Even where physical infrastructure exists, this risk tier indicates under-staffing relative to need.",
+      "priority_score": 0.624
+    },
+    {
+      "id": "pharmacy_expansion",
+      "title": "Subsidise pharmacy expansion",
+      "rationale": "Pharmacy density is below 2 per 100k \u2014 medication access is constrained.",
+      "priority_score": 0.583
+    }
+  ],
+  "Upper West::Wa West": [
+    {
+      "id": "personnel_allocation",
+      "title": "Increase healthcare personnel allocation",
+      "rationale": "Even where physical infrastructure exists, this risk tier indicates under-staffing relative to need.",
+      "priority_score": 0.619
+    }
+  ],
+  "Bono East::Kintampo North Municipal": [
+    {
+      "id": "personnel_allocation",
+      "title": "Increase healthcare personnel allocation",
+      "rationale": "Even where physical infrastructure exists, this risk tier indicates under-staffing relative to need.",
+      "priority_score": 0.617
+    },
+    {
+      "id": "pharmacy_expansion",
+      "title": "Subsidise pharmacy expansion",
+      "rationale": "Pharmacy density is below 2 per 100k \u2014 medication access is constrained.",
+      "priority_score": 0.576
+    }
+  ],
+  "Volta::South Dayi": [
+    {
+      "id": "personnel_allocation",
+      "title": "Increase healthcare personnel allocation",
+      "rationale": "Even where physical infrastructure exists, this risk tier indicates under-staffing relative to need.",
+      "priority_score": 0.617
+    }
+  ],
+  "Ahafo::Asunafo South": [
+    {
+      "id": "personnel_allocation",
+      "title": "Increase healthcare personnel allocation",
+      "rationale": "Even where physical infrastructure exists, this risk tier indicates under-staffing relative to need.",
+      "priority_score": 0.617
+    },
+    {
+      "id": "pharmacy_expansion",
+      "title": "Subsidise pharmacy expansion",
+      "rationale": "Pharmacy density is below 2 per 100k \u2014 medication access is constrained.",
+      "priority_score": 0.575
+    },
+    {
+      "id": "road_accessibility",
+      "title": "Improve road accessibility to existing facilities",
+      "rationale": "Facilities exist but are far apart \u2014 investment in feeder roads multiplies their effective reach.",
+      "priority_score": 0.493
+    }
+  ],
+  "Western::Effia Kwesimintsim Municipal": [
+    {
+      "id": "build_phc",
+      "title": "Build additional primary healthcare centre",
+      "rationale": "Hospital + clinic supply is below 1.5 per 100k people, well under WHO primary-care benchmarks.",
+      "priority_score": 0.778
+    },
+    {
+      "id": "personnel_allocation",
+      "title": "Increase healthcare personnel allocation",
+      "rationale": "Even where physical infrastructure exists, this risk tier indicates under-staffing relative to need.",
+      "priority_score": 0.614
+    }
+  ],
+  "Upper East::Kasena Nankana East": [
+    {
+      "id": "personnel_allocation",
+      "title": "Increase healthcare personnel allocation",
+      "rationale": "Even where physical infrastructure exists, this risk tier indicates under-staffing relative to need.",
+      "priority_score": 0.608
+    }
+  ],
+  "Greater Accra::Ningo/Prampram": [
+    {
+      "id": "personnel_allocation",
+      "title": "Increase healthcare personnel allocation",
+      "rationale": "Even where physical infrastructure exists, this risk tier indicates under-staffing relative to need.",
+      "priority_score": 0.608
+    }
+  ],
+  "Volta::Adaklu": [
+    {
+      "id": "personnel_allocation",
+      "title": "Increase healthcare personnel allocation",
+      "rationale": "Even where physical infrastructure exists, this risk tier indicates under-staffing relative to need.",
+      "priority_score": 0.607
+    },
+    {
+      "id": "pharmacy_expansion",
+      "title": "Subsidise pharmacy expansion",
+      "rationale": "Pharmacy density is below 2 per 100k \u2014 medication access is constrained.",
+      "priority_score": 0.567
+    }
+  ],
+  "Central::Gomoa East": [
+    {
+      "id": "personnel_allocation",
+      "title": "Increase healthcare personnel allocation",
+      "rationale": "Even where physical infrastructure exists, this risk tier indicates under-staffing relative to need.",
+      "priority_score": 0.605
+    }
+  ],
+  "Greater Accra::Kpone Katamanso": [
+    {
+      "id": "personnel_allocation",
+      "title": "Increase healthcare personnel allocation",
+      "rationale": "Even where physical infrastructure exists, this risk tier indicates under-staffing relative to need.",
+      "priority_score": 0.604
+    }
+  ],
+  "Bono East::Techiman Municipal": [
+    {
+      "id": "personnel_allocation",
+      "title": "Increase healthcare personnel allocation",
+      "rationale": "Even where physical infrastructure exists, this risk tier indicates under-staffing relative to need.",
+      "priority_score": 0.602
+    }
+  ],
+  "Eastern::Kwahu West": [
+    {
+      "id": "personnel_allocation",
+      "title": "Increase healthcare personnel allocation",
+      "rationale": "Even where physical infrastructure exists, this risk tier indicates under-staffing relative to need.",
+      "priority_score": 0.601
+    },
+    {
+      "id": "pharmacy_expansion",
+      "title": "Subsidise pharmacy expansion",
+      "rationale": "Pharmacy density is below 2 per 100k \u2014 medication access is constrained.",
+      "priority_score": 0.561
+    },
+    {
+      "id": "specialty_diversification",
+      "title": "Add specialist healthcare provision",
+      "rationale": "Only a narrow set of facility types are present; residents have to travel out of district for many services.",
+      "priority_score": 0.521
+    }
+  ],
+  "Ashanti::Atwima Nwabiagya South": [
+    {
+      "id": "personnel_allocation",
+      "title": "Increase healthcare personnel allocation",
+      "rationale": "Even where physical infrastructure exists, this risk tier indicates under-staffing relative to need.",
+      "priority_score": 0.601
+    }
+  ],
+  "Ashanti::Suame Municipal": [
+    {
+      "id": "personnel_allocation",
+      "title": "Increase healthcare personnel allocation",
+      "rationale": "Even where physical infrastructure exists, this risk tier indicates under-staffing relative to need.",
+      "priority_score": 0.6
+    }
+  ],
+  "Eastern::Yilo Krobo": [],
+  "Western::Jomoro": [
+    {
+      "id": "road_accessibility",
+      "title": "Improve road accessibility to existing facilities",
+      "rationale": "Facilities exist but are far apart \u2014 investment in feeder roads multiplies their effective reach.",
+      "priority_score": 0.474
+    }
+  ],
+  "Oti::Nkwanta North": [],
+  "Eastern::Lower Manya": [],
+  "Ashanti::Kwadaso Municipal": [],
+  "Western North::Bibiani-Anhwiaso-Bekwai Municipal": [],
+  "Upper East::Bolgatanga Municipal": [],
+  "Greater Accra::Ashaiman Municipal": [],
+  "Oti::Jasikan": [
+    {
+      "id": "pharmacy_expansion",
+      "title": "Subsidise pharmacy expansion",
+      "rationale": "Pharmacy density is below 2 per 100k \u2014 medication access is constrained.",
+      "priority_score": 0.533
+    }
+  ],
+  "Central::Twifo Atti-Morkwa": [],
+  "Savannah::West Gonja": [],
+  "Oti::Kadjebi": [
+    {
+      "id": "pharmacy_expansion",
+      "title": "Subsidise pharmacy expansion",
+      "rationale": "Pharmacy density is below 2 per 100k \u2014 medication access is constrained.",
+      "priority_score": 0.529
+    }
+  ],
+  "Greater Accra::Accra Metropolis": [],
+  "Central::Effutu Municipal": [],
+  "Eastern::Kwahu Afram Plains North": [
+    {
+      "id": "pharmacy_expansion",
+      "title": "Subsidise pharmacy expansion",
+      "rationale": "Pharmacy density is below 2 per 100k \u2014 medication access is constrained.",
+      "priority_score": 0.523
+    }
+  ],
+  "Volta::North Dayi": [
+    {
+      "id": "pharmacy_expansion",
+      "title": "Subsidise pharmacy expansion",
+      "rationale": "Pharmacy density is below 2 per 100k \u2014 medication access is constrained.",
+      "priority_score": 0.521
+    }
+  ],
+  "Volta::Ketu South": [],
+  "Greater Accra::Ga North Municipal": [],
+  "Western North::Aowin": [],
+  "Greater Accra::Tema Metropolitan": [],
+  "Volta::Kpando Municipal": [
+    {
+      "id": "pharmacy_expansion",
+      "title": "Subsidise pharmacy expansion",
+      "rationale": "Pharmacy density is below 2 per 100k \u2014 medication access is constrained.",
+      "priority_score": 0.506
+    }
+  ],
+  "Ashanti::Oforikrom Municipal": [],
+  "Northern::Sagnerigu": [],
+  "Ashanti::Kumasi Metropolitan": [],
+  "Greater Accra::Tema West Municipal": [],
+  "Volta::South Tongu": [],
+  "Western::Sekondi Takoradi Metropolis": [],
+  "Oti::Nkwanta South Municipal": [
+    {
+      "id": "pharmacy_expansion",
+      "title": "Subsidise pharmacy expansion",
+      "rationale": "Pharmacy density is below 2 per 100k \u2014 medication access is constrained.",
+      "priority_score": 0.484
+    }
+  ],
+  "Greater Accra::Adenta Municipal": [],
+  "Volta::Afadzato South": [
+    {
+      "id": "pharmacy_expansion",
+      "title": "Subsidise pharmacy expansion",
+      "rationale": "Pharmacy density is below 2 per 100k \u2014 medication access is constrained.",
+      "priority_score": 0.471
+    }
+  ],
+  "Ahafo::Asunafo North Municipal": [],
+  "Volta::Ho West": [
+    {
+      "id": "pharmacy_expansion",
+      "title": "Subsidise pharmacy expansion",
+      "rationale": "Pharmacy density is below 2 per 100k \u2014 medication access is constrained.",
+      "priority_score": 0.469
+    }
+  ],
+  "Greater Accra::Weija Gbawe Municipal": [],
+  "Bono::Sunyani Municipal": [],
+  "Greater Accra::Ledzokuku Municipal": [],
+  "Greater Accra::Ablekuma North Municipal": [],
+  "Upper West::Wa Municipal": [],
+  "Volta::Central Tongu": [
+    {
+      "id": "pharmacy_expansion",
+      "title": "Subsidise pharmacy expansion",
+      "rationale": "Pharmacy density is below 2 per 100k \u2014 medication access is constrained.",
+      "priority_score": 0.457
+    }
+  ],
+  "Greater Accra::La Dade-Kotopon": [],
+  "Greater Accra::Krowor Municipal": [],
+  "Western::Tarkwa Nsuaem": [],
+  "Northern::Tamale Metropolitan": [],
+  "Volta::Ho Municipal": [],
+  "Greater Accra::Okaikwei North Municipal": [],
+  "Eastern::New Juaben South Municipal": [],
+  "Greater Accra::Ayawaso East Municipal": [],
+  "Greater Accra::Ayawaso West": [],
+  "Volta::Hohoe Municipal": [],
+  "Greater Accra::Korle Klottey Municipal": [],
+  "Greater Accra::Ga East": [],
+  "Greater Accra::La-Nkwantanang-Madina": [],
+  "Central::Cape Coast Metropolitan": []
+}

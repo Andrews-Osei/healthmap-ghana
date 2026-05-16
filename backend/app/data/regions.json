@@ -1,0 +1,178 @@
+[
+  {
+    "region": "Savannah",
+    "districts": 5,
+    "total_facilities": 24,
+    "mean_facilities_per_100k": 3.6738480190305323,
+    "mean_hosp_per_100k": 2.7553860142729,
+    "mean_CVI": 84.256,
+    "population_2021": 653266,
+    "critical_count": 3,
+    "high_count": 1
+  },
+  {
+    "region": "Bono",
+    "districts": 10,
+    "total_facilities": 52,
+    "mean_facilities_per_100k": 4.302324330719672,
+    "mean_hosp_per_100k": 2.564847197159804,
+    "mean_CVI": 81.556,
+    "population_2021": 1208649,
+    "critical_count": 4,
+    "high_count": 5
+  },
+  {
+    "region": "Ashanti",
+    "districts": 29,
+    "total_facilities": 219,
+    "mean_facilities_per_100k": 4.025392691761712,
+    "mean_hosp_per_100k": 1.8932212203262846,
+    "mean_CVI": 79.91758620689656,
+    "population_2021": 5440463,
+    "critical_count": 11,
+    "high_count": 15
+  },
+  {
+    "region": "Western North",
+    "districts": 6,
+    "total_facilities": 48,
+    "mean_facilities_per_100k": 5.448842745263196,
+    "mean_hosp_per_100k": 2.724421372631598,
+    "mean_CVI": 79.21499999999999,
+    "population_2021": 880921,
+    "critical_count": 3,
+    "high_count": 1
+  },
+  {
+    "region": "Eastern",
+    "districts": 26,
+    "total_facilities": 158,
+    "mean_facilities_per_100k": 5.416451408431632,
+    "mean_hosp_per_100k": 2.8453510563280093,
+    "mean_CVI": 78.71615384615384,
+    "population_2021": 2917039,
+    "critical_count": 10,
+    "high_count": 12
+  },
+  {
+    "region": "Northern",
+    "districts": 15,
+    "total_facilities": 133,
+    "mean_facilities_per_100k": 5.7552362913949695,
+    "mean_hosp_per_100k": 2.1636226659379587,
+    "mean_CVI": 78.66466666666666,
+    "population_2021": 2310939,
+    "critical_count": 6,
+    "high_count": 7
+  },
+  {
+    "region": "Upper East",
+    "districts": 12,
+    "total_facilities": 67,
+    "mean_facilities_per_100k": 5.149010045180642,
+    "mean_hosp_per_100k": 2.382377782098506,
+    "mean_CVI": 77.625,
+    "population_2021": 1301221,
+    "critical_count": 3,
+    "high_count": 8
+  },
+  {
+    "region": "Bono East",
+    "districts": 8,
+    "total_facilities": 43,
+    "mean_facilities_per_100k": 3.5732092404852915,
+    "mean_hosp_per_100k": 2.576034568721955,
+    "mean_CVI": 76.61375,
+    "population_2021": 1203400,
+    "critical_count": 1,
+    "high_count": 7
+  },
+  {
+    "region": "Upper West",
+    "districts": 8,
+    "total_facilities": 51,
+    "mean_facilities_per_100k": 5.657225386077902,
+    "mean_hosp_per_100k": 3.3277796388693535,
+    "mean_CVI": 76.22875,
+    "population_2021": 901502,
+    "critical_count": 2,
+    "high_count": 5
+  },
+  {
+    "region": "Central",
+    "districts": 19,
+    "total_facilities": 177,
+    "mean_facilities_per_100k": 6.189198554734719,
+    "mean_hosp_per_100k": 2.7624106543731237,
+    "mean_CVI": 75.15894736842105,
+    "population_2021": 2859821,
+    "critical_count": 5,
+    "high_count": 11
+  },
+  {
+    "region": "Northern East",
+    "districts": 3,
+    "total_facilities": 21,
+    "mean_facilities_per_100k": 3.1869075766451274,
+    "mean_hosp_per_100k": 1.8210900437972157,
+    "mean_CVI": 75.11333333333333,
+    "population_2021": 658946,
+    "critical_count": 0,
+    "high_count": 3
+  },
+  {
+    "region": "Western",
+    "districts": 13,
+    "total_facilities": 148,
+    "mean_facilities_per_100k": 7.182426349798722,
+    "mean_hosp_per_100k": 3.251503820516989,
+    "mean_CVI": 70.90846153846154,
+    "population_2021": 2060585,
+    "critical_count": 2,
+    "high_count": 8
+  },
+  {
+    "region": "Ahafo",
+    "districts": 6,
+    "total_facilities": 45,
+    "mean_facilities_per_100k": 7.9692846061756635,
+    "mean_hosp_per_100k": 3.896094696352547,
+    "mean_CVI": 68.62666666666667,
+    "population_2021": 564668,
+    "critical_count": 1,
+    "high_count": 4
+  },
+  {
+    "region": "Oti",
+    "districts": 8,
+    "total_facilities": 67,
+    "mean_facilities_per_100k": 8.966125442786083,
+    "mean_hosp_per_100k": 5.620556247716649,
+    "mean_CVI": 66.72375,
+    "population_2021": 747257,
+    "critical_count": 2,
+    "high_count": 2
+  },
+  {
+    "region": "Volta",
+    "districts": 17,
+    "total_facilities": 228,
+    "mean_facilities_per_100k": 13.742887452984858,
+    "mean_hosp_per_100k": 8.67971839135886,
+    "mean_CVI": 54.95411764705882,
+    "population_2021": 1659040,
+    "critical_count": 3,
+    "high_count": 5
+  },
+  {
+    "region": "Greater Accra",
+    "districts": 27,
+    "total_facilities": 993,
+    "mean_facilities_per_100k": 18.201174113201407,
+    "mean_hosp_per_100k": 5.810445311062282,
+    "mean_CVI": 46.479629629629635,
+    "population_2021": 5455692,
+    "critical_count": 3,
+    "high_count": 7
+  }
+]

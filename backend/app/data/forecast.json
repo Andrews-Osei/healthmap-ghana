@@ -1,0 +1,5726 @@
+[
+  {
+    "district": "Asikuma-Odoben-Brakwa",
+    "region": "Central",
+    "year": 2026,
+    "projected_pop": 165370,
+    "current_facilities": 1,
+    "required_facilities": 14.9,
+    "projected_shortfall": 13.9
+  },
+  {
+    "district": "Asikuma-Odoben-Brakwa",
+    "region": "Central",
+    "year": 2030,
+    "projected_pop": 178301,
+    "current_facilities": 1,
+    "required_facilities": 16.0,
+    "projected_shortfall": 15.0
+  },
+  {
+    "district": "Asikuma-Odoben-Brakwa",
+    "region": "Central",
+    "year": 2035,
+    "projected_pop": 195895,
+    "current_facilities": 1,
+    "required_facilities": 17.6,
+    "projected_shortfall": 16.6
+  },
+  {
+    "district": "Amansie South",
+    "region": "Ashanti",
+    "year": 2026,
+    "projected_pop": 206115,
+    "current_facilities": 1,
+    "required_facilities": 18.6,
+    "projected_shortfall": 17.6
+  },
+  {
+    "district": "Amansie South",
+    "region": "Ashanti",
+    "year": 2030,
+    "projected_pop": 222231,
+    "current_facilities": 1,
+    "required_facilities": 20.0,
+    "projected_shortfall": 19.0
+  },
+  {
+    "district": "Amansie South",
+    "region": "Ashanti",
+    "year": 2035,
+    "projected_pop": 244161,
+    "current_facilities": 1,
+    "required_facilities": 22.0,
+    "projected_shortfall": 21.0
+  },
+  {
+    "district": "Nanumba South",
+    "region": "Northern",
+    "year": 2026,
+    "projected_pop": 169265,
+    "current_facilities": 1,
+    "required_facilities": 15.2,
+    "projected_shortfall": 14.2
+  },
+  {
+    "district": "Nanumba South",
+    "region": "Northern",
+    "year": 2030,
+    "projected_pop": 182501,
+    "current_facilities": 1,
+    "required_facilities": 16.4,
+    "projected_shortfall": 15.4
+  },
+  {
+    "district": "Nanumba South",
+    "region": "Northern",
+    "year": 2035,
+    "projected_pop": 200510,
+    "current_facilities": 1,
+    "required_facilities": 18.0,
+    "projected_shortfall": 17.0
+  },
+  {
+    "district": "Pru East",
+    "region": "Bono East",
+    "year": 2026,
+    "projected_pop": 165269,
+    "current_facilities": 1,
+    "required_facilities": 14.9,
+    "projected_shortfall": 13.9
+  },
+  {
+    "district": "Pru East",
+    "region": "Bono East",
+    "year": 2030,
+    "projected_pop": 178192,
+    "current_facilities": 1,
+    "required_facilities": 16.0,
+    "projected_shortfall": 15.0
+  },
+  {
+    "district": "Pru East",
+    "region": "Bono East",
+    "year": 2035,
+    "projected_pop": 195776,
+    "current_facilities": 1,
+    "required_facilities": 17.6,
+    "projected_shortfall": 16.6
+  },
+  {
+    "district": "Agona East",
+    "region": "Central",
+    "year": 2026,
+    "projected_pop": 165370,
+    "current_facilities": 1,
+    "required_facilities": 14.9,
+    "projected_shortfall": 13.9
+  },
+  {
+    "district": "Agona East",
+    "region": "Central",
+    "year": 2030,
+    "projected_pop": 178301,
+    "current_facilities": 1,
+    "required_facilities": 16.0,
+    "projected_shortfall": 15.0
+  },
+  {
+    "district": "Agona East",
+    "region": "Central",
+    "year": 2035,
+    "projected_pop": 195895,
+    "current_facilities": 1,
+    "required_facilities": 17.6,
+    "projected_shortfall": 16.6
+  },
+  {
+    "district": "Abura-Asebu-Kwamankese",
+    "region": "Central",
+    "year": 2026,
+    "projected_pop": 165370,
+    "current_facilities": 1,
+    "required_facilities": 14.9,
+    "projected_shortfall": 13.9
+  },
+  {
+    "district": "Abura-Asebu-Kwamankese",
+    "region": "Central",
+    "year": 2030,
+    "projected_pop": 178301,
+    "current_facilities": 1,
+    "required_facilities": 16.0,
+    "projected_shortfall": 15.0
+  },
+  {
+    "district": "Abura-Asebu-Kwamankese",
+    "region": "Central",
+    "year": 2035,
+    "projected_pop": 195895,
+    "current_facilities": 1,
+    "required_facilities": 17.6,
+    "projected_shortfall": 16.6
+  },
+  {
+    "district": "Ejura-Sekyedumase",
+    "region": "Ashanti",
+    "year": 2026,
+    "projected_pop": 206115,
+    "current_facilities": 1,
+    "required_facilities": 18.6,
+    "projected_shortfall": 17.6
+  },
+  {
+    "district": "Ejura-Sekyedumase",
+    "region": "Ashanti",
+    "year": 2030,
+    "projected_pop": 222231,
+    "current_facilities": 1,
+    "required_facilities": 20.0,
+    "projected_shortfall": 19.0
+  },
+  {
+    "district": "Ejura-Sekyedumase",
+    "region": "Ashanti",
+    "year": 2035,
+    "projected_pop": 244161,
+    "current_facilities": 1,
+    "required_facilities": 22.0,
+    "projected_shortfall": 21.0
+  },
+  {
+    "district": "Asante Akim North",
+    "region": "Ashanti",
+    "year": 2026,
+    "projected_pop": 206115,
+    "current_facilities": 1,
+    "required_facilities": 18.6,
+    "projected_shortfall": 17.6
+  },
+  {
+    "district": "Asante Akim North",
+    "region": "Ashanti",
+    "year": 2030,
+    "projected_pop": 222231,
+    "current_facilities": 1,
+    "required_facilities": 20.0,
+    "projected_shortfall": 19.0
+  },
+  {
+    "district": "Asante Akim North",
+    "region": "Ashanti",
+    "year": 2035,
+    "projected_pop": 244161,
+    "current_facilities": 1,
+    "required_facilities": 22.0,
+    "projected_shortfall": 21.0
+  },
+  {
+    "district": "Bosomtwe",
+    "region": "Ashanti",
+    "year": 2026,
+    "projected_pop": 206115,
+    "current_facilities": 1,
+    "required_facilities": 18.6,
+    "projected_shortfall": 17.6
+  },
+  {
+    "district": "Bosomtwe",
+    "region": "Ashanti",
+    "year": 2030,
+    "projected_pop": 222231,
+    "current_facilities": 1,
+    "required_facilities": 20.0,
+    "projected_shortfall": 19.0
+  },
+  {
+    "district": "Bosomtwe",
+    "region": "Ashanti",
+    "year": 2035,
+    "projected_pop": 244161,
+    "current_facilities": 1,
+    "required_facilities": 22.0,
+    "projected_shortfall": 21.0
+  },
+  {
+    "district": "Sekyere Kumawu",
+    "region": "Ashanti",
+    "year": 2026,
+    "projected_pop": 206115,
+    "current_facilities": 1,
+    "required_facilities": 18.6,
+    "projected_shortfall": 17.6
+  },
+  {
+    "district": "Sekyere Kumawu",
+    "region": "Ashanti",
+    "year": 2030,
+    "projected_pop": 222231,
+    "current_facilities": 1,
+    "required_facilities": 20.0,
+    "projected_shortfall": 19.0
+  },
+  {
+    "district": "Sekyere Kumawu",
+    "region": "Ashanti",
+    "year": 2035,
+    "projected_pop": 244161,
+    "current_facilities": 1,
+    "required_facilities": 22.0,
+    "projected_shortfall": 21.0
+  },
+  {
+    "district": "Ada West",
+    "region": "Greater Accra",
+    "year": 2026,
+    "projected_pop": 222002,
+    "current_facilities": 2,
+    "required_facilities": 20.0,
+    "projected_shortfall": 18.0
+  },
+  {
+    "district": "Ada West",
+    "region": "Greater Accra",
+    "year": 2030,
+    "projected_pop": 239361,
+    "current_facilities": 2,
+    "required_facilities": 21.5,
+    "projected_shortfall": 19.5
+  },
+  {
+    "district": "Ada West",
+    "region": "Greater Accra",
+    "year": 2035,
+    "projected_pop": 262981,
+    "current_facilities": 2,
+    "required_facilities": 23.7,
+    "projected_shortfall": 21.7
+  },
+  {
+    "district": "Nzema East",
+    "region": "Western",
+    "year": 2026,
+    "projected_pop": 174148,
+    "current_facilities": 1,
+    "required_facilities": 15.7,
+    "projected_shortfall": 14.7
+  },
+  {
+    "district": "Nzema East",
+    "region": "Western",
+    "year": 2030,
+    "projected_pop": 187765,
+    "current_facilities": 1,
+    "required_facilities": 16.9,
+    "projected_shortfall": 15.9
+  },
+  {
+    "district": "Nzema East",
+    "region": "Western",
+    "year": 2035,
+    "projected_pop": 206294,
+    "current_facilities": 1,
+    "required_facilities": 18.6,
+    "projected_shortfall": 17.6
+  },
+  {
+    "district": "Nanton",
+    "region": "Northern",
+    "year": 2026,
+    "projected_pop": 169265,
+    "current_facilities": 1,
+    "required_facilities": 15.2,
+    "projected_shortfall": 14.2
+  },
+  {
+    "district": "Nanton",
+    "region": "Northern",
+    "year": 2030,
+    "projected_pop": 182501,
+    "current_facilities": 1,
+    "required_facilities": 16.4,
+    "projected_shortfall": 15.4
+  },
+  {
+    "district": "Nanton",
+    "region": "Northern",
+    "year": 2035,
+    "projected_pop": 200510,
+    "current_facilities": 1,
+    "required_facilities": 18.0,
+    "projected_shortfall": 17.0
+  },
+  {
+    "district": "Mion",
+    "region": "Northern",
+    "year": 2026,
+    "projected_pop": 169265,
+    "current_facilities": 1,
+    "required_facilities": 15.2,
+    "projected_shortfall": 14.2
+  },
+  {
+    "district": "Mion",
+    "region": "Northern",
+    "year": 2030,
+    "projected_pop": 182501,
+    "current_facilities": 1,
+    "required_facilities": 16.4,
+    "projected_shortfall": 15.4
+  },
+  {
+    "district": "Mion",
+    "region": "Northern",
+    "year": 2035,
+    "projected_pop": 200510,
+    "current_facilities": 1,
+    "required_facilities": 18.0,
+    "projected_shortfall": 17.0
+  },
+  {
+    "district": "Tatale Sanguli",
+    "region": "Northern",
+    "year": 2026,
+    "projected_pop": 169265,
+    "current_facilities": 1,
+    "required_facilities": 15.2,
+    "projected_shortfall": 14.2
+  },
+  {
+    "district": "Tatale Sanguli",
+    "region": "Northern",
+    "year": 2030,
+    "projected_pop": 182501,
+    "current_facilities": 1,
+    "required_facilities": 16.4,
+    "projected_shortfall": 15.4
+  },
+  {
+    "district": "Tatale Sanguli",
+    "region": "Northern",
+    "year": 2035,
+    "projected_pop": 200510,
+    "current_facilities": 1,
+    "required_facilities": 18.0,
+    "projected_shortfall": 17.0
+  },
+  {
+    "district": "Kumbungu",
+    "region": "Northern",
+    "year": 2026,
+    "projected_pop": 169265,
+    "current_facilities": 1,
+    "required_facilities": 15.2,
+    "projected_shortfall": 14.2
+  },
+  {
+    "district": "Kumbungu",
+    "region": "Northern",
+    "year": 2030,
+    "projected_pop": 182501,
+    "current_facilities": 1,
+    "required_facilities": 16.4,
+    "projected_shortfall": 15.4
+  },
+  {
+    "district": "Kumbungu",
+    "region": "Northern",
+    "year": 2035,
+    "projected_pop": 200510,
+    "current_facilities": 1,
+    "required_facilities": 18.0,
+    "projected_shortfall": 17.0
+  },
+  {
+    "district": "Gomoa Central",
+    "region": "Central",
+    "year": 2026,
+    "projected_pop": 165370,
+    "current_facilities": 1,
+    "required_facilities": 14.9,
+    "projected_shortfall": 13.9
+  },
+  {
+    "district": "Gomoa Central",
+    "region": "Central",
+    "year": 2030,
+    "projected_pop": 178301,
+    "current_facilities": 1,
+    "required_facilities": 16.0,
+    "projected_shortfall": 15.0
+  },
+  {
+    "district": "Gomoa Central",
+    "region": "Central",
+    "year": 2035,
+    "projected_pop": 195895,
+    "current_facilities": 1,
+    "required_facilities": 17.6,
+    "projected_shortfall": 16.6
+  },
+  {
+    "district": "Juaboso",
+    "region": "Western North",
+    "year": 2026,
+    "projected_pop": 161308,
+    "current_facilities": 1,
+    "required_facilities": 14.5,
+    "projected_shortfall": 13.5
+  },
+  {
+    "district": "Juaboso",
+    "region": "Western North",
+    "year": 2030,
+    "projected_pop": 173922,
+    "current_facilities": 1,
+    "required_facilities": 15.7,
+    "projected_shortfall": 14.7
+  },
+  {
+    "district": "Juaboso",
+    "region": "Western North",
+    "year": 2035,
+    "projected_pop": 191084,
+    "current_facilities": 1,
+    "required_facilities": 17.2,
+    "projected_shortfall": 16.2
+  },
+  {
+    "district": "Bia East",
+    "region": "Western North",
+    "year": 2026,
+    "projected_pop": 161308,
+    "current_facilities": 1,
+    "required_facilities": 14.5,
+    "projected_shortfall": 13.5
+  },
+  {
+    "district": "Bia East",
+    "region": "Western North",
+    "year": 2030,
+    "projected_pop": 173922,
+    "current_facilities": 1,
+    "required_facilities": 15.7,
+    "projected_shortfall": 14.7
+  },
+  {
+    "district": "Bia East",
+    "region": "Western North",
+    "year": 2035,
+    "projected_pop": 191084,
+    "current_facilities": 1,
+    "required_facilities": 17.2,
+    "projected_shortfall": 16.2
+  },
+  {
+    "district": "Bodi",
+    "region": "Western North",
+    "year": 2026,
+    "projected_pop": 161308,
+    "current_facilities": 1,
+    "required_facilities": 14.5,
+    "projected_shortfall": 13.5
+  },
+  {
+    "district": "Bodi",
+    "region": "Western North",
+    "year": 2030,
+    "projected_pop": 173922,
+    "current_facilities": 1,
+    "required_facilities": 15.7,
+    "projected_shortfall": 14.7
+  },
+  {
+    "district": "Bodi",
+    "region": "Western North",
+    "year": 2035,
+    "projected_pop": 191084,
+    "current_facilities": 1,
+    "required_facilities": 17.2,
+    "projected_shortfall": 16.2
+  },
+  {
+    "district": "Bole",
+    "region": "Savannah",
+    "year": 2026,
+    "projected_pop": 143546,
+    "current_facilities": 1,
+    "required_facilities": 12.9,
+    "projected_shortfall": 11.9
+  },
+  {
+    "district": "Bole",
+    "region": "Savannah",
+    "year": 2030,
+    "projected_pop": 154770,
+    "current_facilities": 1,
+    "required_facilities": 13.9,
+    "projected_shortfall": 12.9
+  },
+  {
+    "district": "Bole",
+    "region": "Savannah",
+    "year": 2035,
+    "projected_pop": 170043,
+    "current_facilities": 1,
+    "required_facilities": 15.3,
+    "projected_shortfall": 14.3
+  },
+  {
+    "district": "Dormaa West",
+    "region": "Bono",
+    "year": 2026,
+    "projected_pop": 132792,
+    "current_facilities": 1,
+    "required_facilities": 12.0,
+    "projected_shortfall": 11.0
+  },
+  {
+    "district": "Dormaa West",
+    "region": "Bono",
+    "year": 2030,
+    "projected_pop": 143175,
+    "current_facilities": 1,
+    "required_facilities": 12.9,
+    "projected_shortfall": 11.9
+  },
+  {
+    "district": "Dormaa West",
+    "region": "Bono",
+    "year": 2035,
+    "projected_pop": 157304,
+    "current_facilities": 1,
+    "required_facilities": 14.2,
+    "projected_shortfall": 13.2
+  },
+  {
+    "district": "Berekum West",
+    "region": "Bono",
+    "year": 2026,
+    "projected_pop": 132792,
+    "current_facilities": 1,
+    "required_facilities": 12.0,
+    "projected_shortfall": 11.0
+  },
+  {
+    "district": "Berekum West",
+    "region": "Bono",
+    "year": 2030,
+    "projected_pop": 143175,
+    "current_facilities": 1,
+    "required_facilities": 12.9,
+    "projected_shortfall": 11.9
+  },
+  {
+    "district": "Berekum West",
+    "region": "Bono",
+    "year": 2035,
+    "projected_pop": 157304,
+    "current_facilities": 1,
+    "required_facilities": 14.2,
+    "projected_shortfall": 13.2
+  },
+  {
+    "district": "Dormaa East",
+    "region": "Bono",
+    "year": 2026,
+    "projected_pop": 132792,
+    "current_facilities": 1,
+    "required_facilities": 12.0,
+    "projected_shortfall": 11.0
+  },
+  {
+    "district": "Dormaa East",
+    "region": "Bono",
+    "year": 2030,
+    "projected_pop": 143175,
+    "current_facilities": 1,
+    "required_facilities": 12.9,
+    "projected_shortfall": 11.9
+  },
+  {
+    "district": "Dormaa East",
+    "region": "Bono",
+    "year": 2035,
+    "projected_pop": 157304,
+    "current_facilities": 1,
+    "required_facilities": 14.2,
+    "projected_shortfall": 13.2
+  },
+  {
+    "district": "Wenchi Municipal",
+    "region": "Bono",
+    "year": 2026,
+    "projected_pop": 132792,
+    "current_facilities": 1,
+    "required_facilities": 12.0,
+    "projected_shortfall": 11.0
+  },
+  {
+    "district": "Wenchi Municipal",
+    "region": "Bono",
+    "year": 2030,
+    "projected_pop": 143175,
+    "current_facilities": 1,
+    "required_facilities": 12.9,
+    "projected_shortfall": 11.9
+  },
+  {
+    "district": "Wenchi Municipal",
+    "region": "Bono",
+    "year": 2035,
+    "projected_pop": 157304,
+    "current_facilities": 1,
+    "required_facilities": 14.2,
+    "projected_shortfall": 13.2
+  },
+  {
+    "district": "Lawra",
+    "region": "Upper West",
+    "year": 2026,
+    "projected_pop": 123808,
+    "current_facilities": 1,
+    "required_facilities": 11.1,
+    "projected_shortfall": 10.1
+  },
+  {
+    "district": "Lawra",
+    "region": "Upper West",
+    "year": 2030,
+    "projected_pop": 133489,
+    "current_facilities": 1,
+    "required_facilities": 12.0,
+    "projected_shortfall": 11.0
+  },
+  {
+    "district": "Lawra",
+    "region": "Upper West",
+    "year": 2035,
+    "projected_pop": 146661,
+    "current_facilities": 1,
+    "required_facilities": 13.2,
+    "projected_shortfall": 12.2
+  },
+  {
+    "district": "Kwahu East",
+    "region": "Eastern",
+    "year": 2026,
+    "projected_pop": 123265,
+    "current_facilities": 1,
+    "required_facilities": 11.1,
+    "projected_shortfall": 10.1
+  },
+  {
+    "district": "Kwahu East",
+    "region": "Eastern",
+    "year": 2030,
+    "projected_pop": 132904,
+    "current_facilities": 1,
+    "required_facilities": 12.0,
+    "projected_shortfall": 11.0
+  },
+  {
+    "district": "Kwahu East",
+    "region": "Eastern",
+    "year": 2035,
+    "projected_pop": 146018,
+    "current_facilities": 1,
+    "required_facilities": 13.1,
+    "projected_shortfall": 12.1
+  },
+  {
+    "district": "Upper Manya",
+    "region": "Eastern",
+    "year": 2026,
+    "projected_pop": 123265,
+    "current_facilities": 1,
+    "required_facilities": 11.1,
+    "projected_shortfall": 10.1
+  },
+  {
+    "district": "Upper Manya",
+    "region": "Eastern",
+    "year": 2030,
+    "projected_pop": 132904,
+    "current_facilities": 1,
+    "required_facilities": 12.0,
+    "projected_shortfall": 11.0
+  },
+  {
+    "district": "Upper Manya",
+    "region": "Eastern",
+    "year": 2035,
+    "projected_pop": 146018,
+    "current_facilities": 1,
+    "required_facilities": 13.1,
+    "projected_shortfall": 12.1
+  },
+  {
+    "district": "Denkyembour",
+    "region": "Eastern",
+    "year": 2026,
+    "projected_pop": 123265,
+    "current_facilities": 1,
+    "required_facilities": 11.1,
+    "projected_shortfall": 10.1
+  },
+  {
+    "district": "Denkyembour",
+    "region": "Eastern",
+    "year": 2030,
+    "projected_pop": 132904,
+    "current_facilities": 1,
+    "required_facilities": 12.0,
+    "projected_shortfall": 11.0
+  },
+  {
+    "district": "Denkyembour",
+    "region": "Eastern",
+    "year": 2035,
+    "projected_pop": 146018,
+    "current_facilities": 1,
+    "required_facilities": 13.1,
+    "projected_shortfall": 12.1
+  },
+  {
+    "district": "West Akim",
+    "region": "Eastern",
+    "year": 2026,
+    "projected_pop": 123265,
+    "current_facilities": 1,
+    "required_facilities": 11.1,
+    "projected_shortfall": 10.1
+  },
+  {
+    "district": "West Akim",
+    "region": "Eastern",
+    "year": 2030,
+    "projected_pop": 132904,
+    "current_facilities": 1,
+    "required_facilities": 12.0,
+    "projected_shortfall": 11.0
+  },
+  {
+    "district": "West Akim",
+    "region": "Eastern",
+    "year": 2035,
+    "projected_pop": 146018,
+    "current_facilities": 1,
+    "required_facilities": 13.1,
+    "projected_shortfall": 12.1
+  },
+  {
+    "district": "Achiase",
+    "region": "Eastern",
+    "year": 2026,
+    "projected_pop": 123265,
+    "current_facilities": 1,
+    "required_facilities": 11.1,
+    "projected_shortfall": 10.1
+  },
+  {
+    "district": "Achiase",
+    "region": "Eastern",
+    "year": 2030,
+    "projected_pop": 132904,
+    "current_facilities": 1,
+    "required_facilities": 12.0,
+    "projected_shortfall": 11.0
+  },
+  {
+    "district": "Achiase",
+    "region": "Eastern",
+    "year": 2035,
+    "projected_pop": 146018,
+    "current_facilities": 1,
+    "required_facilities": 13.1,
+    "projected_shortfall": 12.1
+  },
+  {
+    "district": "Bongo",
+    "region": "Upper East",
+    "year": 2026,
+    "projected_pop": 119135,
+    "current_facilities": 1,
+    "required_facilities": 10.7,
+    "projected_shortfall": 9.7
+  },
+  {
+    "district": "Bongo",
+    "region": "Upper East",
+    "year": 2030,
+    "projected_pop": 128451,
+    "current_facilities": 1,
+    "required_facilities": 11.6,
+    "projected_shortfall": 10.6
+  },
+  {
+    "district": "Bongo",
+    "region": "Upper East",
+    "year": 2035,
+    "projected_pop": 141126,
+    "current_facilities": 1,
+    "required_facilities": 12.7,
+    "projected_shortfall": 11.7
+  },
+  {
+    "district": "Garu",
+    "region": "Upper East",
+    "year": 2026,
+    "projected_pop": 119135,
+    "current_facilities": 1,
+    "required_facilities": 10.7,
+    "projected_shortfall": 9.7
+  },
+  {
+    "district": "Garu",
+    "region": "Upper East",
+    "year": 2030,
+    "projected_pop": 128451,
+    "current_facilities": 1,
+    "required_facilities": 11.6,
+    "projected_shortfall": 10.6
+  },
+  {
+    "district": "Garu",
+    "region": "Upper East",
+    "year": 2035,
+    "projected_pop": 141126,
+    "current_facilities": 1,
+    "required_facilities": 12.7,
+    "projected_shortfall": 11.7
+  },
+  {
+    "district": "Nsawam Adoagyiri",
+    "region": "Eastern",
+    "year": 2026,
+    "projected_pop": 123265,
+    "current_facilities": 2,
+    "required_facilities": 11.1,
+    "projected_shortfall": 9.1
+  },
+  {
+    "district": "Nsawam Adoagyiri",
+    "region": "Eastern",
+    "year": 2030,
+    "projected_pop": 132904,
+    "current_facilities": 2,
+    "required_facilities": 12.0,
+    "projected_shortfall": 10.0
+  },
+  {
+    "district": "Nsawam Adoagyiri",
+    "region": "Eastern",
+    "year": 2035,
+    "projected_pop": 146018,
+    "current_facilities": 2,
+    "required_facilities": 13.1,
+    "projected_shortfall": 11.1
+  },
+  {
+    "district": "Tano North Municipal",
+    "region": "Ahafo",
+    "year": 2026,
+    "projected_pop": 103398,
+    "current_facilities": 1,
+    "required_facilities": 9.3,
+    "projected_shortfall": 8.3
+  },
+  {
+    "district": "Tano North Municipal",
+    "region": "Ahafo",
+    "year": 2030,
+    "projected_pop": 111483,
+    "current_facilities": 1,
+    "required_facilities": 10.0,
+    "projected_shortfall": 9.0
+  },
+  {
+    "district": "Tano North Municipal",
+    "region": "Ahafo",
+    "year": 2035,
+    "projected_pop": 122484,
+    "current_facilities": 1,
+    "required_facilities": 11.0,
+    "projected_shortfall": 10.0
+  },
+  {
+    "district": "Central Gonja",
+    "region": "Savannah",
+    "year": 2026,
+    "projected_pop": 143546,
+    "current_facilities": 2,
+    "required_facilities": 12.9,
+    "projected_shortfall": 10.9
+  },
+  {
+    "district": "Central Gonja",
+    "region": "Savannah",
+    "year": 2030,
+    "projected_pop": 154770,
+    "current_facilities": 2,
+    "required_facilities": 13.9,
+    "projected_shortfall": 11.9
+  },
+  {
+    "district": "Central Gonja",
+    "region": "Savannah",
+    "year": 2035,
+    "projected_pop": 170043,
+    "current_facilities": 2,
+    "required_facilities": 15.3,
+    "projected_shortfall": 13.3
+  },
+  {
+    "district": "Ada East",
+    "region": "Greater Accra",
+    "year": 2026,
+    "projected_pop": 222002,
+    "current_facilities": 2,
+    "required_facilities": 20.0,
+    "projected_shortfall": 18.0
+  },
+  {
+    "district": "Ada East",
+    "region": "Greater Accra",
+    "year": 2030,
+    "projected_pop": 239361,
+    "current_facilities": 2,
+    "required_facilities": 21.5,
+    "projected_shortfall": 19.5
+  },
+  {
+    "district": "Ada East",
+    "region": "Greater Accra",
+    "year": 2035,
+    "projected_pop": 262981,
+    "current_facilities": 2,
+    "required_facilities": 23.7,
+    "projected_shortfall": 21.7
+  },
+  {
+    "district": "Sekyere South",
+    "region": "Ashanti",
+    "year": 2026,
+    "projected_pop": 206115,
+    "current_facilities": 2,
+    "required_facilities": 18.6,
+    "projected_shortfall": 16.6
+  },
+  {
+    "district": "Sekyere South",
+    "region": "Ashanti",
+    "year": 2030,
+    "projected_pop": 222231,
+    "current_facilities": 2,
+    "required_facilities": 20.0,
+    "projected_shortfall": 18.0
+  },
+  {
+    "district": "Sekyere South",
+    "region": "Ashanti",
+    "year": 2035,
+    "projected_pop": 244161,
+    "current_facilities": 2,
+    "required_facilities": 22.0,
+    "projected_shortfall": 20.0
+  },
+  {
+    "district": "Asokwa  Municipal",
+    "region": "Ashanti",
+    "year": 2026,
+    "projected_pop": 206115,
+    "current_facilities": 2,
+    "required_facilities": 18.6,
+    "projected_shortfall": 16.6
+  },
+  {
+    "district": "Asokwa  Municipal",
+    "region": "Ashanti",
+    "year": 2030,
+    "projected_pop": 222231,
+    "current_facilities": 2,
+    "required_facilities": 20.0,
+    "projected_shortfall": 18.0
+  },
+  {
+    "district": "Asokwa  Municipal",
+    "region": "Ashanti",
+    "year": 2035,
+    "projected_pop": 244161,
+    "current_facilities": 2,
+    "required_facilities": 22.0,
+    "projected_shortfall": 20.0
+  },
+  {
+    "district": "Atwima Mponua",
+    "region": "Ashanti",
+    "year": 2026,
+    "projected_pop": 206115,
+    "current_facilities": 2,
+    "required_facilities": 18.6,
+    "projected_shortfall": 16.6
+  },
+  {
+    "district": "Atwima Mponua",
+    "region": "Ashanti",
+    "year": 2030,
+    "projected_pop": 222231,
+    "current_facilities": 2,
+    "required_facilities": 20.0,
+    "projected_shortfall": 18.0
+  },
+  {
+    "district": "Atwima Mponua",
+    "region": "Ashanti",
+    "year": 2035,
+    "projected_pop": 244161,
+    "current_facilities": 2,
+    "required_facilities": 22.0,
+    "projected_shortfall": 20.0
+  },
+  {
+    "district": "Ahafo Ano North",
+    "region": "Ashanti",
+    "year": 2026,
+    "projected_pop": 206115,
+    "current_facilities": 2,
+    "required_facilities": 18.6,
+    "projected_shortfall": 16.6
+  },
+  {
+    "district": "Ahafo Ano North",
+    "region": "Ashanti",
+    "year": 2030,
+    "projected_pop": 222231,
+    "current_facilities": 2,
+    "required_facilities": 20.0,
+    "projected_shortfall": 18.0
+  },
+  {
+    "district": "Ahafo Ano North",
+    "region": "Ashanti",
+    "year": 2035,
+    "projected_pop": 244161,
+    "current_facilities": 2,
+    "required_facilities": 22.0,
+    "projected_shortfall": 20.0
+  },
+  {
+    "district": "Ahafo Ano South East",
+    "region": "Ashanti",
+    "year": 2026,
+    "projected_pop": 206115,
+    "current_facilities": 2,
+    "required_facilities": 18.6,
+    "projected_shortfall": 16.6
+  },
+  {
+    "district": "Ahafo Ano South East",
+    "region": "Ashanti",
+    "year": 2030,
+    "projected_pop": 222231,
+    "current_facilities": 2,
+    "required_facilities": 20.0,
+    "projected_shortfall": 18.0
+  },
+  {
+    "district": "Ahafo Ano South East",
+    "region": "Ashanti",
+    "year": 2035,
+    "projected_pop": 244161,
+    "current_facilities": 2,
+    "required_facilities": 22.0,
+    "projected_shortfall": 20.0
+  },
+  {
+    "district": "Sawla-Tuna-Kalba",
+    "region": "Savannah",
+    "year": 2026,
+    "projected_pop": 143546,
+    "current_facilities": 2,
+    "required_facilities": 12.9,
+    "projected_shortfall": 10.9
+  },
+  {
+    "district": "Sawla-Tuna-Kalba",
+    "region": "Savannah",
+    "year": 2030,
+    "projected_pop": 154770,
+    "current_facilities": 2,
+    "required_facilities": 13.9,
+    "projected_shortfall": 11.9
+  },
+  {
+    "district": "Sawla-Tuna-Kalba",
+    "region": "Savannah",
+    "year": 2035,
+    "projected_pop": 170043,
+    "current_facilities": 2,
+    "required_facilities": 15.3,
+    "projected_shortfall": 13.3
+  },
+  {
+    "district": "Ajumako-Enyan-Essiam",
+    "region": "Central",
+    "year": 2026,
+    "projected_pop": 165370,
+    "current_facilities": 2,
+    "required_facilities": 14.9,
+    "projected_shortfall": 12.9
+  },
+  {
+    "district": "Ajumako-Enyan-Essiam",
+    "region": "Central",
+    "year": 2030,
+    "projected_pop": 178301,
+    "current_facilities": 2,
+    "required_facilities": 16.0,
+    "projected_shortfall": 14.0
+  },
+  {
+    "district": "Ajumako-Enyan-Essiam",
+    "region": "Central",
+    "year": 2035,
+    "projected_pop": 195895,
+    "current_facilities": 2,
+    "required_facilities": 17.6,
+    "projected_shortfall": 15.6
+  },
+  {
+    "district": "Builsa North",
+    "region": "Upper East",
+    "year": 2026,
+    "projected_pop": 119135,
+    "current_facilities": 2,
+    "required_facilities": 10.7,
+    "projected_shortfall": 8.7
+  },
+  {
+    "district": "Builsa North",
+    "region": "Upper East",
+    "year": 2030,
+    "projected_pop": 128451,
+    "current_facilities": 2,
+    "required_facilities": 11.6,
+    "projected_shortfall": 9.6
+  },
+  {
+    "district": "Builsa North",
+    "region": "Upper East",
+    "year": 2035,
+    "projected_pop": 141126,
+    "current_facilities": 2,
+    "required_facilities": 12.7,
+    "projected_shortfall": 10.7
+  },
+  {
+    "district": "Okere",
+    "region": "Eastern",
+    "year": 2026,
+    "projected_pop": 123265,
+    "current_facilities": 2,
+    "required_facilities": 11.1,
+    "projected_shortfall": 9.1
+  },
+  {
+    "district": "Okere",
+    "region": "Eastern",
+    "year": 2030,
+    "projected_pop": 132904,
+    "current_facilities": 2,
+    "required_facilities": 12.0,
+    "projected_shortfall": 10.0
+  },
+  {
+    "district": "Okere",
+    "region": "Eastern",
+    "year": 2035,
+    "projected_pop": 146018,
+    "current_facilities": 2,
+    "required_facilities": 13.1,
+    "projected_shortfall": 11.1
+  },
+  {
+    "district": "Ketu North",
+    "region": "Volta",
+    "year": 2026,
+    "projected_pop": 107221,
+    "current_facilities": 2,
+    "required_facilities": 9.6,
+    "projected_shortfall": 7.6
+  },
+  {
+    "district": "Ketu North",
+    "region": "Volta",
+    "year": 2030,
+    "projected_pop": 115605,
+    "current_facilities": 2,
+    "required_facilities": 10.4,
+    "projected_shortfall": 8.4
+  },
+  {
+    "district": "Ketu North",
+    "region": "Volta",
+    "year": 2035,
+    "projected_pop": 127013,
+    "current_facilities": 2,
+    "required_facilities": 11.4,
+    "projected_shortfall": 9.4
+  },
+  {
+    "district": "Agotime Ziope",
+    "region": "Volta",
+    "year": 2026,
+    "projected_pop": 107221,
+    "current_facilities": 2,
+    "required_facilities": 9.6,
+    "projected_shortfall": 7.6
+  },
+  {
+    "district": "Agotime Ziope",
+    "region": "Volta",
+    "year": 2030,
+    "projected_pop": 115605,
+    "current_facilities": 2,
+    "required_facilities": 10.4,
+    "projected_shortfall": 8.4
+  },
+  {
+    "district": "Agotime Ziope",
+    "region": "Volta",
+    "year": 2035,
+    "projected_pop": 127013,
+    "current_facilities": 2,
+    "required_facilities": 11.4,
+    "projected_shortfall": 9.4
+  },
+  {
+    "district": "North Tongu",
+    "region": "Volta",
+    "year": 2026,
+    "projected_pop": 107221,
+    "current_facilities": 2,
+    "required_facilities": 9.6,
+    "projected_shortfall": 7.6
+  },
+  {
+    "district": "North Tongu",
+    "region": "Volta",
+    "year": 2030,
+    "projected_pop": 115605,
+    "current_facilities": 2,
+    "required_facilities": 10.4,
+    "projected_shortfall": 8.4
+  },
+  {
+    "district": "North Tongu",
+    "region": "Volta",
+    "year": 2035,
+    "projected_pop": 127013,
+    "current_facilities": 2,
+    "required_facilities": 11.4,
+    "projected_shortfall": 9.4
+  },
+  {
+    "district": "Krachi West",
+    "region": "Oti",
+    "year": 2026,
+    "projected_pop": 102624,
+    "current_facilities": 2,
+    "required_facilities": 9.2,
+    "projected_shortfall": 7.2
+  },
+  {
+    "district": "Krachi West",
+    "region": "Oti",
+    "year": 2030,
+    "projected_pop": 110649,
+    "current_facilities": 2,
+    "required_facilities": 10.0,
+    "projected_shortfall": 8.0
+  },
+  {
+    "district": "Krachi West",
+    "region": "Oti",
+    "year": 2035,
+    "projected_pop": 121568,
+    "current_facilities": 2,
+    "required_facilities": 10.9,
+    "projected_shortfall": 8.9
+  },
+  {
+    "district": "Kwabre East",
+    "region": "Ashanti",
+    "year": 2026,
+    "projected_pop": 206115,
+    "current_facilities": 5,
+    "required_facilities": 18.6,
+    "projected_shortfall": 13.6
+  },
+  {
+    "district": "Kwabre East",
+    "region": "Ashanti",
+    "year": 2030,
+    "projected_pop": 222231,
+    "current_facilities": 5,
+    "required_facilities": 20.0,
+    "projected_shortfall": 15.0
+  },
+  {
+    "district": "Kwabre East",
+    "region": "Ashanti",
+    "year": 2035,
+    "projected_pop": 244161,
+    "current_facilities": 5,
+    "required_facilities": 22.0,
+    "projected_shortfall": 17.0
+  },
+  {
+    "district": "Ga Central Municipal",
+    "region": "Greater Accra",
+    "year": 2026,
+    "projected_pop": 222002,
+    "current_facilities": 7,
+    "required_facilities": 20.0,
+    "projected_shortfall": 13.0
+  },
+  {
+    "district": "Ga Central Municipal",
+    "region": "Greater Accra",
+    "year": 2030,
+    "projected_pop": 239361,
+    "current_facilities": 7,
+    "required_facilities": 21.5,
+    "projected_shortfall": 14.5
+  },
+  {
+    "district": "Ga Central Municipal",
+    "region": "Greater Accra",
+    "year": 2035,
+    "projected_pop": 262981,
+    "current_facilities": 7,
+    "required_facilities": 23.7,
+    "projected_shortfall": 16.7
+  },
+  {
+    "district": "Ahanta West Municipal",
+    "region": "Western",
+    "year": 2026,
+    "projected_pop": 174148,
+    "current_facilities": 3,
+    "required_facilities": 15.7,
+    "projected_shortfall": 12.7
+  },
+  {
+    "district": "Ahanta West Municipal",
+    "region": "Western",
+    "year": 2030,
+    "projected_pop": 187765,
+    "current_facilities": 3,
+    "required_facilities": 16.9,
+    "projected_shortfall": 13.9
+  },
+  {
+    "district": "Ahanta West Municipal",
+    "region": "Western",
+    "year": 2035,
+    "projected_pop": 206294,
+    "current_facilities": 3,
+    "required_facilities": 18.6,
+    "projected_shortfall": 15.6
+  },
+  {
+    "district": "Asuogyaman",
+    "region": "Eastern",
+    "year": 2026,
+    "projected_pop": 123265,
+    "current_facilities": 4,
+    "required_facilities": 11.1,
+    "projected_shortfall": 7.1
+  },
+  {
+    "district": "Asuogyaman",
+    "region": "Eastern",
+    "year": 2030,
+    "projected_pop": 132904,
+    "current_facilities": 4,
+    "required_facilities": 12.0,
+    "projected_shortfall": 8.0
+  },
+  {
+    "district": "Asuogyaman",
+    "region": "Eastern",
+    "year": 2035,
+    "projected_pop": 146018,
+    "current_facilities": 4,
+    "required_facilities": 13.1,
+    "projected_shortfall": 9.1
+  },
+  {
+    "district": "Fanteakwa South",
+    "region": "Eastern",
+    "year": 2026,
+    "projected_pop": 123265,
+    "current_facilities": 4,
+    "required_facilities": 11.1,
+    "projected_shortfall": 7.1
+  },
+  {
+    "district": "Fanteakwa South",
+    "region": "Eastern",
+    "year": 2030,
+    "projected_pop": 132904,
+    "current_facilities": 4,
+    "required_facilities": 12.0,
+    "projected_shortfall": 8.0
+  },
+  {
+    "district": "Fanteakwa South",
+    "region": "Eastern",
+    "year": 2035,
+    "projected_pop": 146018,
+    "current_facilities": 4,
+    "required_facilities": 13.1,
+    "projected_shortfall": 9.1
+  },
+  {
+    "district": "Abuakwa North",
+    "region": "Eastern",
+    "year": 2026,
+    "projected_pop": 123265,
+    "current_facilities": 4,
+    "required_facilities": 11.1,
+    "projected_shortfall": 7.1
+  },
+  {
+    "district": "Abuakwa North",
+    "region": "Eastern",
+    "year": 2030,
+    "projected_pop": 132904,
+    "current_facilities": 4,
+    "required_facilities": 12.0,
+    "projected_shortfall": 8.0
+  },
+  {
+    "district": "Abuakwa North",
+    "region": "Eastern",
+    "year": 2035,
+    "projected_pop": 146018,
+    "current_facilities": 4,
+    "required_facilities": 13.1,
+    "projected_shortfall": 9.1
+  },
+  {
+    "district": "Krachi Nchumuru",
+    "region": "Oti",
+    "year": 2026,
+    "projected_pop": 102624,
+    "current_facilities": 4,
+    "required_facilities": 9.2,
+    "projected_shortfall": 5.2
+  },
+  {
+    "district": "Krachi Nchumuru",
+    "region": "Oti",
+    "year": 2030,
+    "projected_pop": 110649,
+    "current_facilities": 4,
+    "required_facilities": 10.0,
+    "projected_shortfall": 6.0
+  },
+  {
+    "district": "Krachi Nchumuru",
+    "region": "Oti",
+    "year": 2035,
+    "projected_pop": 121568,
+    "current_facilities": 4,
+    "required_facilities": 10.9,
+    "projected_shortfall": 6.9
+  },
+  {
+    "district": "Wa East",
+    "region": "Upper West",
+    "year": 2026,
+    "projected_pop": 123808,
+    "current_facilities": 5,
+    "required_facilities": 11.1,
+    "projected_shortfall": 6.1
+  },
+  {
+    "district": "Wa East",
+    "region": "Upper West",
+    "year": 2030,
+    "projected_pop": 133489,
+    "current_facilities": 5,
+    "required_facilities": 12.0,
+    "projected_shortfall": 7.0
+  },
+  {
+    "district": "Wa East",
+    "region": "Upper West",
+    "year": 2035,
+    "projected_pop": 146661,
+    "current_facilities": 5,
+    "required_facilities": 13.2,
+    "projected_shortfall": 8.2
+  },
+  {
+    "district": "Yendi Municipal",
+    "region": "Northern",
+    "year": 2026,
+    "projected_pop": 169265,
+    "current_facilities": 5,
+    "required_facilities": 15.2,
+    "projected_shortfall": 10.2
+  },
+  {
+    "district": "Yendi Municipal",
+    "region": "Northern",
+    "year": 2030,
+    "projected_pop": 182501,
+    "current_facilities": 5,
+    "required_facilities": 16.4,
+    "projected_shortfall": 11.4
+  },
+  {
+    "district": "Yendi Municipal",
+    "region": "Northern",
+    "year": 2035,
+    "projected_pop": 200510,
+    "current_facilities": 5,
+    "required_facilities": 18.0,
+    "projected_shortfall": 13.0
+  },
+  {
+    "district": "Tain",
+    "region": "Bono",
+    "year": 2026,
+    "projected_pop": 132792,
+    "current_facilities": 2,
+    "required_facilities": 12.0,
+    "projected_shortfall": 10.0
+  },
+  {
+    "district": "Tain",
+    "region": "Bono",
+    "year": 2030,
+    "projected_pop": 143175,
+    "current_facilities": 2,
+    "required_facilities": 12.9,
+    "projected_shortfall": 10.9
+  },
+  {
+    "district": "Tain",
+    "region": "Bono",
+    "year": 2035,
+    "projected_pop": 157304,
+    "current_facilities": 2,
+    "required_facilities": 14.2,
+    "projected_shortfall": 12.2
+  },
+  {
+    "district": "Daffiama Bussie Issa",
+    "region": "Upper West",
+    "year": 2026,
+    "projected_pop": 123808,
+    "current_facilities": 2,
+    "required_facilities": 11.1,
+    "projected_shortfall": 9.1
+  },
+  {
+    "district": "Daffiama Bussie Issa",
+    "region": "Upper West",
+    "year": 2030,
+    "projected_pop": 133489,
+    "current_facilities": 2,
+    "required_facilities": 12.0,
+    "projected_shortfall": 10.0
+  },
+  {
+    "district": "Daffiama Bussie Issa",
+    "region": "Upper West",
+    "year": 2035,
+    "projected_pop": 146661,
+    "current_facilities": 2,
+    "required_facilities": 13.2,
+    "projected_shortfall": 11.2
+  },
+  {
+    "district": "Twifo Hemang Lower Denkyira",
+    "region": "Central",
+    "year": 2026,
+    "projected_pop": 165370,
+    "current_facilities": 2,
+    "required_facilities": 14.9,
+    "projected_shortfall": 12.9
+  },
+  {
+    "district": "Twifo Hemang Lower Denkyira",
+    "region": "Central",
+    "year": 2030,
+    "projected_pop": 178301,
+    "current_facilities": 2,
+    "required_facilities": 16.0,
+    "projected_shortfall": 14.0
+  },
+  {
+    "district": "Twifo Hemang Lower Denkyira",
+    "region": "Central",
+    "year": 2035,
+    "projected_pop": 195895,
+    "current_facilities": 2,
+    "required_facilities": 17.6,
+    "projected_shortfall": 15.6
+  },
+  {
+    "district": "Jirapa",
+    "region": "Upper West",
+    "year": 2026,
+    "projected_pop": 123808,
+    "current_facilities": 2,
+    "required_facilities": 11.1,
+    "projected_shortfall": 9.1
+  },
+  {
+    "district": "Jirapa",
+    "region": "Upper West",
+    "year": 2030,
+    "projected_pop": 133489,
+    "current_facilities": 2,
+    "required_facilities": 12.0,
+    "projected_shortfall": 10.0
+  },
+  {
+    "district": "Jirapa",
+    "region": "Upper West",
+    "year": 2035,
+    "projected_pop": 146661,
+    "current_facilities": 2,
+    "required_facilities": 13.2,
+    "projected_shortfall": 11.2
+  },
+  {
+    "district": "Gomoa West",
+    "region": "Central",
+    "year": 2026,
+    "projected_pop": 165370,
+    "current_facilities": 2,
+    "required_facilities": 14.9,
+    "projected_shortfall": 12.9
+  },
+  {
+    "district": "Gomoa West",
+    "region": "Central",
+    "year": 2030,
+    "projected_pop": 178301,
+    "current_facilities": 2,
+    "required_facilities": 16.0,
+    "projected_shortfall": 14.0
+  },
+  {
+    "district": "Gomoa West",
+    "region": "Central",
+    "year": 2035,
+    "projected_pop": 195895,
+    "current_facilities": 2,
+    "required_facilities": 17.6,
+    "projected_shortfall": 15.6
+  },
+  {
+    "district": "Wassa East",
+    "region": "Western",
+    "year": 2026,
+    "projected_pop": 174148,
+    "current_facilities": 2,
+    "required_facilities": 15.7,
+    "projected_shortfall": 13.7
+  },
+  {
+    "district": "Wassa East",
+    "region": "Western",
+    "year": 2030,
+    "projected_pop": 187765,
+    "current_facilities": 2,
+    "required_facilities": 16.9,
+    "projected_shortfall": 14.9
+  },
+  {
+    "district": "Wassa East",
+    "region": "Western",
+    "year": 2035,
+    "projected_pop": 206294,
+    "current_facilities": 2,
+    "required_facilities": 18.6,
+    "projected_shortfall": 16.6
+  },
+  {
+    "district": "Gushegu",
+    "region": "Northern",
+    "year": 2026,
+    "projected_pop": 169265,
+    "current_facilities": 2,
+    "required_facilities": 15.2,
+    "projected_shortfall": 13.2
+  },
+  {
+    "district": "Gushegu",
+    "region": "Northern",
+    "year": 2030,
+    "projected_pop": 182501,
+    "current_facilities": 2,
+    "required_facilities": 16.4,
+    "projected_shortfall": 14.4
+  },
+  {
+    "district": "Gushegu",
+    "region": "Northern",
+    "year": 2035,
+    "projected_pop": 200510,
+    "current_facilities": 2,
+    "required_facilities": 18.0,
+    "projected_shortfall": 16.0
+  },
+  {
+    "district": "Upper Denkyira East Municipal",
+    "region": "Central",
+    "year": 2026,
+    "projected_pop": 165370,
+    "current_facilities": 2,
+    "required_facilities": 14.9,
+    "projected_shortfall": 12.9
+  },
+  {
+    "district": "Upper Denkyira East Municipal",
+    "region": "Central",
+    "year": 2030,
+    "projected_pop": 178301,
+    "current_facilities": 2,
+    "required_facilities": 16.0,
+    "projected_shortfall": 14.0
+  },
+  {
+    "district": "Upper Denkyira East Municipal",
+    "region": "Central",
+    "year": 2035,
+    "projected_pop": 195895,
+    "current_facilities": 2,
+    "required_facilities": 17.6,
+    "projected_shortfall": 15.6
+  },
+  {
+    "district": "Suhum Municipal",
+    "region": "Eastern",
+    "year": 2026,
+    "projected_pop": 123265,
+    "current_facilities": 2,
+    "required_facilities": 11.1,
+    "projected_shortfall": 9.1
+  },
+  {
+    "district": "Suhum Municipal",
+    "region": "Eastern",
+    "year": 2030,
+    "projected_pop": 132904,
+    "current_facilities": 2,
+    "required_facilities": 12.0,
+    "projected_shortfall": 10.0
+  },
+  {
+    "district": "Suhum Municipal",
+    "region": "Eastern",
+    "year": 2035,
+    "projected_pop": 146018,
+    "current_facilities": 2,
+    "required_facilities": 13.1,
+    "projected_shortfall": 11.1
+  },
+  {
+    "district": "Nandom",
+    "region": "Upper West",
+    "year": 2026,
+    "projected_pop": 123808,
+    "current_facilities": 2,
+    "required_facilities": 11.1,
+    "projected_shortfall": 9.1
+  },
+  {
+    "district": "Nandom",
+    "region": "Upper West",
+    "year": 2030,
+    "projected_pop": 133489,
+    "current_facilities": 2,
+    "required_facilities": 12.0,
+    "projected_shortfall": 10.0
+  },
+  {
+    "district": "Nandom",
+    "region": "Upper West",
+    "year": 2035,
+    "projected_pop": 146661,
+    "current_facilities": 2,
+    "required_facilities": 13.2,
+    "projected_shortfall": 11.2
+  },
+  {
+    "district": "Bawku West",
+    "region": "Upper East",
+    "year": 2026,
+    "projected_pop": 119135,
+    "current_facilities": 2,
+    "required_facilities": 10.7,
+    "projected_shortfall": 8.7
+  },
+  {
+    "district": "Bawku West",
+    "region": "Upper East",
+    "year": 2030,
+    "projected_pop": 128451,
+    "current_facilities": 2,
+    "required_facilities": 11.6,
+    "projected_shortfall": 9.6
+  },
+  {
+    "district": "Bawku West",
+    "region": "Upper East",
+    "year": 2035,
+    "projected_pop": 141126,
+    "current_facilities": 2,
+    "required_facilities": 12.7,
+    "projected_shortfall": 10.7
+  },
+  {
+    "district": "Tolon",
+    "region": "Northern",
+    "year": 2026,
+    "projected_pop": 169265,
+    "current_facilities": 2,
+    "required_facilities": 15.2,
+    "projected_shortfall": 13.2
+  },
+  {
+    "district": "Tolon",
+    "region": "Northern",
+    "year": 2030,
+    "projected_pop": 182501,
+    "current_facilities": 2,
+    "required_facilities": 16.4,
+    "projected_shortfall": 14.4
+  },
+  {
+    "district": "Tolon",
+    "region": "Northern",
+    "year": 2035,
+    "projected_pop": 200510,
+    "current_facilities": 2,
+    "required_facilities": 18.0,
+    "projected_shortfall": 16.0
+  },
+  {
+    "district": "Pru West",
+    "region": "Bono East",
+    "year": 2026,
+    "projected_pop": 165269,
+    "current_facilities": 2,
+    "required_facilities": 14.9,
+    "projected_shortfall": 12.9
+  },
+  {
+    "district": "Pru West",
+    "region": "Bono East",
+    "year": 2030,
+    "projected_pop": 178192,
+    "current_facilities": 2,
+    "required_facilities": 16.0,
+    "projected_shortfall": 14.0
+  },
+  {
+    "district": "Pru West",
+    "region": "Bono East",
+    "year": 2035,
+    "projected_pop": 195776,
+    "current_facilities": 2,
+    "required_facilities": 17.6,
+    "projected_shortfall": 15.6
+  },
+  {
+    "district": "Atebubu Amantin",
+    "region": "Bono East",
+    "year": 2026,
+    "projected_pop": 165269,
+    "current_facilities": 3,
+    "required_facilities": 14.9,
+    "projected_shortfall": 11.9
+  },
+  {
+    "district": "Atebubu Amantin",
+    "region": "Bono East",
+    "year": 2030,
+    "projected_pop": 178192,
+    "current_facilities": 3,
+    "required_facilities": 16.0,
+    "projected_shortfall": 13.0
+  },
+  {
+    "district": "Atebubu Amantin",
+    "region": "Bono East",
+    "year": 2035,
+    "projected_pop": 195776,
+    "current_facilities": 3,
+    "required_facilities": 17.6,
+    "projected_shortfall": 14.6
+  },
+  {
+    "district": "Akwapem North",
+    "region": "Eastern",
+    "year": 2026,
+    "projected_pop": 123265,
+    "current_facilities": 2,
+    "required_facilities": 11.1,
+    "projected_shortfall": 9.1
+  },
+  {
+    "district": "Akwapem North",
+    "region": "Eastern",
+    "year": 2030,
+    "projected_pop": 132904,
+    "current_facilities": 2,
+    "required_facilities": 12.0,
+    "projected_shortfall": 10.0
+  },
+  {
+    "district": "Akwapem North",
+    "region": "Eastern",
+    "year": 2035,
+    "projected_pop": 146018,
+    "current_facilities": 2,
+    "required_facilities": 13.1,
+    "projected_shortfall": 11.1
+  },
+  {
+    "district": "Atiwa East",
+    "region": "Eastern",
+    "year": 2026,
+    "projected_pop": 123265,
+    "current_facilities": 3,
+    "required_facilities": 11.1,
+    "projected_shortfall": 8.1
+  },
+  {
+    "district": "Atiwa East",
+    "region": "Eastern",
+    "year": 2030,
+    "projected_pop": 132904,
+    "current_facilities": 3,
+    "required_facilities": 12.0,
+    "projected_shortfall": 9.0
+  },
+  {
+    "district": "Atiwa East",
+    "region": "Eastern",
+    "year": 2035,
+    "projected_pop": 146018,
+    "current_facilities": 3,
+    "required_facilities": 13.1,
+    "projected_shortfall": 10.1
+  },
+  {
+    "district": "Awutu Senya",
+    "region": "Central",
+    "year": 2026,
+    "projected_pop": 165370,
+    "current_facilities": 2,
+    "required_facilities": 14.9,
+    "projected_shortfall": 12.9
+  },
+  {
+    "district": "Awutu Senya",
+    "region": "Central",
+    "year": 2030,
+    "projected_pop": 178301,
+    "current_facilities": 2,
+    "required_facilities": 16.0,
+    "projected_shortfall": 14.0
+  },
+  {
+    "district": "Awutu Senya",
+    "region": "Central",
+    "year": 2035,
+    "projected_pop": 195895,
+    "current_facilities": 2,
+    "required_facilities": 17.6,
+    "projected_shortfall": 15.6
+  },
+  {
+    "district": "Obuasi Municipal",
+    "region": "Ashanti",
+    "year": 2026,
+    "projected_pop": 206115,
+    "current_facilities": 3,
+    "required_facilities": 18.6,
+    "projected_shortfall": 15.6
+  },
+  {
+    "district": "Obuasi Municipal",
+    "region": "Ashanti",
+    "year": 2030,
+    "projected_pop": 222231,
+    "current_facilities": 3,
+    "required_facilities": 20.0,
+    "projected_shortfall": 17.0
+  },
+  {
+    "district": "Obuasi Municipal",
+    "region": "Ashanti",
+    "year": 2035,
+    "projected_pop": 244161,
+    "current_facilities": 3,
+    "required_facilities": 22.0,
+    "projected_shortfall": 19.0
+  },
+  {
+    "district": "Wassa Amenfi Central",
+    "region": "Western",
+    "year": 2026,
+    "projected_pop": 174148,
+    "current_facilities": 4,
+    "required_facilities": 15.7,
+    "projected_shortfall": 11.7
+  },
+  {
+    "district": "Wassa Amenfi Central",
+    "region": "Western",
+    "year": 2030,
+    "projected_pop": 187765,
+    "current_facilities": 4,
+    "required_facilities": 16.9,
+    "projected_shortfall": 12.9
+  },
+  {
+    "district": "Wassa Amenfi Central",
+    "region": "Western",
+    "year": 2035,
+    "projected_pop": 206294,
+    "current_facilities": 4,
+    "required_facilities": 18.6,
+    "projected_shortfall": 14.6
+  },
+  {
+    "district": "Nkoranza South",
+    "region": "Bono East",
+    "year": 2026,
+    "projected_pop": 165269,
+    "current_facilities": 2,
+    "required_facilities": 14.9,
+    "projected_shortfall": 12.9
+  },
+  {
+    "district": "Nkoranza South",
+    "region": "Bono East",
+    "year": 2030,
+    "projected_pop": 178192,
+    "current_facilities": 2,
+    "required_facilities": 16.0,
+    "projected_shortfall": 14.0
+  },
+  {
+    "district": "Nkoranza South",
+    "region": "Bono East",
+    "year": 2035,
+    "projected_pop": 195776,
+    "current_facilities": 2,
+    "required_facilities": 17.6,
+    "projected_shortfall": 15.6
+  },
+  {
+    "district": "Atwima Kwanwoma",
+    "region": "Ashanti",
+    "year": 2026,
+    "projected_pop": 206115,
+    "current_facilities": 4,
+    "required_facilities": 18.6,
+    "projected_shortfall": 14.6
+  },
+  {
+    "district": "Atwima Kwanwoma",
+    "region": "Ashanti",
+    "year": 2030,
+    "projected_pop": 222231,
+    "current_facilities": 4,
+    "required_facilities": 20.0,
+    "projected_shortfall": 16.0
+  },
+  {
+    "district": "Atwima Kwanwoma",
+    "region": "Ashanti",
+    "year": 2035,
+    "projected_pop": 244161,
+    "current_facilities": 4,
+    "required_facilities": 22.0,
+    "projected_shortfall": 18.0
+  },
+  {
+    "district": "Berekum East Municipal",
+    "region": "Bono",
+    "year": 2026,
+    "projected_pop": 132792,
+    "current_facilities": 3,
+    "required_facilities": 12.0,
+    "projected_shortfall": 9.0
+  },
+  {
+    "district": "Berekum East Municipal",
+    "region": "Bono",
+    "year": 2030,
+    "projected_pop": 143175,
+    "current_facilities": 3,
+    "required_facilities": 12.9,
+    "projected_shortfall": 9.9
+  },
+  {
+    "district": "Berekum East Municipal",
+    "region": "Bono",
+    "year": 2035,
+    "projected_pop": 157304,
+    "current_facilities": 3,
+    "required_facilities": 14.2,
+    "projected_shortfall": 11.2
+  },
+  {
+    "district": "Kwaebibirem",
+    "region": "Eastern",
+    "year": 2026,
+    "projected_pop": 123265,
+    "current_facilities": 2,
+    "required_facilities": 11.1,
+    "projected_shortfall": 9.1
+  },
+  {
+    "district": "Kwaebibirem",
+    "region": "Eastern",
+    "year": 2030,
+    "projected_pop": 132904,
+    "current_facilities": 2,
+    "required_facilities": 12.0,
+    "projected_shortfall": 10.0
+  },
+  {
+    "district": "Kwaebibirem",
+    "region": "Eastern",
+    "year": 2035,
+    "projected_pop": 146018,
+    "current_facilities": 2,
+    "required_facilities": 13.1,
+    "projected_shortfall": 11.1
+  },
+  {
+    "district": "Offinso Municipal",
+    "region": "Ashanti",
+    "year": 2026,
+    "projected_pop": 206115,
+    "current_facilities": 3,
+    "required_facilities": 18.6,
+    "projected_shortfall": 15.6
+  },
+  {
+    "district": "Offinso Municipal",
+    "region": "Ashanti",
+    "year": 2030,
+    "projected_pop": 222231,
+    "current_facilities": 3,
+    "required_facilities": 20.0,
+    "projected_shortfall": 17.0
+  },
+  {
+    "district": "Offinso Municipal",
+    "region": "Ashanti",
+    "year": 2035,
+    "projected_pop": 244161,
+    "current_facilities": 3,
+    "required_facilities": 22.0,
+    "projected_shortfall": 19.0
+  },
+  {
+    "district": "North East Gonja",
+    "region": "Savannah",
+    "year": 2026,
+    "projected_pop": 143546,
+    "current_facilities": 3,
+    "required_facilities": 12.9,
+    "projected_shortfall": 9.9
+  },
+  {
+    "district": "North East Gonja",
+    "region": "Savannah",
+    "year": 2030,
+    "projected_pop": 154770,
+    "current_facilities": 3,
+    "required_facilities": 13.9,
+    "projected_shortfall": 10.9
+  },
+  {
+    "district": "North East Gonja",
+    "region": "Savannah",
+    "year": 2035,
+    "projected_pop": 170043,
+    "current_facilities": 3,
+    "required_facilities": 15.3,
+    "projected_shortfall": 12.3
+  },
+  {
+    "district": "Sekyere Central",
+    "region": "Ashanti",
+    "year": 2026,
+    "projected_pop": 206115,
+    "current_facilities": 3,
+    "required_facilities": 18.6,
+    "projected_shortfall": 15.6
+  },
+  {
+    "district": "Sekyere Central",
+    "region": "Ashanti",
+    "year": 2030,
+    "projected_pop": 222231,
+    "current_facilities": 3,
+    "required_facilities": 20.0,
+    "projected_shortfall": 17.0
+  },
+  {
+    "district": "Sekyere Central",
+    "region": "Ashanti",
+    "year": 2035,
+    "projected_pop": 244161,
+    "current_facilities": 3,
+    "required_facilities": 22.0,
+    "projected_shortfall": 19.0
+  },
+  {
+    "district": "Mampong Municipal",
+    "region": "Ashanti",
+    "year": 2026,
+    "projected_pop": 206115,
+    "current_facilities": 3,
+    "required_facilities": 18.6,
+    "projected_shortfall": 15.6
+  },
+  {
+    "district": "Mampong Municipal",
+    "region": "Ashanti",
+    "year": 2030,
+    "projected_pop": 222231,
+    "current_facilities": 3,
+    "required_facilities": 20.0,
+    "projected_shortfall": 17.0
+  },
+  {
+    "district": "Mampong Municipal",
+    "region": "Ashanti",
+    "year": 2035,
+    "projected_pop": 244161,
+    "current_facilities": 3,
+    "required_facilities": 22.0,
+    "projected_shortfall": 19.0
+  },
+  {
+    "district": "Tempane",
+    "region": "Upper East",
+    "year": 2026,
+    "projected_pop": 119135,
+    "current_facilities": 2,
+    "required_facilities": 10.7,
+    "projected_shortfall": 8.7
+  },
+  {
+    "district": "Tempane",
+    "region": "Upper East",
+    "year": 2030,
+    "projected_pop": 128451,
+    "current_facilities": 2,
+    "required_facilities": 11.6,
+    "projected_shortfall": 9.6
+  },
+  {
+    "district": "Tempane",
+    "region": "Upper East",
+    "year": 2035,
+    "projected_pop": 141126,
+    "current_facilities": 2,
+    "required_facilities": 12.7,
+    "projected_shortfall": 10.7
+  },
+  {
+    "district": "Bia West",
+    "region": "Western North",
+    "year": 2026,
+    "projected_pop": 161308,
+    "current_facilities": 3,
+    "required_facilities": 14.5,
+    "projected_shortfall": 11.5
+  },
+  {
+    "district": "Bia West",
+    "region": "Western North",
+    "year": 2030,
+    "projected_pop": 173922,
+    "current_facilities": 3,
+    "required_facilities": 15.7,
+    "projected_shortfall": 12.7
+  },
+  {
+    "district": "Bia West",
+    "region": "Western North",
+    "year": 2035,
+    "projected_pop": 191084,
+    "current_facilities": 3,
+    "required_facilities": 17.2,
+    "projected_shortfall": 14.2
+  },
+  {
+    "district": "Jaman North",
+    "region": "Bono",
+    "year": 2026,
+    "projected_pop": 132792,
+    "current_facilities": 3,
+    "required_facilities": 12.0,
+    "projected_shortfall": 9.0
+  },
+  {
+    "district": "Jaman North",
+    "region": "Bono",
+    "year": 2030,
+    "projected_pop": 143175,
+    "current_facilities": 3,
+    "required_facilities": 12.9,
+    "projected_shortfall": 9.9
+  },
+  {
+    "district": "Jaman North",
+    "region": "Bono",
+    "year": 2035,
+    "projected_pop": 157304,
+    "current_facilities": 3,
+    "required_facilities": 14.2,
+    "projected_shortfall": 11.2
+  },
+  {
+    "district": "Shai Osudoku",
+    "region": "Greater Accra",
+    "year": 2026,
+    "projected_pop": 222002,
+    "current_facilities": 5,
+    "required_facilities": 20.0,
+    "projected_shortfall": 15.0
+  },
+  {
+    "district": "Shai Osudoku",
+    "region": "Greater Accra",
+    "year": 2030,
+    "projected_pop": 239361,
+    "current_facilities": 5,
+    "required_facilities": 21.5,
+    "projected_shortfall": 16.5
+  },
+  {
+    "district": "Shai Osudoku",
+    "region": "Greater Accra",
+    "year": 2035,
+    "projected_pop": 262981,
+    "current_facilities": 5,
+    "required_facilities": 23.7,
+    "projected_shortfall": 18.7
+  },
+  {
+    "district": "Upper Denkyira West",
+    "region": "Central",
+    "year": 2026,
+    "projected_pop": 165370,
+    "current_facilities": 3,
+    "required_facilities": 14.9,
+    "projected_shortfall": 11.9
+  },
+  {
+    "district": "Upper Denkyira West",
+    "region": "Central",
+    "year": 2030,
+    "projected_pop": 178301,
+    "current_facilities": 3,
+    "required_facilities": 16.0,
+    "projected_shortfall": 13.0
+  },
+  {
+    "district": "Upper Denkyira West",
+    "region": "Central",
+    "year": 2035,
+    "projected_pop": 195895,
+    "current_facilities": 3,
+    "required_facilities": 17.6,
+    "projected_shortfall": 14.6
+  },
+  {
+    "district": "Krachi East Municipal",
+    "region": "Oti",
+    "year": 2026,
+    "projected_pop": 102624,
+    "current_facilities": 3,
+    "required_facilities": 9.2,
+    "projected_shortfall": 6.2
+  },
+  {
+    "district": "Krachi East Municipal",
+    "region": "Oti",
+    "year": 2030,
+    "projected_pop": 110649,
+    "current_facilities": 3,
+    "required_facilities": 10.0,
+    "projected_shortfall": 7.0
+  },
+  {
+    "district": "Krachi East Municipal",
+    "region": "Oti",
+    "year": 2035,
+    "projected_pop": 121568,
+    "current_facilities": 3,
+    "required_facilities": 10.9,
+    "projected_shortfall": 7.9
+  },
+  {
+    "district": "Wassa Amenfi East",
+    "region": "Western",
+    "year": 2026,
+    "projected_pop": 174148,
+    "current_facilities": 4,
+    "required_facilities": 15.7,
+    "projected_shortfall": 11.7
+  },
+  {
+    "district": "Wassa Amenfi East",
+    "region": "Western",
+    "year": 2030,
+    "projected_pop": 187765,
+    "current_facilities": 4,
+    "required_facilities": 16.9,
+    "projected_shortfall": 12.9
+  },
+  {
+    "district": "Wassa Amenfi East",
+    "region": "Western",
+    "year": 2035,
+    "projected_pop": 206294,
+    "current_facilities": 4,
+    "required_facilities": 18.6,
+    "projected_shortfall": 14.6
+  },
+  {
+    "district": "Bekwai Municipal",
+    "region": "Ashanti",
+    "year": 2026,
+    "projected_pop": 206115,
+    "current_facilities": 4,
+    "required_facilities": 18.6,
+    "projected_shortfall": 14.6
+  },
+  {
+    "district": "Bekwai Municipal",
+    "region": "Ashanti",
+    "year": 2030,
+    "projected_pop": 222231,
+    "current_facilities": 4,
+    "required_facilities": 20.0,
+    "projected_shortfall": 16.0
+  },
+  {
+    "district": "Bekwai Municipal",
+    "region": "Ashanti",
+    "year": 2035,
+    "projected_pop": 244161,
+    "current_facilities": 4,
+    "required_facilities": 22.0,
+    "projected_shortfall": 18.0
+  },
+  {
+    "district": "Afigya Kwabre South",
+    "region": "Ashanti",
+    "year": 2026,
+    "projected_pop": 206115,
+    "current_facilities": 8,
+    "required_facilities": 18.6,
+    "projected_shortfall": 10.6
+  },
+  {
+    "district": "Afigya Kwabre South",
+    "region": "Ashanti",
+    "year": 2030,
+    "projected_pop": 222231,
+    "current_facilities": 8,
+    "required_facilities": 20.0,
+    "projected_shortfall": 12.0
+  },
+  {
+    "district": "Afigya Kwabre South",
+    "region": "Ashanti",
+    "year": 2035,
+    "projected_pop": 244161,
+    "current_facilities": 8,
+    "required_facilities": 22.0,
+    "projected_shortfall": 14.0
+  },
+  {
+    "district": "Karaga",
+    "region": "Northern",
+    "year": 2026,
+    "projected_pop": 169265,
+    "current_facilities": 4,
+    "required_facilities": 15.2,
+    "projected_shortfall": 11.2
+  },
+  {
+    "district": "Karaga",
+    "region": "Northern",
+    "year": 2030,
+    "projected_pop": 182501,
+    "current_facilities": 4,
+    "required_facilities": 16.4,
+    "projected_shortfall": 12.4
+  },
+  {
+    "district": "Karaga",
+    "region": "Northern",
+    "year": 2035,
+    "projected_pop": 200510,
+    "current_facilities": 4,
+    "required_facilities": 18.0,
+    "projected_shortfall": 14.0
+  },
+  {
+    "district": "Wassa Amenfi West",
+    "region": "Western",
+    "year": 2026,
+    "projected_pop": 174148,
+    "current_facilities": 6,
+    "required_facilities": 15.7,
+    "projected_shortfall": 9.7
+  },
+  {
+    "district": "Wassa Amenfi West",
+    "region": "Western",
+    "year": 2030,
+    "projected_pop": 187765,
+    "current_facilities": 6,
+    "required_facilities": 16.9,
+    "projected_shortfall": 10.9
+  },
+  {
+    "district": "Wassa Amenfi West",
+    "region": "Western",
+    "year": 2035,
+    "projected_pop": 206294,
+    "current_facilities": 6,
+    "required_facilities": 18.6,
+    "projected_shortfall": 12.6
+  },
+  {
+    "district": "Kwahu South",
+    "region": "Eastern",
+    "year": 2026,
+    "projected_pop": 123265,
+    "current_facilities": 3,
+    "required_facilities": 11.1,
+    "projected_shortfall": 8.1
+  },
+  {
+    "district": "Kwahu South",
+    "region": "Eastern",
+    "year": 2030,
+    "projected_pop": 132904,
+    "current_facilities": 3,
+    "required_facilities": 12.0,
+    "projected_shortfall": 9.0
+  },
+  {
+    "district": "Kwahu South",
+    "region": "Eastern",
+    "year": 2035,
+    "projected_pop": 146018,
+    "current_facilities": 3,
+    "required_facilities": 13.1,
+    "projected_shortfall": 10.1
+  },
+  {
+    "district": "Nanumba North",
+    "region": "Northern",
+    "year": 2026,
+    "projected_pop": 169265,
+    "current_facilities": 7,
+    "required_facilities": 15.2,
+    "projected_shortfall": 8.2
+  },
+  {
+    "district": "Nanumba North",
+    "region": "Northern",
+    "year": 2030,
+    "projected_pop": 182501,
+    "current_facilities": 7,
+    "required_facilities": 16.4,
+    "projected_shortfall": 9.4
+  },
+  {
+    "district": "Nanumba North",
+    "region": "Northern",
+    "year": 2035,
+    "projected_pop": 200510,
+    "current_facilities": 7,
+    "required_facilities": 18.0,
+    "projected_shortfall": 11.0
+  },
+  {
+    "district": "Bawku Municipal",
+    "region": "Upper East",
+    "year": 2026,
+    "projected_pop": 119135,
+    "current_facilities": 3,
+    "required_facilities": 10.7,
+    "projected_shortfall": 7.7
+  },
+  {
+    "district": "Bawku Municipal",
+    "region": "Upper East",
+    "year": 2030,
+    "projected_pop": 128451,
+    "current_facilities": 3,
+    "required_facilities": 11.6,
+    "projected_shortfall": 8.6
+  },
+  {
+    "district": "Bawku Municipal",
+    "region": "Upper East",
+    "year": 2035,
+    "projected_pop": 141126,
+    "current_facilities": 3,
+    "required_facilities": 12.7,
+    "projected_shortfall": 9.7
+  },
+  {
+    "district": "Prestea/Huni Valley",
+    "region": "Western",
+    "year": 2026,
+    "projected_pop": 174148,
+    "current_facilities": 6,
+    "required_facilities": 15.7,
+    "projected_shortfall": 9.7
+  },
+  {
+    "district": "Prestea/Huni Valley",
+    "region": "Western",
+    "year": 2030,
+    "projected_pop": 187765,
+    "current_facilities": 6,
+    "required_facilities": 16.9,
+    "projected_shortfall": 10.9
+  },
+  {
+    "district": "Prestea/Huni Valley",
+    "region": "Western",
+    "year": 2035,
+    "projected_pop": 206294,
+    "current_facilities": 6,
+    "required_facilities": 18.6,
+    "projected_shortfall": 12.6
+  },
+  {
+    "district": "Birim Central Municipal",
+    "region": "Eastern",
+    "year": 2026,
+    "projected_pop": 123265,
+    "current_facilities": 3,
+    "required_facilities": 11.1,
+    "projected_shortfall": 8.1
+  },
+  {
+    "district": "Birim Central Municipal",
+    "region": "Eastern",
+    "year": 2030,
+    "projected_pop": 132904,
+    "current_facilities": 3,
+    "required_facilities": 12.0,
+    "projected_shortfall": 9.0
+  },
+  {
+    "district": "Birim Central Municipal",
+    "region": "Eastern",
+    "year": 2035,
+    "projected_pop": 146018,
+    "current_facilities": 3,
+    "required_facilities": 13.1,
+    "projected_shortfall": 10.1
+  },
+  {
+    "district": "Asutifi North",
+    "region": "Ahafo",
+    "year": 2026,
+    "projected_pop": 103398,
+    "current_facilities": 3,
+    "required_facilities": 9.3,
+    "projected_shortfall": 6.3
+  },
+  {
+    "district": "Asutifi North",
+    "region": "Ahafo",
+    "year": 2030,
+    "projected_pop": 111483,
+    "current_facilities": 3,
+    "required_facilities": 10.0,
+    "projected_shortfall": 7.0
+  },
+  {
+    "district": "Asutifi North",
+    "region": "Ahafo",
+    "year": 2035,
+    "projected_pop": 122484,
+    "current_facilities": 3,
+    "required_facilities": 11.0,
+    "projected_shortfall": 8.0
+  },
+  {
+    "district": "Agona West Municipal",
+    "region": "Central",
+    "year": 2026,
+    "projected_pop": 165370,
+    "current_facilities": 6,
+    "required_facilities": 14.9,
+    "projected_shortfall": 8.9
+  },
+  {
+    "district": "Agona West Municipal",
+    "region": "Central",
+    "year": 2030,
+    "projected_pop": 178301,
+    "current_facilities": 6,
+    "required_facilities": 16.0,
+    "projected_shortfall": 10.0
+  },
+  {
+    "district": "Agona West Municipal",
+    "region": "Central",
+    "year": 2035,
+    "projected_pop": 195895,
+    "current_facilities": 6,
+    "required_facilities": 17.6,
+    "projected_shortfall": 11.6
+  },
+  {
+    "district": "Shama",
+    "region": "Western",
+    "year": 2026,
+    "projected_pop": 174148,
+    "current_facilities": 4,
+    "required_facilities": 15.7,
+    "projected_shortfall": 11.7
+  },
+  {
+    "district": "Shama",
+    "region": "Western",
+    "year": 2030,
+    "projected_pop": 187765,
+    "current_facilities": 4,
+    "required_facilities": 16.9,
+    "projected_shortfall": 12.9
+  },
+  {
+    "district": "Shama",
+    "region": "Western",
+    "year": 2035,
+    "projected_pop": 206294,
+    "current_facilities": 4,
+    "required_facilities": 18.6,
+    "projected_shortfall": 14.6
+  },
+  {
+    "district": "Birim North",
+    "region": "Eastern",
+    "year": 2026,
+    "projected_pop": 123265,
+    "current_facilities": 3,
+    "required_facilities": 11.1,
+    "projected_shortfall": 8.1
+  },
+  {
+    "district": "Birim North",
+    "region": "Eastern",
+    "year": 2030,
+    "projected_pop": 132904,
+    "current_facilities": 3,
+    "required_facilities": 12.0,
+    "projected_shortfall": 9.0
+  },
+  {
+    "district": "Birim North",
+    "region": "Eastern",
+    "year": 2035,
+    "projected_pop": 146018,
+    "current_facilities": 3,
+    "required_facilities": 13.1,
+    "projected_shortfall": 10.1
+  },
+  {
+    "district": "Offinso North",
+    "region": "Ashanti",
+    "year": 2026,
+    "projected_pop": 206115,
+    "current_facilities": 5,
+    "required_facilities": 18.6,
+    "projected_shortfall": 13.6
+  },
+  {
+    "district": "Offinso North",
+    "region": "Ashanti",
+    "year": 2030,
+    "projected_pop": 222231,
+    "current_facilities": 5,
+    "required_facilities": 20.0,
+    "projected_shortfall": 15.0
+  },
+  {
+    "district": "Offinso North",
+    "region": "Ashanti",
+    "year": 2035,
+    "projected_pop": 244161,
+    "current_facilities": 5,
+    "required_facilities": 22.0,
+    "projected_shortfall": 17.0
+  },
+  {
+    "district": "Upper West Akim",
+    "region": "Eastern",
+    "year": 2026,
+    "projected_pop": 123265,
+    "current_facilities": 4,
+    "required_facilities": 11.1,
+    "projected_shortfall": 7.1
+  },
+  {
+    "district": "Upper West Akim",
+    "region": "Eastern",
+    "year": 2030,
+    "projected_pop": 132904,
+    "current_facilities": 4,
+    "required_facilities": 12.0,
+    "projected_shortfall": 8.0
+  },
+  {
+    "district": "Upper West Akim",
+    "region": "Eastern",
+    "year": 2035,
+    "projected_pop": 146018,
+    "current_facilities": 4,
+    "required_facilities": 13.1,
+    "projected_shortfall": 9.1
+  },
+  {
+    "district": "West Mamprusi Municipal",
+    "region": "Northern East",
+    "year": 2026,
+    "projected_pop": 241323,
+    "current_facilities": 7,
+    "required_facilities": 21.7,
+    "projected_shortfall": 14.7
+  },
+  {
+    "district": "West Mamprusi Municipal",
+    "region": "Northern East",
+    "year": 2030,
+    "projected_pop": 260193,
+    "current_facilities": 7,
+    "required_facilities": 23.4,
+    "projected_shortfall": 16.4
+  },
+  {
+    "district": "West Mamprusi Municipal",
+    "region": "Northern East",
+    "year": 2035,
+    "projected_pop": 285869,
+    "current_facilities": 7,
+    "required_facilities": 25.7,
+    "projected_shortfall": 18.7
+  },
+  {
+    "district": "Chereponi",
+    "region": "Northern East",
+    "year": 2026,
+    "projected_pop": 241323,
+    "current_facilities": 5,
+    "required_facilities": 21.7,
+    "projected_shortfall": 16.7
+  },
+  {
+    "district": "Chereponi",
+    "region": "Northern East",
+    "year": 2030,
+    "projected_pop": 260193,
+    "current_facilities": 5,
+    "required_facilities": 23.4,
+    "projected_shortfall": 18.4
+  },
+  {
+    "district": "Chereponi",
+    "region": "Northern East",
+    "year": 2035,
+    "projected_pop": 285869,
+    "current_facilities": 5,
+    "required_facilities": 25.7,
+    "projected_shortfall": 20.7
+  },
+  {
+    "district": "Builsa South",
+    "region": "Upper East",
+    "year": 2026,
+    "projected_pop": 119135,
+    "current_facilities": 5,
+    "required_facilities": 10.7,
+    "projected_shortfall": 5.7
+  },
+  {
+    "district": "Builsa South",
+    "region": "Upper East",
+    "year": 2030,
+    "projected_pop": 128451,
+    "current_facilities": 5,
+    "required_facilities": 11.6,
+    "projected_shortfall": 6.6
+  },
+  {
+    "district": "Builsa South",
+    "region": "Upper East",
+    "year": 2035,
+    "projected_pop": 141126,
+    "current_facilities": 5,
+    "required_facilities": 12.7,
+    "projected_shortfall": 7.7
+  },
+  {
+    "district": "Abuakwa South",
+    "region": "Eastern",
+    "year": 2026,
+    "projected_pop": 123265,
+    "current_facilities": 4,
+    "required_facilities": 11.1,
+    "projected_shortfall": 7.1
+  },
+  {
+    "district": "Abuakwa South",
+    "region": "Eastern",
+    "year": 2030,
+    "projected_pop": 132904,
+    "current_facilities": 4,
+    "required_facilities": 12.0,
+    "projected_shortfall": 8.0
+  },
+  {
+    "district": "Abuakwa South",
+    "region": "Eastern",
+    "year": 2035,
+    "projected_pop": 146018,
+    "current_facilities": 4,
+    "required_facilities": 13.1,
+    "projected_shortfall": 9.1
+  },
+  {
+    "district": "Anloga",
+    "region": "Volta",
+    "year": 2026,
+    "projected_pop": 107221,
+    "current_facilities": 3,
+    "required_facilities": 9.6,
+    "projected_shortfall": 6.6
+  },
+  {
+    "district": "Anloga",
+    "region": "Volta",
+    "year": 2030,
+    "projected_pop": 115605,
+    "current_facilities": 3,
+    "required_facilities": 10.4,
+    "projected_shortfall": 7.4
+  },
+  {
+    "district": "Anloga",
+    "region": "Volta",
+    "year": 2035,
+    "projected_pop": 127013,
+    "current_facilities": 3,
+    "required_facilities": 11.4,
+    "projected_shortfall": 8.4
+  },
+  {
+    "district": "Awutu Senya East",
+    "region": "Central",
+    "year": 2026,
+    "projected_pop": 165370,
+    "current_facilities": 8,
+    "required_facilities": 14.9,
+    "projected_shortfall": 6.9
+  },
+  {
+    "district": "Awutu Senya East",
+    "region": "Central",
+    "year": 2030,
+    "projected_pop": 178301,
+    "current_facilities": 8,
+    "required_facilities": 16.0,
+    "projected_shortfall": 8.0
+  },
+  {
+    "district": "Awutu Senya East",
+    "region": "Central",
+    "year": 2035,
+    "projected_pop": 195895,
+    "current_facilities": 8,
+    "required_facilities": 17.6,
+    "projected_shortfall": 9.6
+  },
+  {
+    "district": "East Mamprusi",
+    "region": "Northern East",
+    "year": 2026,
+    "projected_pop": 241323,
+    "current_facilities": 9,
+    "required_facilities": 21.7,
+    "projected_shortfall": 12.7
+  },
+  {
+    "district": "East Mamprusi",
+    "region": "Northern East",
+    "year": 2030,
+    "projected_pop": 260193,
+    "current_facilities": 9,
+    "required_facilities": 23.4,
+    "projected_shortfall": 14.4
+  },
+  {
+    "district": "East Mamprusi",
+    "region": "Northern East",
+    "year": 2035,
+    "projected_pop": 285869,
+    "current_facilities": 9,
+    "required_facilities": 25.7,
+    "projected_shortfall": 16.7
+  },
+  {
+    "district": "Sekyere East",
+    "region": "Ashanti",
+    "year": 2026,
+    "projected_pop": 206115,
+    "current_facilities": 9,
+    "required_facilities": 18.6,
+    "projected_shortfall": 9.6
+  },
+  {
+    "district": "Sekyere East",
+    "region": "Ashanti",
+    "year": 2030,
+    "projected_pop": 222231,
+    "current_facilities": 9,
+    "required_facilities": 20.0,
+    "projected_shortfall": 11.0
+  },
+  {
+    "district": "Sekyere East",
+    "region": "Ashanti",
+    "year": 2035,
+    "projected_pop": 244161,
+    "current_facilities": 9,
+    "required_facilities": 22.0,
+    "projected_shortfall": 13.0
+  },
+  {
+    "district": "Kpandai",
+    "region": "Northern",
+    "year": 2026,
+    "projected_pop": 169265,
+    "current_facilities": 5,
+    "required_facilities": 15.2,
+    "projected_shortfall": 10.2
+  },
+  {
+    "district": "Kpandai",
+    "region": "Northern",
+    "year": 2030,
+    "projected_pop": 182501,
+    "current_facilities": 5,
+    "required_facilities": 16.4,
+    "projected_shortfall": 11.4
+  },
+  {
+    "district": "Kpandai",
+    "region": "Northern",
+    "year": 2035,
+    "projected_pop": 200510,
+    "current_facilities": 5,
+    "required_facilities": 18.0,
+    "projected_shortfall": 13.0
+  },
+  {
+    "district": "Atiwa West",
+    "region": "Eastern",
+    "year": 2026,
+    "projected_pop": 123265,
+    "current_facilities": 4,
+    "required_facilities": 11.1,
+    "projected_shortfall": 7.1
+  },
+  {
+    "district": "Atiwa West",
+    "region": "Eastern",
+    "year": 2030,
+    "projected_pop": 132904,
+    "current_facilities": 4,
+    "required_facilities": 12.0,
+    "projected_shortfall": 8.0
+  },
+  {
+    "district": "Atiwa West",
+    "region": "Eastern",
+    "year": 2035,
+    "projected_pop": 146018,
+    "current_facilities": 4,
+    "required_facilities": 13.1,
+    "projected_shortfall": 9.1
+  },
+  {
+    "district": "Asokore Mampong Municipal",
+    "region": "Ashanti",
+    "year": 2026,
+    "projected_pop": 206115,
+    "current_facilities": 9,
+    "required_facilities": 18.6,
+    "projected_shortfall": 9.6
+  },
+  {
+    "district": "Asokore Mampong Municipal",
+    "region": "Ashanti",
+    "year": 2030,
+    "projected_pop": 222231,
+    "current_facilities": 9,
+    "required_facilities": 20.0,
+    "projected_shortfall": 11.0
+  },
+  {
+    "district": "Asokore Mampong Municipal",
+    "region": "Ashanti",
+    "year": 2035,
+    "projected_pop": 244161,
+    "current_facilities": 9,
+    "required_facilities": 22.0,
+    "projected_shortfall": 13.0
+  },
+  {
+    "district": "Asante Akim Central Municipal",
+    "region": "Ashanti",
+    "year": 2026,
+    "projected_pop": 206115,
+    "current_facilities": 6,
+    "required_facilities": 18.6,
+    "projected_shortfall": 12.6
+  },
+  {
+    "district": "Asante Akim Central Municipal",
+    "region": "Ashanti",
+    "year": 2030,
+    "projected_pop": 222231,
+    "current_facilities": 6,
+    "required_facilities": 20.0,
+    "projected_shortfall": 14.0
+  },
+  {
+    "district": "Asante Akim Central Municipal",
+    "region": "Ashanti",
+    "year": 2035,
+    "projected_pop": 244161,
+    "current_facilities": 6,
+    "required_facilities": 22.0,
+    "projected_shortfall": 16.0
+  },
+  {
+    "district": "Komenda-Edina-Eguafo-Abirem Municipal",
+    "region": "Central",
+    "year": 2026,
+    "projected_pop": 165370,
+    "current_facilities": 5,
+    "required_facilities": 14.9,
+    "projected_shortfall": 9.9
+  },
+  {
+    "district": "Komenda-Edina-Eguafo-Abirem Municipal",
+    "region": "Central",
+    "year": 2030,
+    "projected_pop": 178301,
+    "current_facilities": 5,
+    "required_facilities": 16.0,
+    "projected_shortfall": 11.0
+  },
+  {
+    "district": "Komenda-Edina-Eguafo-Abirem Municipal",
+    "region": "Central",
+    "year": 2035,
+    "projected_pop": 195895,
+    "current_facilities": 5,
+    "required_facilities": 17.6,
+    "projected_shortfall": 12.6
+  },
+  {
+    "district": "Techiman North",
+    "region": "Bono East",
+    "year": 2026,
+    "projected_pop": 165269,
+    "current_facilities": 5,
+    "required_facilities": 14.9,
+    "projected_shortfall": 9.9
+  },
+  {
+    "district": "Techiman North",
+    "region": "Bono East",
+    "year": 2030,
+    "projected_pop": 178192,
+    "current_facilities": 5,
+    "required_facilities": 16.0,
+    "projected_shortfall": 11.0
+  },
+  {
+    "district": "Techiman North",
+    "region": "Bono East",
+    "year": 2035,
+    "projected_pop": 195776,
+    "current_facilities": 5,
+    "required_facilities": 17.6,
+    "projected_shortfall": 12.6
+  },
+  {
+    "district": "Biakoye",
+    "region": "Oti",
+    "year": 2026,
+    "projected_pop": 102624,
+    "current_facilities": 5,
+    "required_facilities": 9.2,
+    "projected_shortfall": 4.2
+  },
+  {
+    "district": "Biakoye",
+    "region": "Oti",
+    "year": 2030,
+    "projected_pop": 110649,
+    "current_facilities": 5,
+    "required_facilities": 10.0,
+    "projected_shortfall": 5.0
+  },
+  {
+    "district": "Biakoye",
+    "region": "Oti",
+    "year": 2035,
+    "projected_pop": 121568,
+    "current_facilities": 5,
+    "required_facilities": 10.9,
+    "projected_shortfall": 5.9
+  },
+  {
+    "district": "Keta Municipal",
+    "region": "Volta",
+    "year": 2026,
+    "projected_pop": 107221,
+    "current_facilities": 6,
+    "required_facilities": 9.6,
+    "projected_shortfall": 3.6
+  },
+  {
+    "district": "Keta Municipal",
+    "region": "Volta",
+    "year": 2030,
+    "projected_pop": 115605,
+    "current_facilities": 6,
+    "required_facilities": 10.4,
+    "projected_shortfall": 4.4
+  },
+  {
+    "district": "Keta Municipal",
+    "region": "Volta",
+    "year": 2035,
+    "projected_pop": 127013,
+    "current_facilities": 6,
+    "required_facilities": 11.4,
+    "projected_shortfall": 5.4
+  },
+  {
+    "district": "Kwahu Afram Plains South",
+    "region": "Eastern",
+    "year": 2026,
+    "projected_pop": 123265,
+    "current_facilities": 14,
+    "required_facilities": 11.1,
+    "projected_shortfall": 0.0
+  },
+  {
+    "district": "Kwahu Afram Plains South",
+    "region": "Eastern",
+    "year": 2030,
+    "projected_pop": 132904,
+    "current_facilities": 14,
+    "required_facilities": 12.0,
+    "projected_shortfall": 0.0
+  },
+  {
+    "district": "Kwahu Afram Plains South",
+    "region": "Eastern",
+    "year": 2035,
+    "projected_pop": 146018,
+    "current_facilities": 14,
+    "required_facilities": 13.1,
+    "projected_shortfall": 0.0
+  },
+  {
+    "district": "Ga West Municipal",
+    "region": "Greater Accra",
+    "year": 2026,
+    "projected_pop": 222002,
+    "current_facilities": 8,
+    "required_facilities": 20.0,
+    "projected_shortfall": 12.0
+  },
+  {
+    "district": "Ga West Municipal",
+    "region": "Greater Accra",
+    "year": 2030,
+    "projected_pop": 239361,
+    "current_facilities": 8,
+    "required_facilities": 21.5,
+    "projected_shortfall": 13.5
+  },
+  {
+    "district": "Ga West Municipal",
+    "region": "Greater Accra",
+    "year": 2035,
+    "projected_pop": 262981,
+    "current_facilities": 8,
+    "required_facilities": 23.7,
+    "projected_shortfall": 15.7
+  },
+  {
+    "district": "Akatsi South",
+    "region": "Volta",
+    "year": 2026,
+    "projected_pop": 107221,
+    "current_facilities": 4,
+    "required_facilities": 9.6,
+    "projected_shortfall": 5.6
+  },
+  {
+    "district": "Akatsi South",
+    "region": "Volta",
+    "year": 2030,
+    "projected_pop": 115605,
+    "current_facilities": 4,
+    "required_facilities": 10.4,
+    "projected_shortfall": 6.4
+  },
+  {
+    "district": "Akatsi South",
+    "region": "Volta",
+    "year": 2035,
+    "projected_pop": 127013,
+    "current_facilities": 4,
+    "required_facilities": 11.4,
+    "projected_shortfall": 7.4
+  },
+  {
+    "district": "Ellembelle",
+    "region": "Western",
+    "year": 2026,
+    "projected_pop": 174148,
+    "current_facilities": 7,
+    "required_facilities": 15.7,
+    "projected_shortfall": 8.7
+  },
+  {
+    "district": "Ellembelle",
+    "region": "Western",
+    "year": 2030,
+    "projected_pop": 187765,
+    "current_facilities": 7,
+    "required_facilities": 16.9,
+    "projected_shortfall": 9.9
+  },
+  {
+    "district": "Ellembelle",
+    "region": "Western",
+    "year": 2035,
+    "projected_pop": 206294,
+    "current_facilities": 7,
+    "required_facilities": 18.6,
+    "projected_shortfall": 11.6
+  },
+  {
+    "district": "Kasena Nankana West",
+    "region": "Upper East",
+    "year": 2026,
+    "projected_pop": 119135,
+    "current_facilities": 10,
+    "required_facilities": 10.7,
+    "projected_shortfall": 0.7
+  },
+  {
+    "district": "Kasena Nankana West",
+    "region": "Upper East",
+    "year": 2030,
+    "projected_pop": 128451,
+    "current_facilities": 10,
+    "required_facilities": 11.6,
+    "projected_shortfall": 1.6
+  },
+  {
+    "district": "Kasena Nankana West",
+    "region": "Upper East",
+    "year": 2035,
+    "projected_pop": 141126,
+    "current_facilities": 10,
+    "required_facilities": 12.7,
+    "projected_shortfall": 2.7
+  },
+  {
+    "district": "Sunyani West",
+    "region": "Bono",
+    "year": 2026,
+    "projected_pop": 132792,
+    "current_facilities": 5,
+    "required_facilities": 12.0,
+    "projected_shortfall": 7.0
+  },
+  {
+    "district": "Sunyani West",
+    "region": "Bono",
+    "year": 2030,
+    "projected_pop": 143175,
+    "current_facilities": 5,
+    "required_facilities": 12.9,
+    "projected_shortfall": 7.9
+  },
+  {
+    "district": "Sunyani West",
+    "region": "Bono",
+    "year": 2035,
+    "projected_pop": 157304,
+    "current_facilities": 5,
+    "required_facilities": 14.2,
+    "projected_shortfall": 9.2
+  },
+  {
+    "district": "Ejisu Municipal",
+    "region": "Ashanti",
+    "year": 2026,
+    "projected_pop": 206115,
+    "current_facilities": 6,
+    "required_facilities": 18.6,
+    "projected_shortfall": 12.6
+  },
+  {
+    "district": "Ejisu Municipal",
+    "region": "Ashanti",
+    "year": 2030,
+    "projected_pop": 222231,
+    "current_facilities": 6,
+    "required_facilities": 20.0,
+    "projected_shortfall": 14.0
+  },
+  {
+    "district": "Ejisu Municipal",
+    "region": "Ashanti",
+    "year": 2035,
+    "projected_pop": 244161,
+    "current_facilities": 6,
+    "required_facilities": 22.0,
+    "projected_shortfall": 16.0
+  },
+  {
+    "district": "Nadowli-Kaleo",
+    "region": "Upper West",
+    "year": 2026,
+    "projected_pop": 123808,
+    "current_facilities": 6,
+    "required_facilities": 11.1,
+    "projected_shortfall": 5.1
+  },
+  {
+    "district": "Nadowli-Kaleo",
+    "region": "Upper West",
+    "year": 2030,
+    "projected_pop": 133489,
+    "current_facilities": 6,
+    "required_facilities": 12.0,
+    "projected_shortfall": 6.0
+  },
+  {
+    "district": "Nadowli-Kaleo",
+    "region": "Upper West",
+    "year": 2035,
+    "projected_pop": 146661,
+    "current_facilities": 6,
+    "required_facilities": 13.2,
+    "projected_shortfall": 7.2
+  },
+  {
+    "district": "Jaman South Municipal",
+    "region": "Bono",
+    "year": 2026,
+    "projected_pop": 132792,
+    "current_facilities": 5,
+    "required_facilities": 12.0,
+    "projected_shortfall": 7.0
+  },
+  {
+    "district": "Jaman South Municipal",
+    "region": "Bono",
+    "year": 2030,
+    "projected_pop": 143175,
+    "current_facilities": 5,
+    "required_facilities": 12.9,
+    "projected_shortfall": 7.9
+  },
+  {
+    "district": "Jaman South Municipal",
+    "region": "Bono",
+    "year": 2035,
+    "projected_pop": 157304,
+    "current_facilities": 5,
+    "required_facilities": 14.2,
+    "projected_shortfall": 9.2
+  },
+  {
+    "district": "Bolga  East",
+    "region": "Upper East",
+    "year": 2026,
+    "projected_pop": 119135,
+    "current_facilities": 8,
+    "required_facilities": 10.7,
+    "projected_shortfall": 2.7
+  },
+  {
+    "district": "Bolga  East",
+    "region": "Upper East",
+    "year": 2030,
+    "projected_pop": 128451,
+    "current_facilities": 8,
+    "required_facilities": 11.6,
+    "projected_shortfall": 3.6
+  },
+  {
+    "district": "Bolga  East",
+    "region": "Upper East",
+    "year": 2035,
+    "projected_pop": 141126,
+    "current_facilities": 8,
+    "required_facilities": 12.7,
+    "projected_shortfall": 4.7
+  },
+  {
+    "district": "Savelugu",
+    "region": "Northern",
+    "year": 2026,
+    "projected_pop": 169265,
+    "current_facilities": 7,
+    "required_facilities": 15.2,
+    "projected_shortfall": 8.2
+  },
+  {
+    "district": "Savelugu",
+    "region": "Northern",
+    "year": 2030,
+    "projected_pop": 182501,
+    "current_facilities": 7,
+    "required_facilities": 16.4,
+    "projected_shortfall": 9.4
+  },
+  {
+    "district": "Savelugu",
+    "region": "Northern",
+    "year": 2035,
+    "projected_pop": 200510,
+    "current_facilities": 7,
+    "required_facilities": 18.0,
+    "projected_shortfall": 11.0
+  },
+  {
+    "district": "Kintampo South",
+    "region": "Bono East",
+    "year": 2026,
+    "projected_pop": 165269,
+    "current_facilities": 6,
+    "required_facilities": 14.9,
+    "projected_shortfall": 8.9
+  },
+  {
+    "district": "Kintampo South",
+    "region": "Bono East",
+    "year": 2030,
+    "projected_pop": 178192,
+    "current_facilities": 6,
+    "required_facilities": 16.0,
+    "projected_shortfall": 10.0
+  },
+  {
+    "district": "Kintampo South",
+    "region": "Bono East",
+    "year": 2035,
+    "projected_pop": 195776,
+    "current_facilities": 6,
+    "required_facilities": 17.6,
+    "projected_shortfall": 11.6
+  },
+  {
+    "district": "Tano South Municipal",
+    "region": "Ahafo",
+    "year": 2026,
+    "projected_pop": 103398,
+    "current_facilities": 5,
+    "required_facilities": 9.3,
+    "projected_shortfall": 4.3
+  },
+  {
+    "district": "Tano South Municipal",
+    "region": "Ahafo",
+    "year": 2030,
+    "projected_pop": 111483,
+    "current_facilities": 5,
+    "required_facilities": 10.0,
+    "projected_shortfall": 5.0
+  },
+  {
+    "district": "Tano South Municipal",
+    "region": "Ahafo",
+    "year": 2035,
+    "projected_pop": 122484,
+    "current_facilities": 5,
+    "required_facilities": 11.0,
+    "projected_shortfall": 6.0
+  },
+  {
+    "district": "Ayawaso North Municipal",
+    "region": "Greater Accra",
+    "year": 2026,
+    "projected_pop": 222002,
+    "current_facilities": 7,
+    "required_facilities": 20.0,
+    "projected_shortfall": 13.0
+  },
+  {
+    "district": "Ayawaso North Municipal",
+    "region": "Greater Accra",
+    "year": 2030,
+    "projected_pop": 239361,
+    "current_facilities": 7,
+    "required_facilities": 21.5,
+    "projected_shortfall": 14.5
+  },
+  {
+    "district": "Ayawaso North Municipal",
+    "region": "Greater Accra",
+    "year": 2035,
+    "projected_pop": 262981,
+    "current_facilities": 7,
+    "required_facilities": 23.7,
+    "projected_shortfall": 16.7
+  },
+  {
+    "district": "Ablekuma Central Municipal",
+    "region": "Greater Accra",
+    "year": 2026,
+    "projected_pop": 222002,
+    "current_facilities": 10,
+    "required_facilities": 20.0,
+    "projected_shortfall": 10.0
+  },
+  {
+    "district": "Ablekuma Central Municipal",
+    "region": "Greater Accra",
+    "year": 2030,
+    "projected_pop": 239361,
+    "current_facilities": 10,
+    "required_facilities": 21.5,
+    "projected_shortfall": 11.5
+  },
+  {
+    "district": "Ablekuma Central Municipal",
+    "region": "Greater Accra",
+    "year": 2035,
+    "projected_pop": 262981,
+    "current_facilities": 10,
+    "required_facilities": 23.7,
+    "projected_shortfall": 13.7
+  },
+  {
+    "district": "Talensi",
+    "region": "Upper East",
+    "year": 2026,
+    "projected_pop": 119135,
+    "current_facilities": 6,
+    "required_facilities": 10.7,
+    "projected_shortfall": 4.7
+  },
+  {
+    "district": "Talensi",
+    "region": "Upper East",
+    "year": 2030,
+    "projected_pop": 128451,
+    "current_facilities": 6,
+    "required_facilities": 11.6,
+    "projected_shortfall": 5.6
+  },
+  {
+    "district": "Talensi",
+    "region": "Upper East",
+    "year": 2035,
+    "projected_pop": 141126,
+    "current_facilities": 6,
+    "required_facilities": 12.7,
+    "projected_shortfall": 6.7
+  },
+  {
+    "district": "Asutifi South",
+    "region": "Ahafo",
+    "year": 2026,
+    "projected_pop": 103398,
+    "current_facilities": 5,
+    "required_facilities": 9.3,
+    "projected_shortfall": 4.3
+  },
+  {
+    "district": "Asutifi South",
+    "region": "Ahafo",
+    "year": 2030,
+    "projected_pop": 111483,
+    "current_facilities": 5,
+    "required_facilities": 10.0,
+    "projected_shortfall": 5.0
+  },
+  {
+    "district": "Asutifi South",
+    "region": "Ahafo",
+    "year": 2035,
+    "projected_pop": 122484,
+    "current_facilities": 5,
+    "required_facilities": 11.0,
+    "projected_shortfall": 6.0
+  },
+  {
+    "district": "Saboba",
+    "region": "Northern",
+    "year": 2026,
+    "projected_pop": 169265,
+    "current_facilities": 8,
+    "required_facilities": 15.2,
+    "projected_shortfall": 7.2
+  },
+  {
+    "district": "Saboba",
+    "region": "Northern",
+    "year": 2030,
+    "projected_pop": 182501,
+    "current_facilities": 8,
+    "required_facilities": 16.4,
+    "projected_shortfall": 8.4
+  },
+  {
+    "district": "Saboba",
+    "region": "Northern",
+    "year": 2035,
+    "projected_pop": 200510,
+    "current_facilities": 8,
+    "required_facilities": 18.0,
+    "projected_shortfall": 10.0
+  },
+  {
+    "district": "Ekumfi",
+    "region": "Central",
+    "year": 2026,
+    "projected_pop": 165370,
+    "current_facilities": 9,
+    "required_facilities": 14.9,
+    "projected_shortfall": 5.9
+  },
+  {
+    "district": "Ekumfi",
+    "region": "Central",
+    "year": 2030,
+    "projected_pop": 178301,
+    "current_facilities": 9,
+    "required_facilities": 16.0,
+    "projected_shortfall": 7.0
+  },
+  {
+    "district": "Ekumfi",
+    "region": "Central",
+    "year": 2035,
+    "projected_pop": 195895,
+    "current_facilities": 9,
+    "required_facilities": 17.6,
+    "projected_shortfall": 8.6
+  },
+  {
+    "district": "Old Tafo Municipal",
+    "region": "Ashanti",
+    "year": 2026,
+    "projected_pop": 206115,
+    "current_facilities": 10,
+    "required_facilities": 18.6,
+    "projected_shortfall": 8.6
+  },
+  {
+    "district": "Old Tafo Municipal",
+    "region": "Ashanti",
+    "year": 2030,
+    "projected_pop": 222231,
+    "current_facilities": 10,
+    "required_facilities": 20.0,
+    "projected_shortfall": 10.0
+  },
+  {
+    "district": "Old Tafo Municipal",
+    "region": "Ashanti",
+    "year": 2035,
+    "projected_pop": 244161,
+    "current_facilities": 10,
+    "required_facilities": 22.0,
+    "projected_shortfall": 12.0
+  },
+  {
+    "district": "Mfantseman Municipal",
+    "region": "Central",
+    "year": 2026,
+    "projected_pop": 165370,
+    "current_facilities": 9,
+    "required_facilities": 14.9,
+    "projected_shortfall": 5.9
+  },
+  {
+    "district": "Mfantseman Municipal",
+    "region": "Central",
+    "year": 2030,
+    "projected_pop": 178301,
+    "current_facilities": 9,
+    "required_facilities": 16.0,
+    "projected_shortfall": 7.0
+  },
+  {
+    "district": "Mfantseman Municipal",
+    "region": "Central",
+    "year": 2035,
+    "projected_pop": 195895,
+    "current_facilities": 9,
+    "required_facilities": 17.6,
+    "projected_shortfall": 8.6
+  },
+  {
+    "district": "Ablekuma West Municipal",
+    "region": "Greater Accra",
+    "year": 2026,
+    "projected_pop": 222002,
+    "current_facilities": 12,
+    "required_facilities": 20.0,
+    "projected_shortfall": 8.0
+  },
+  {
+    "district": "Ablekuma West Municipal",
+    "region": "Greater Accra",
+    "year": 2030,
+    "projected_pop": 239361,
+    "current_facilities": 12,
+    "required_facilities": 21.5,
+    "projected_shortfall": 9.5
+  },
+  {
+    "district": "Ablekuma West Municipal",
+    "region": "Greater Accra",
+    "year": 2035,
+    "projected_pop": 262981,
+    "current_facilities": 12,
+    "required_facilities": 23.7,
+    "projected_shortfall": 11.7
+  },
+  {
+    "district": "Wa West",
+    "region": "Upper West",
+    "year": 2026,
+    "projected_pop": 123808,
+    "current_facilities": 8,
+    "required_facilities": 11.1,
+    "projected_shortfall": 3.1
+  },
+  {
+    "district": "Wa West",
+    "region": "Upper West",
+    "year": 2030,
+    "projected_pop": 133489,
+    "current_facilities": 8,
+    "required_facilities": 12.0,
+    "projected_shortfall": 4.0
+  },
+  {
+    "district": "Wa West",
+    "region": "Upper West",
+    "year": 2035,
+    "projected_pop": 146661,
+    "current_facilities": 8,
+    "required_facilities": 13.2,
+    "projected_shortfall": 5.2
+  },
+  {
+    "district": "Kintampo North Municipal",
+    "region": "Bono East",
+    "year": 2026,
+    "projected_pop": 165269,
+    "current_facilities": 10,
+    "required_facilities": 14.9,
+    "projected_shortfall": 4.9
+  },
+  {
+    "district": "Kintampo North Municipal",
+    "region": "Bono East",
+    "year": 2030,
+    "projected_pop": 178192,
+    "current_facilities": 10,
+    "required_facilities": 16.0,
+    "projected_shortfall": 6.0
+  },
+  {
+    "district": "Kintampo North Municipal",
+    "region": "Bono East",
+    "year": 2035,
+    "projected_pop": 195776,
+    "current_facilities": 10,
+    "required_facilities": 17.6,
+    "projected_shortfall": 7.6
+  },
+  {
+    "district": "South Dayi",
+    "region": "Volta",
+    "year": 2026,
+    "projected_pop": 107221,
+    "current_facilities": 7,
+    "required_facilities": 9.6,
+    "projected_shortfall": 2.6
+  },
+  {
+    "district": "South Dayi",
+    "region": "Volta",
+    "year": 2030,
+    "projected_pop": 115605,
+    "current_facilities": 7,
+    "required_facilities": 10.4,
+    "projected_shortfall": 3.4
+  },
+  {
+    "district": "South Dayi",
+    "region": "Volta",
+    "year": 2035,
+    "projected_pop": 127013,
+    "current_facilities": 7,
+    "required_facilities": 11.4,
+    "projected_shortfall": 4.4
+  },
+  {
+    "district": "Asunafo South",
+    "region": "Ahafo",
+    "year": 2026,
+    "projected_pop": 103398,
+    "current_facilities": 7,
+    "required_facilities": 9.3,
+    "projected_shortfall": 2.3
+  },
+  {
+    "district": "Asunafo South",
+    "region": "Ahafo",
+    "year": 2030,
+    "projected_pop": 111483,
+    "current_facilities": 7,
+    "required_facilities": 10.0,
+    "projected_shortfall": 3.0
+  },
+  {
+    "district": "Asunafo South",
+    "region": "Ahafo",
+    "year": 2035,
+    "projected_pop": 122484,
+    "current_facilities": 7,
+    "required_facilities": 11.0,
+    "projected_shortfall": 4.0
+  },
+  {
+    "district": "Effia Kwesimintsim Municipal",
+    "region": "Western",
+    "year": 2026,
+    "projected_pop": 174148,
+    "current_facilities": 15,
+    "required_facilities": 15.7,
+    "projected_shortfall": 0.7
+  },
+  {
+    "district": "Effia Kwesimintsim Municipal",
+    "region": "Western",
+    "year": 2030,
+    "projected_pop": 187765,
+    "current_facilities": 15,
+    "required_facilities": 16.9,
+    "projected_shortfall": 1.9
+  },
+  {
+    "district": "Effia Kwesimintsim Municipal",
+    "region": "Western",
+    "year": 2035,
+    "projected_pop": 206294,
+    "current_facilities": 15,
+    "required_facilities": 18.6,
+    "projected_shortfall": 3.6
+  },
+  {
+    "district": "Kasena Nankana East",
+    "region": "Upper East",
+    "year": 2026,
+    "projected_pop": 119135,
+    "current_facilities": 12,
+    "required_facilities": 10.7,
+    "projected_shortfall": 0.0
+  },
+  {
+    "district": "Kasena Nankana East",
+    "region": "Upper East",
+    "year": 2030,
+    "projected_pop": 128451,
+    "current_facilities": 12,
+    "required_facilities": 11.6,
+    "projected_shortfall": 0.0
+  },
+  {
+    "district": "Kasena Nankana East",
+    "region": "Upper East",
+    "year": 2035,
+    "projected_pop": 141126,
+    "current_facilities": 12,
+    "required_facilities": 12.7,
+    "projected_shortfall": 0.7
+  },
+  {
+    "district": "Ningo/Prampram",
+    "region": "Greater Accra",
+    "year": 2026,
+    "projected_pop": 222002,
+    "current_facilities": 21,
+    "required_facilities": 20.0,
+    "projected_shortfall": 0.0
+  },
+  {
+    "district": "Ningo/Prampram",
+    "region": "Greater Accra",
+    "year": 2030,
+    "projected_pop": 239361,
+    "current_facilities": 21,
+    "required_facilities": 21.5,
+    "projected_shortfall": 0.5
+  },
+  {
+    "district": "Ningo/Prampram",
+    "region": "Greater Accra",
+    "year": 2035,
+    "projected_pop": 262981,
+    "current_facilities": 21,
+    "required_facilities": 23.7,
+    "projected_shortfall": 2.7
+  },
+  {
+    "district": "Adaklu",
+    "region": "Volta",
+    "year": 2026,
+    "projected_pop": 107221,
+    "current_facilities": 12,
+    "required_facilities": 9.6,
+    "projected_shortfall": 0.0
+  },
+  {
+    "district": "Adaklu",
+    "region": "Volta",
+    "year": 2030,
+    "projected_pop": 115605,
+    "current_facilities": 12,
+    "required_facilities": 10.4,
+    "projected_shortfall": 0.0
+  },
+  {
+    "district": "Adaklu",
+    "region": "Volta",
+    "year": 2035,
+    "projected_pop": 127013,
+    "current_facilities": 12,
+    "required_facilities": 11.4,
+    "projected_shortfall": 0.0
+  },
+  {
+    "district": "Gomoa East",
+    "region": "Central",
+    "year": 2026,
+    "projected_pop": 165370,
+    "current_facilities": 15,
+    "required_facilities": 14.9,
+    "projected_shortfall": 0.0
+  },
+  {
+    "district": "Gomoa East",
+    "region": "Central",
+    "year": 2030,
+    "projected_pop": 178301,
+    "current_facilities": 15,
+    "required_facilities": 16.0,
+    "projected_shortfall": 1.0
+  },
+  {
+    "district": "Gomoa East",
+    "region": "Central",
+    "year": 2035,
+    "projected_pop": 195895,
+    "current_facilities": 15,
+    "required_facilities": 17.6,
+    "projected_shortfall": 2.6
+  },
+  {
+    "district": "Kpone Katamanso",
+    "region": "Greater Accra",
+    "year": 2026,
+    "projected_pop": 222002,
+    "current_facilities": 22,
+    "required_facilities": 20.0,
+    "projected_shortfall": 0.0
+  },
+  {
+    "district": "Kpone Katamanso",
+    "region": "Greater Accra",
+    "year": 2030,
+    "projected_pop": 239361,
+    "current_facilities": 22,
+    "required_facilities": 21.5,
+    "projected_shortfall": 0.0
+  },
+  {
+    "district": "Kpone Katamanso",
+    "region": "Greater Accra",
+    "year": 2035,
+    "projected_pop": 262981,
+    "current_facilities": 22,
+    "required_facilities": 23.7,
+    "projected_shortfall": 1.7
+  },
+  {
+    "district": "Techiman Municipal",
+    "region": "Bono East",
+    "year": 2026,
+    "projected_pop": 165269,
+    "current_facilities": 14,
+    "required_facilities": 14.9,
+    "projected_shortfall": 0.9
+  },
+  {
+    "district": "Techiman Municipal",
+    "region": "Bono East",
+    "year": 2030,
+    "projected_pop": 178192,
+    "current_facilities": 14,
+    "required_facilities": 16.0,
+    "projected_shortfall": 2.0
+  },
+  {
+    "district": "Techiman Municipal",
+    "region": "Bono East",
+    "year": 2035,
+    "projected_pop": 195776,
+    "current_facilities": 14,
+    "required_facilities": 17.6,
+    "projected_shortfall": 3.6
+  },
+  {
+    "district": "Kwahu West",
+    "region": "Eastern",
+    "year": 2026,
+    "projected_pop": 123265,
+    "current_facilities": 11,
+    "required_facilities": 11.1,
+    "projected_shortfall": 0.1
+  },
+  {
+    "district": "Kwahu West",
+    "region": "Eastern",
+    "year": 2030,
+    "projected_pop": 132904,
+    "current_facilities": 11,
+    "required_facilities": 12.0,
+    "projected_shortfall": 1.0
+  },
+  {
+    "district": "Kwahu West",
+    "region": "Eastern",
+    "year": 2035,
+    "projected_pop": 146018,
+    "current_facilities": 11,
+    "required_facilities": 13.1,
+    "projected_shortfall": 2.1
+  },
+  {
+    "district": "Atwima Nwabiagya South",
+    "region": "Ashanti",
+    "year": 2026,
+    "projected_pop": 206115,
+    "current_facilities": 16,
+    "required_facilities": 18.6,
+    "projected_shortfall": 2.6
+  },
+  {
+    "district": "Atwima Nwabiagya South",
+    "region": "Ashanti",
+    "year": 2030,
+    "projected_pop": 222231,
+    "current_facilities": 16,
+    "required_facilities": 20.0,
+    "projected_shortfall": 4.0
+  },
+  {
+    "district": "Atwima Nwabiagya South",
+    "region": "Ashanti",
+    "year": 2035,
+    "projected_pop": 244161,
+    "current_facilities": 16,
+    "required_facilities": 22.0,
+    "projected_shortfall": 6.0
+  },
+  {
+    "district": "Suame Municipal",
+    "region": "Ashanti",
+    "year": 2026,
+    "projected_pop": 206115,
+    "current_facilities": 17,
+    "required_facilities": 18.6,
+    "projected_shortfall": 1.6
+  },
+  {
+    "district": "Suame Municipal",
+    "region": "Ashanti",
+    "year": 2030,
+    "projected_pop": 222231,
+    "current_facilities": 17,
+    "required_facilities": 20.0,
+    "projected_shortfall": 3.0
+  },
+  {
+    "district": "Suame Municipal",
+    "region": "Ashanti",
+    "year": 2035,
+    "projected_pop": 244161,
+    "current_facilities": 17,
+    "required_facilities": 22.0,
+    "projected_shortfall": 5.0
+  },
+  {
+    "district": "Yilo Krobo",
+    "region": "Eastern",
+    "year": 2026,
+    "projected_pop": 123265,
+    "current_facilities": 12,
+    "required_facilities": 11.1,
+    "projected_shortfall": 0.0
+  },
+  {
+    "district": "Yilo Krobo",
+    "region": "Eastern",
+    "year": 2030,
+    "projected_pop": 132904,
+    "current_facilities": 12,
+    "required_facilities": 12.0,
+    "projected_shortfall": 0.0
+  },
+  {
+    "district": "Yilo Krobo",
+    "region": "Eastern",
+    "year": 2035,
+    "projected_pop": 146018,
+    "current_facilities": 12,
+    "required_facilities": 13.1,
+    "projected_shortfall": 1.1
+  },
+  {
+    "district": "Jomoro",
+    "region": "Western",
+    "year": 2026,
+    "projected_pop": 174148,
+    "current_facilities": 22,
+    "required_facilities": 15.7,
+    "projected_shortfall": 0.0
+  },
+  {
+    "district": "Jomoro",
+    "region": "Western",
+    "year": 2030,
+    "projected_pop": 187765,
+    "current_facilities": 22,
+    "required_facilities": 16.9,
+    "projected_shortfall": 0.0
+  },
+  {
+    "district": "Jomoro",
+    "region": "Western",
+    "year": 2035,
+    "projected_pop": 206294,
+    "current_facilities": 22,
+    "required_facilities": 18.6,
+    "projected_shortfall": 0.0
+  },
+  {
+    "district": "Nkwanta North",
+    "region": "Oti",
+    "year": 2026,
+    "projected_pop": 102624,
+    "current_facilities": 9,
+    "required_facilities": 9.2,
+    "projected_shortfall": 0.2
+  },
+  {
+    "district": "Nkwanta North",
+    "region": "Oti",
+    "year": 2030,
+    "projected_pop": 110649,
+    "current_facilities": 9,
+    "required_facilities": 10.0,
+    "projected_shortfall": 1.0
+  },
+  {
+    "district": "Nkwanta North",
+    "region": "Oti",
+    "year": 2035,
+    "projected_pop": 121568,
+    "current_facilities": 9,
+    "required_facilities": 10.9,
+    "projected_shortfall": 1.9
+  },
+  {
+    "district": "Lower Manya",
+    "region": "Eastern",
+    "year": 2026,
+    "projected_pop": 123265,
+    "current_facilities": 13,
+    "required_facilities": 11.1,
+    "projected_shortfall": 0.0
+  },
+  {
+    "district": "Lower Manya",
+    "region": "Eastern",
+    "year": 2030,
+    "projected_pop": 132904,
+    "current_facilities": 13,
+    "required_facilities": 12.0,
+    "projected_shortfall": 0.0
+  },
+  {
+    "district": "Lower Manya",
+    "region": "Eastern",
+    "year": 2035,
+    "projected_pop": 146018,
+    "current_facilities": 13,
+    "required_facilities": 13.1,
+    "projected_shortfall": 0.1
+  },
+  {
+    "district": "Kwadaso Municipal",
+    "region": "Ashanti",
+    "year": 2026,
+    "projected_pop": 206115,
+    "current_facilities": 23,
+    "required_facilities": 18.6,
+    "projected_shortfall": 0.0
+  },
+  {
+    "district": "Kwadaso Municipal",
+    "region": "Ashanti",
+    "year": 2030,
+    "projected_pop": 222231,
+    "current_facilities": 23,
+    "required_facilities": 20.0,
+    "projected_shortfall": 0.0
+  },
+  {
+    "district": "Kwadaso Municipal",
+    "region": "Ashanti",
+    "year": 2035,
+    "projected_pop": 244161,
+    "current_facilities": 23,
+    "required_facilities": 22.0,
+    "projected_shortfall": 0.0
+  },
+  {
+    "district": "Bibiani-Anhwiaso-Bekwai Municipal",
+    "region": "Western North",
+    "year": 2026,
+    "projected_pop": 161308,
+    "current_facilities": 17,
+    "required_facilities": 14.5,
+    "projected_shortfall": 0.0
+  },
+  {
+    "district": "Bibiani-Anhwiaso-Bekwai Municipal",
+    "region": "Western North",
+    "year": 2030,
+    "projected_pop": 173922,
+    "current_facilities": 17,
+    "required_facilities": 15.7,
+    "projected_shortfall": 0.0
+  },
+  {
+    "district": "Bibiani-Anhwiaso-Bekwai Municipal",
+    "region": "Western North",
+    "year": 2035,
+    "projected_pop": 191084,
+    "current_facilities": 17,
+    "required_facilities": 17.2,
+    "projected_shortfall": 0.2
+  },
+  {
+    "district": "Bolgatanga Municipal",
+    "region": "Upper East",
+    "year": 2026,
+    "projected_pop": 119135,
+    "current_facilities": 15,
+    "required_facilities": 10.7,
+    "projected_shortfall": 0.0
+  },
+  {
+    "district": "Bolgatanga Municipal",
+    "region": "Upper East",
+    "year": 2030,
+    "projected_pop": 128451,
+    "current_facilities": 15,
+    "required_facilities": 11.6,
+    "projected_shortfall": 0.0
+  },
+  {
+    "district": "Bolgatanga Municipal",
+    "region": "Upper East",
+    "year": 2035,
+    "projected_pop": 141126,
+    "current_facilities": 15,
+    "required_facilities": 12.7,
+    "projected_shortfall": 0.0
+  },
+  {
+    "district": "Ashaiman Municipal",
+    "region": "Greater Accra",
+    "year": 2026,
+    "projected_pop": 222002,
+    "current_facilities": 27,
+    "required_facilities": 20.0,
+    "projected_shortfall": 0.0
+  },
+  {
+    "district": "Ashaiman Municipal",
+    "region": "Greater Accra",
+    "year": 2030,
+    "projected_pop": 239361,
+    "current_facilities": 27,
+    "required_facilities": 21.5,
+    "projected_shortfall": 0.0
+  },
+  {
+    "district": "Ashaiman Municipal",
+    "region": "Greater Accra",
+    "year": 2035,
+    "projected_pop": 262981,
+    "current_facilities": 27,
+    "required_facilities": 23.7,
+    "projected_shortfall": 0.0
+  },
+  {
+    "district": "Jasikan",
+    "region": "Oti",
+    "year": 2026,
+    "projected_pop": 102624,
+    "current_facilities": 15,
+    "required_facilities": 9.2,
+    "projected_shortfall": 0.0
+  },
+  {
+    "district": "Jasikan",
+    "region": "Oti",
+    "year": 2030,
+    "projected_pop": 110649,
+    "current_facilities": 15,
+    "required_facilities": 10.0,
+    "projected_shortfall": 0.0
+  },
+  {
+    "district": "Jasikan",
+    "region": "Oti",
+    "year": 2035,
+    "projected_pop": 121568,
+    "current_facilities": 15,
+    "required_facilities": 10.9,
+    "projected_shortfall": 0.0
+  },
+  {
+    "district": "Twifo Atti-Morkwa",
+    "region": "Central",
+    "year": 2026,
+    "projected_pop": 165370,
+    "current_facilities": 24,
+    "required_facilities": 14.9,
+    "projected_shortfall": 0.0
+  },
+  {
+    "district": "Twifo Atti-Morkwa",
+    "region": "Central",
+    "year": 2030,
+    "projected_pop": 178301,
+    "current_facilities": 24,
+    "required_facilities": 16.0,
+    "projected_shortfall": 0.0
+  },
+  {
+    "district": "Twifo Atti-Morkwa",
+    "region": "Central",
+    "year": 2035,
+    "projected_pop": 195895,
+    "current_facilities": 24,
+    "required_facilities": 17.6,
+    "projected_shortfall": 0.0
+  },
+  {
+    "district": "West Gonja",
+    "region": "Savannah",
+    "year": 2026,
+    "projected_pop": 143546,
+    "current_facilities": 16,
+    "required_facilities": 12.9,
+    "projected_shortfall": 0.0
+  },
+  {
+    "district": "West Gonja",
+    "region": "Savannah",
+    "year": 2030,
+    "projected_pop": 154770,
+    "current_facilities": 16,
+    "required_facilities": 13.9,
+    "projected_shortfall": 0.0
+  },
+  {
+    "district": "West Gonja",
+    "region": "Savannah",
+    "year": 2035,
+    "projected_pop": 170043,
+    "current_facilities": 16,
+    "required_facilities": 15.3,
+    "projected_shortfall": 0.0
+  },
+  {
+    "district": "Kadjebi",
+    "region": "Oti",
+    "year": 2026,
+    "projected_pop": 102624,
+    "current_facilities": 13,
+    "required_facilities": 9.2,
+    "projected_shortfall": 0.0
+  },
+  {
+    "district": "Kadjebi",
+    "region": "Oti",
+    "year": 2030,
+    "projected_pop": 110649,
+    "current_facilities": 13,
+    "required_facilities": 10.0,
+    "projected_shortfall": 0.0
+  },
+  {
+    "district": "Kadjebi",
+    "region": "Oti",
+    "year": 2035,
+    "projected_pop": 121568,
+    "current_facilities": 13,
+    "required_facilities": 10.9,
+    "projected_shortfall": 0.0
+  },
+  {
+    "district": "Accra Metropolis",
+    "region": "Greater Accra",
+    "year": 2026,
+    "projected_pop": 222002,
+    "current_facilities": 33,
+    "required_facilities": 20.0,
+    "projected_shortfall": 0.0
+  },
+  {
+    "district": "Accra Metropolis",
+    "region": "Greater Accra",
+    "year": 2030,
+    "projected_pop": 239361,
+    "current_facilities": 33,
+    "required_facilities": 21.5,
+    "projected_shortfall": 0.0
+  },
+  {
+    "district": "Accra Metropolis",
+    "region": "Greater Accra",
+    "year": 2035,
+    "projected_pop": 262981,
+    "current_facilities": 33,
+    "required_facilities": 23.7,
+    "projected_shortfall": 0.0
+  },
+  {
+    "district": "Effutu Municipal",
+    "region": "Central",
+    "year": 2026,
+    "projected_pop": 165370,
+    "current_facilities": 21,
+    "required_facilities": 14.9,
+    "projected_shortfall": 0.0
+  },
+  {
+    "district": "Effutu Municipal",
+    "region": "Central",
+    "year": 2030,
+    "projected_pop": 178301,
+    "current_facilities": 21,
+    "required_facilities": 16.0,
+    "projected_shortfall": 0.0
+  },
+  {
+    "district": "Effutu Municipal",
+    "region": "Central",
+    "year": 2035,
+    "projected_pop": 195895,
+    "current_facilities": 21,
+    "required_facilities": 17.6,
+    "projected_shortfall": 0.0
+  },
+  {
+    "district": "Kwahu Afram Plains North",
+    "region": "Eastern",
+    "year": 2026,
+    "projected_pop": 123265,
+    "current_facilities": 20,
+    "required_facilities": 11.1,
+    "projected_shortfall": 0.0
+  },
+  {
+    "district": "Kwahu Afram Plains North",
+    "region": "Eastern",
+    "year": 2030,
+    "projected_pop": 132904,
+    "current_facilities": 20,
+    "required_facilities": 12.0,
+    "projected_shortfall": 0.0
+  },
+  {
+    "district": "Kwahu Afram Plains North",
+    "region": "Eastern",
+    "year": 2035,
+    "projected_pop": 146018,
+    "current_facilities": 20,
+    "required_facilities": 13.1,
+    "projected_shortfall": 0.0
+  },
+  {
+    "district": "North Dayi",
+    "region": "Volta",
+    "year": 2026,
+    "projected_pop": 107221,
+    "current_facilities": 12,
+    "required_facilities": 9.6,
+    "projected_shortfall": 0.0
+  },
+  {
+    "district": "North Dayi",
+    "region": "Volta",
+    "year": 2030,
+    "projected_pop": 115605,
+    "current_facilities": 12,
+    "required_facilities": 10.4,
+    "projected_shortfall": 0.0
+  },
+  {
+    "district": "North Dayi",
+    "region": "Volta",
+    "year": 2035,
+    "projected_pop": 127013,
+    "current_facilities": 12,
+    "required_facilities": 11.4,
+    "projected_shortfall": 0.0
+  },
+  {
+    "district": "Ketu South",
+    "region": "Volta",
+    "year": 2026,
+    "projected_pop": 107221,
+    "current_facilities": 16,
+    "required_facilities": 9.6,
+    "projected_shortfall": 0.0
+  },
+  {
+    "district": "Ketu South",
+    "region": "Volta",
+    "year": 2030,
+    "projected_pop": 115605,
+    "current_facilities": 16,
+    "required_facilities": 10.4,
+    "projected_shortfall": 0.0
+  },
+  {
+    "district": "Ketu South",
+    "region": "Volta",
+    "year": 2035,
+    "projected_pop": 127013,
+    "current_facilities": 16,
+    "required_facilities": 11.4,
+    "projected_shortfall": 0.0
+  },
+  {
+    "district": "Ga North Municipal",
+    "region": "Greater Accra",
+    "year": 2026,
+    "projected_pop": 222002,
+    "current_facilities": 39,
+    "required_facilities": 20.0,
+    "projected_shortfall": 0.0
+  },
+  {
+    "district": "Ga North Municipal",
+    "region": "Greater Accra",
+    "year": 2030,
+    "projected_pop": 239361,
+    "current_facilities": 39,
+    "required_facilities": 21.5,
+    "projected_shortfall": 0.0
+  },
+  {
+    "district": "Ga North Municipal",
+    "region": "Greater Accra",
+    "year": 2035,
+    "projected_pop": 262981,
+    "current_facilities": 39,
+    "required_facilities": 23.7,
+    "projected_shortfall": 0.0
+  },
+  {
+    "district": "Aowin",
+    "region": "Western North",
+    "year": 2026,
+    "projected_pop": 161308,
+    "current_facilities": 25,
+    "required_facilities": 14.5,
+    "projected_shortfall": 0.0
+  },
+  {
+    "district": "Aowin",
+    "region": "Western North",
+    "year": 2030,
+    "projected_pop": 173922,
+    "current_facilities": 25,
+    "required_facilities": 15.7,
+    "projected_shortfall": 0.0
+  },
+  {
+    "district": "Aowin",
+    "region": "Western North",
+    "year": 2035,
+    "projected_pop": 191084,
+    "current_facilities": 25,
+    "required_facilities": 17.2,
+    "projected_shortfall": 0.0
+  },
+  {
+    "district": "Tema Metropolitan",
+    "region": "Greater Accra",
+    "year": 2026,
+    "projected_pop": 222002,
+    "current_facilities": 27,
+    "required_facilities": 20.0,
+    "projected_shortfall": 0.0
+  },
+  {
+    "district": "Tema Metropolitan",
+    "region": "Greater Accra",
+    "year": 2030,
+    "projected_pop": 239361,
+    "current_facilities": 27,
+    "required_facilities": 21.5,
+    "projected_shortfall": 0.0
+  },
+  {
+    "district": "Tema Metropolitan",
+    "region": "Greater Accra",
+    "year": 2035,
+    "projected_pop": 262981,
+    "current_facilities": 27,
+    "required_facilities": 23.7,
+    "projected_shortfall": 0.0
+  },
+  {
+    "district": "Kpando Municipal",
+    "region": "Volta",
+    "year": 2026,
+    "projected_pop": 107221,
+    "current_facilities": 14,
+    "required_facilities": 9.6,
+    "projected_shortfall": 0.0
+  },
+  {
+    "district": "Kpando Municipal",
+    "region": "Volta",
+    "year": 2030,
+    "projected_pop": 115605,
+    "current_facilities": 14,
+    "required_facilities": 10.4,
+    "projected_shortfall": 0.0
+  },
+  {
+    "district": "Kpando Municipal",
+    "region": "Volta",
+    "year": 2035,
+    "projected_pop": 127013,
+    "current_facilities": 14,
+    "required_facilities": 11.4,
+    "projected_shortfall": 0.0
+  },
+  {
+    "district": "Oforikrom Municipal",
+    "region": "Ashanti",
+    "year": 2026,
+    "projected_pop": 206115,
+    "current_facilities": 33,
+    "required_facilities": 18.6,
+    "projected_shortfall": 0.0
+  },
+  {
+    "district": "Oforikrom Municipal",
+    "region": "Ashanti",
+    "year": 2030,
+    "projected_pop": 222231,
+    "current_facilities": 33,
+    "required_facilities": 20.0,
+    "projected_shortfall": 0.0
+  },
+  {
+    "district": "Oforikrom Municipal",
+    "region": "Ashanti",
+    "year": 2035,
+    "projected_pop": 244161,
+    "current_facilities": 33,
+    "required_facilities": 22.0,
+    "projected_shortfall": 0.0
+  },
+  {
+    "district": "Sagnerigu",
+    "region": "Northern",
+    "year": 2026,
+    "projected_pop": 169265,
+    "current_facilities": 34,
+    "required_facilities": 15.2,
+    "projected_shortfall": 0.0
+  },
+  {
+    "district": "Sagnerigu",
+    "region": "Northern",
+    "year": 2030,
+    "projected_pop": 182501,
+    "current_facilities": 34,
+    "required_facilities": 16.4,
+    "projected_shortfall": 0.0
+  },
+  {
+    "district": "Sagnerigu",
+    "region": "Northern",
+    "year": 2035,
+    "projected_pop": 200510,
+    "current_facilities": 34,
+    "required_facilities": 18.0,
+    "projected_shortfall": 0.0
+  },
+  {
+    "district": "Kumasi Metropolitan",
+    "region": "Ashanti",
+    "year": 2026,
+    "projected_pop": 206115,
+    "current_facilities": 37,
+    "required_facilities": 18.6,
+    "projected_shortfall": 0.0
+  },
+  {
+    "district": "Kumasi Metropolitan",
+    "region": "Ashanti",
+    "year": 2030,
+    "projected_pop": 222231,
+    "current_facilities": 37,
+    "required_facilities": 20.0,
+    "projected_shortfall": 0.0
+  },
+  {
+    "district": "Kumasi Metropolitan",
+    "region": "Ashanti",
+    "year": 2035,
+    "projected_pop": 244161,
+    "current_facilities": 37,
+    "required_facilities": 22.0,
+    "projected_shortfall": 0.0
+  },
+  {
+    "district": "Tema West Municipal",
+    "region": "Greater Accra",
+    "year": 2026,
+    "projected_pop": 222002,
+    "current_facilities": 43,
+    "required_facilities": 20.0,
+    "projected_shortfall": 0.0
+  },
+  {
+    "district": "Tema West Municipal",
+    "region": "Greater Accra",
+    "year": 2030,
+    "projected_pop": 239361,
+    "current_facilities": 43,
+    "required_facilities": 21.5,
+    "projected_shortfall": 0.0
+  },
+  {
+    "district": "Tema West Municipal",
+    "region": "Greater Accra",
+    "year": 2035,
+    "projected_pop": 262981,
+    "current_facilities": 43,
+    "required_facilities": 23.7,
+    "projected_shortfall": 0.0
+  },
+  {
+    "district": "South Tongu",
+    "region": "Volta",
+    "year": 2026,
+    "projected_pop": 107221,
+    "current_facilities": 16,
+    "required_facilities": 9.6,
+    "projected_shortfall": 0.0
+  },
+  {
+    "district": "South Tongu",
+    "region": "Volta",
+    "year": 2030,
+    "projected_pop": 115605,
+    "current_facilities": 16,
+    "required_facilities": 10.4,
+    "projected_shortfall": 0.0
+  },
+  {
+    "district": "South Tongu",
+    "region": "Volta",
+    "year": 2035,
+    "projected_pop": 127013,
+    "current_facilities": 16,
+    "required_facilities": 11.4,
+    "projected_shortfall": 0.0
+  },
+  {
+    "district": "Sekondi Takoradi Metropolis",
+    "region": "Western",
+    "year": 2026,
+    "projected_pop": 174148,
+    "current_facilities": 30,
+    "required_facilities": 15.7,
+    "projected_shortfall": 0.0
+  },
+  {
+    "district": "Sekondi Takoradi Metropolis",
+    "region": "Western",
+    "year": 2030,
+    "projected_pop": 187765,
+    "current_facilities": 30,
+    "required_facilities": 16.9,
+    "projected_shortfall": 0.0
+  },
+  {
+    "district": "Sekondi Takoradi Metropolis",
+    "region": "Western",
+    "year": 2035,
+    "projected_pop": 206294,
+    "current_facilities": 30,
+    "required_facilities": 18.6,
+    "projected_shortfall": 0.0
+  },
+  {
+    "district": "Nkwanta South Municipal",
+    "region": "Oti",
+    "year": 2026,
+    "projected_pop": 102624,
+    "current_facilities": 16,
+    "required_facilities": 9.2,
+    "projected_shortfall": 0.0
+  },
+  {
+    "district": "Nkwanta South Municipal",
+    "region": "Oti",
+    "year": 2030,
+    "projected_pop": 110649,
+    "current_facilities": 16,
+    "required_facilities": 10.0,
+    "projected_shortfall": 0.0
+  },
+  {
+    "district": "Nkwanta South Municipal",
+    "region": "Oti",
+    "year": 2035,
+    "projected_pop": 121568,
+    "current_facilities": 16,
+    "required_facilities": 10.9,
+    "projected_shortfall": 0.0
+  },
+  {
+    "district": "Adenta Municipal",
+    "region": "Greater Accra",
+    "year": 2026,
+    "projected_pop": 222002,
+    "current_facilities": 45,
+    "required_facilities": 20.0,
+    "projected_shortfall": 0.0
+  },
+  {
+    "district": "Adenta Municipal",
+    "region": "Greater Accra",
+    "year": 2030,
+    "projected_pop": 239361,
+    "current_facilities": 45,
+    "required_facilities": 21.5,
+    "projected_shortfall": 0.0
+  },
+  {
+    "district": "Adenta Municipal",
+    "region": "Greater Accra",
+    "year": 2035,
+    "projected_pop": 262981,
+    "current_facilities": 45,
+    "required_facilities": 23.7,
+    "projected_shortfall": 0.0
+  },
+  {
+    "district": "Afadzato South",
+    "region": "Volta",
+    "year": 2026,
+    "projected_pop": 107221,
+    "current_facilities": 17,
+    "required_facilities": 9.6,
+    "projected_shortfall": 0.0
+  },
+  {
+    "district": "Afadzato South",
+    "region": "Volta",
+    "year": 2030,
+    "projected_pop": 115605,
+    "current_facilities": 17,
+    "required_facilities": 10.4,
+    "projected_shortfall": 0.0
+  },
+  {
+    "district": "Afadzato South",
+    "region": "Volta",
+    "year": 2035,
+    "projected_pop": 127013,
+    "current_facilities": 17,
+    "required_facilities": 11.4,
+    "projected_shortfall": 0.0
+  },
+  {
+    "district": "Asunafo North Municipal",
+    "region": "Ahafo",
+    "year": 2026,
+    "projected_pop": 103398,
+    "current_facilities": 24,
+    "required_facilities": 9.3,
+    "projected_shortfall": 0.0
+  },
+  {
+    "district": "Asunafo North Municipal",
+    "region": "Ahafo",
+    "year": 2030,
+    "projected_pop": 111483,
+    "current_facilities": 24,
+    "required_facilities": 10.0,
+    "projected_shortfall": 0.0
+  },
+  {
+    "district": "Asunafo North Municipal",
+    "region": "Ahafo",
+    "year": 2035,
+    "projected_pop": 122484,
+    "current_facilities": 24,
+    "required_facilities": 11.0,
+    "projected_shortfall": 0.0
+  },
+  {
+    "district": "Ho West",
+    "region": "Volta",
+    "year": 2026,
+    "projected_pop": 107221,
+    "current_facilities": 31,
+    "required_facilities": 9.6,
+    "projected_shortfall": 0.0
+  },
+  {
+    "district": "Ho West",
+    "region": "Volta",
+    "year": 2030,
+    "projected_pop": 115605,
+    "current_facilities": 31,
+    "required_facilities": 10.4,
+    "projected_shortfall": 0.0
+  },
+  {
+    "district": "Ho West",
+    "region": "Volta",
+    "year": 2035,
+    "projected_pop": 127013,
+    "current_facilities": 31,
+    "required_facilities": 11.4,
+    "projected_shortfall": 0.0
+  },
+  {
+    "district": "Weija Gbawe Municipal",
+    "region": "Greater Accra",
+    "year": 2026,
+    "projected_pop": 222002,
+    "current_facilities": 47,
+    "required_facilities": 20.0,
+    "projected_shortfall": 0.0
+  },
+  {
+    "district": "Weija Gbawe Municipal",
+    "region": "Greater Accra",
+    "year": 2030,
+    "projected_pop": 239361,
+    "current_facilities": 47,
+    "required_facilities": 21.5,
+    "projected_shortfall": 0.0
+  },
+  {
+    "district": "Weija Gbawe Municipal",
+    "region": "Greater Accra",
+    "year": 2035,
+    "projected_pop": 262981,
+    "current_facilities": 47,
+    "required_facilities": 23.7,
+    "projected_shortfall": 0.0
+  },
+  {
+    "district": "Sunyani Municipal",
+    "region": "Bono",
+    "year": 2026,
+    "projected_pop": 132792,
+    "current_facilities": 30,
+    "required_facilities": 12.0,
+    "projected_shortfall": 0.0
+  },
+  {
+    "district": "Sunyani Municipal",
+    "region": "Bono",
+    "year": 2030,
+    "projected_pop": 143175,
+    "current_facilities": 30,
+    "required_facilities": 12.9,
+    "projected_shortfall": 0.0
+  },
+  {
+    "district": "Sunyani Municipal",
+    "region": "Bono",
+    "year": 2035,
+    "projected_pop": 157304,
+    "current_facilities": 30,
+    "required_facilities": 14.2,
+    "projected_shortfall": 0.0
+  },
+  {
+    "district": "Ledzokuku Municipal",
+    "region": "Greater Accra",
+    "year": 2026,
+    "projected_pop": 222002,
+    "current_facilities": 55,
+    "required_facilities": 20.0,
+    "projected_shortfall": 0.0
+  },
+  {
+    "district": "Ledzokuku Municipal",
+    "region": "Greater Accra",
+    "year": 2030,
+    "projected_pop": 239361,
+    "current_facilities": 55,
+    "required_facilities": 21.5,
+    "projected_shortfall": 0.0
+  },
+  {
+    "district": "Ledzokuku Municipal",
+    "region": "Greater Accra",
+    "year": 2035,
+    "projected_pop": 262981,
+    "current_facilities": 55,
+    "required_facilities": 23.7,
+    "projected_shortfall": 0.0
+  },
+  {
+    "district": "Ablekuma North Municipal",
+    "region": "Greater Accra",
+    "year": 2026,
+    "projected_pop": 222002,
+    "current_facilities": 51,
+    "required_facilities": 20.0,
+    "projected_shortfall": 0.0
+  },
+  {
+    "district": "Ablekuma North Municipal",
+    "region": "Greater Accra",
+    "year": 2030,
+    "projected_pop": 239361,
+    "current_facilities": 51,
+    "required_facilities": 21.5,
+    "projected_shortfall": 0.0
+  },
+  {
+    "district": "Ablekuma North Municipal",
+    "region": "Greater Accra",
+    "year": 2035,
+    "projected_pop": 262981,
+    "current_facilities": 51,
+    "required_facilities": 23.7,
+    "projected_shortfall": 0.0
+  },
+  {
+    "district": "Wa Municipal",
+    "region": "Upper West",
+    "year": 2026,
+    "projected_pop": 123808,
+    "current_facilities": 25,
+    "required_facilities": 11.1,
+    "projected_shortfall": 0.0
+  },
+  {
+    "district": "Wa Municipal",
+    "region": "Upper West",
+    "year": 2030,
+    "projected_pop": 133489,
+    "current_facilities": 25,
+    "required_facilities": 12.0,
+    "projected_shortfall": 0.0
+  },
+  {
+    "district": "Wa Municipal",
+    "region": "Upper West",
+    "year": 2035,
+    "projected_pop": 146661,
+    "current_facilities": 25,
+    "required_facilities": 13.2,
+    "projected_shortfall": 0.0
+  },
+  {
+    "district": "Central Tongu",
+    "region": "Volta",
+    "year": 2026,
+    "projected_pop": 107221,
+    "current_facilities": 19,
+    "required_facilities": 9.6,
+    "projected_shortfall": 0.0
+  },
+  {
+    "district": "Central Tongu",
+    "region": "Volta",
+    "year": 2030,
+    "projected_pop": 115605,
+    "current_facilities": 19,
+    "required_facilities": 10.4,
+    "projected_shortfall": 0.0
+  },
+  {
+    "district": "Central Tongu",
+    "region": "Volta",
+    "year": 2035,
+    "projected_pop": 127013,
+    "current_facilities": 19,
+    "required_facilities": 11.4,
+    "projected_shortfall": 0.0
+  },
+  {
+    "district": "La Dade-Kotopon",
+    "region": "Greater Accra",
+    "year": 2026,
+    "projected_pop": 222002,
+    "current_facilities": 48,
+    "required_facilities": 20.0,
+    "projected_shortfall": 0.0
+  },
+  {
+    "district": "La Dade-Kotopon",
+    "region": "Greater Accra",
+    "year": 2030,
+    "projected_pop": 239361,
+    "current_facilities": 48,
+    "required_facilities": 21.5,
+    "projected_shortfall": 0.0
+  },
+  {
+    "district": "La Dade-Kotopon",
+    "region": "Greater Accra",
+    "year": 2035,
+    "projected_pop": 262981,
+    "current_facilities": 48,
+    "required_facilities": 23.7,
+    "projected_shortfall": 0.0
+  },
+  {
+    "district": "Krowor Municipal",
+    "region": "Greater Accra",
+    "year": 2026,
+    "projected_pop": 222002,
+    "current_facilities": 62,
+    "required_facilities": 20.0,
+    "projected_shortfall": 0.0
+  },
+  {
+    "district": "Krowor Municipal",
+    "region": "Greater Accra",
+    "year": 2030,
+    "projected_pop": 239361,
+    "current_facilities": 62,
+    "required_facilities": 21.5,
+    "projected_shortfall": 0.0
+  },
+  {
+    "district": "Krowor Municipal",
+    "region": "Greater Accra",
+    "year": 2035,
+    "projected_pop": 262981,
+    "current_facilities": 62,
+    "required_facilities": 23.7,
+    "projected_shortfall": 0.0
+  },
+  {
+    "district": "Tarkwa Nsuaem",
+    "region": "Western",
+    "year": 2026,
+    "projected_pop": 174148,
+    "current_facilities": 44,
+    "required_facilities": 15.7,
+    "projected_shortfall": 0.0
+  },
+  {
+    "district": "Tarkwa Nsuaem",
+    "region": "Western",
+    "year": 2030,
+    "projected_pop": 187765,
+    "current_facilities": 44,
+    "required_facilities": 16.9,
+    "projected_shortfall": 0.0
+  },
+  {
+    "district": "Tarkwa Nsuaem",
+    "region": "Western",
+    "year": 2035,
+    "projected_pop": 206294,
+    "current_facilities": 44,
+    "required_facilities": 18.6,
+    "projected_shortfall": 0.0
+  },
+  {
+    "district": "Tamale Metropolitan",
+    "region": "Northern",
+    "year": 2026,
+    "projected_pop": 169265,
+    "current_facilities": 54,
+    "required_facilities": 15.2,
+    "projected_shortfall": 0.0
+  },
+  {
+    "district": "Tamale Metropolitan",
+    "region": "Northern",
+    "year": 2030,
+    "projected_pop": 182501,
+    "current_facilities": 54,
+    "required_facilities": 16.4,
+    "projected_shortfall": 0.0
+  },
+  {
+    "district": "Tamale Metropolitan",
+    "region": "Northern",
+    "year": 2035,
+    "projected_pop": 200510,
+    "current_facilities": 54,
+    "required_facilities": 18.0,
+    "projected_shortfall": 0.0
+  },
+  {
+    "district": "Ho Municipal",
+    "region": "Volta",
+    "year": 2026,
+    "projected_pop": 107221,
+    "current_facilities": 36,
+    "required_facilities": 9.6,
+    "projected_shortfall": 0.0
+  },
+  {
+    "district": "Ho Municipal",
+    "region": "Volta",
+    "year": 2030,
+    "projected_pop": 115605,
+    "current_facilities": 36,
+    "required_facilities": 10.4,
+    "projected_shortfall": 0.0
+  },
+  {
+    "district": "Ho Municipal",
+    "region": "Volta",
+    "year": 2035,
+    "projected_pop": 127013,
+    "current_facilities": 36,
+    "required_facilities": 11.4,
+    "projected_shortfall": 0.0
+  },
+  {
+    "district": "Okaikwei North Municipal",
+    "region": "Greater Accra",
+    "year": 2026,
+    "projected_pop": 222002,
+    "current_facilities": 70,
+    "required_facilities": 20.0,
+    "projected_shortfall": 0.0
+  },
+  {
+    "district": "Okaikwei North Municipal",
+    "region": "Greater Accra",
+    "year": 2030,
+    "projected_pop": 239361,
+    "current_facilities": 70,
+    "required_facilities": 21.5,
+    "projected_shortfall": 0.0
+  },
+  {
+    "district": "Okaikwei North Municipal",
+    "region": "Greater Accra",
+    "year": 2035,
+    "projected_pop": 262981,
+    "current_facilities": 70,
+    "required_facilities": 23.7,
+    "projected_shortfall": 0.0
+  },
+  {
+    "district": "New Juaben South Municipal",
+    "region": "Eastern",
+    "year": 2026,
+    "projected_pop": 123265,
+    "current_facilities": 37,
+    "required_facilities": 11.1,
+    "projected_shortfall": 0.0
+  },
+  {
+    "district": "New Juaben South Municipal",
+    "region": "Eastern",
+    "year": 2030,
+    "projected_pop": 132904,
+    "current_facilities": 37,
+    "required_facilities": 12.0,
+    "projected_shortfall": 0.0
+  },
+  {
+    "district": "New Juaben South Municipal",
+    "region": "Eastern",
+    "year": 2035,
+    "projected_pop": 146018,
+    "current_facilities": 37,
+    "required_facilities": 13.1,
+    "projected_shortfall": 0.0
+  },
+  {
+    "district": "Ayawaso East Municipal",
+    "region": "Greater Accra",
+    "year": 2026,
+    "projected_pop": 222002,
+    "current_facilities": 65,
+    "required_facilities": 20.0,
+    "projected_shortfall": 0.0
+  },
+  {
+    "district": "Ayawaso East Municipal",
+    "region": "Greater Accra",
+    "year": 2030,
+    "projected_pop": 239361,
+    "current_facilities": 65,
+    "required_facilities": 21.5,
+    "projected_shortfall": 0.0
+  },
+  {
+    "district": "Ayawaso East Municipal",
+    "region": "Greater Accra",
+    "year": 2035,
+    "projected_pop": 262981,
+    "current_facilities": 65,
+    "required_facilities": 23.7,
+    "projected_shortfall": 0.0
+  },
+  {
+    "district": "Ayawaso West",
+    "region": "Greater Accra",
+    "year": 2026,
+    "projected_pop": 222002,
+    "current_facilities": 62,
+    "required_facilities": 20.0,
+    "projected_shortfall": 0.0
+  },
+  {
+    "district": "Ayawaso West",
+    "region": "Greater Accra",
+    "year": 2030,
+    "projected_pop": 239361,
+    "current_facilities": 62,
+    "required_facilities": 21.5,
+    "projected_shortfall": 0.0
+  },
+  {
+    "district": "Ayawaso West",
+    "region": "Greater Accra",
+    "year": 2035,
+    "projected_pop": 262981,
+    "current_facilities": 62,
+    "required_facilities": 23.7,
+    "projected_shortfall": 0.0
+  },
+  {
+    "district": "Hohoe Municipal",
+    "region": "Volta",
+    "year": 2026,
+    "projected_pop": 107221,
+    "current_facilities": 29,
+    "required_facilities": 9.6,
+    "projected_shortfall": 0.0
+  },
+  {
+    "district": "Hohoe Municipal",
+    "region": "Volta",
+    "year": 2030,
+    "projected_pop": 115605,
+    "current_facilities": 29,
+    "required_facilities": 10.4,
+    "projected_shortfall": 0.0
+  },
+  {
+    "district": "Hohoe Municipal",
+    "region": "Volta",
+    "year": 2035,
+    "projected_pop": 127013,
+    "current_facilities": 29,
+    "required_facilities": 11.4,
+    "projected_shortfall": 0.0
+  },
+  {
+    "district": "Korle Klottey Municipal",
+    "region": "Greater Accra",
+    "year": 2026,
+    "projected_pop": 222002,
+    "current_facilities": 66,
+    "required_facilities": 20.0,
+    "projected_shortfall": 0.0
+  },
+  {
+    "district": "Korle Klottey Municipal",
+    "region": "Greater Accra",
+    "year": 2030,
+    "projected_pop": 239361,
+    "current_facilities": 66,
+    "required_facilities": 21.5,
+    "projected_shortfall": 0.0
+  },
+  {
+    "district": "Korle Klottey Municipal",
+    "region": "Greater Accra",
+    "year": 2035,
+    "projected_pop": 262981,
+    "current_facilities": 66,
+    "required_facilities": 23.7,
+    "projected_shortfall": 0.0
+  },
+  {
+    "district": "Ga East",
+    "region": "Greater Accra",
+    "year": 2026,
+    "projected_pop": 222002,
+    "current_facilities": 75,
+    "required_facilities": 20.0,
+    "projected_shortfall": 0.0
+  },
+  {
+    "district": "Ga East",
+    "region": "Greater Accra",
+    "year": 2030,
+    "projected_pop": 239361,
+    "current_facilities": 75,
+    "required_facilities": 21.5,
+    "projected_shortfall": 0.0
+  },
+  {
+    "district": "Ga East",
+    "region": "Greater Accra",
+    "year": 2035,
+    "projected_pop": 262981,
+    "current_facilities": 75,
+    "required_facilities": 23.7,
+    "projected_shortfall": 0.0
+  },
+  {
+    "district": "La-Nkwantanang-Madina",
+    "region": "Greater Accra",
+    "year": 2026,
+    "projected_pop": 222002,
+    "current_facilities": 82,
+    "required_facilities": 20.0,
+    "projected_shortfall": 0.0
+  },
+  {
+    "district": "La-Nkwantanang-Madina",
+    "region": "Greater Accra",
+    "year": 2030,
+    "projected_pop": 239361,
+    "current_facilities": 82,
+    "required_facilities": 21.5,
+    "projected_shortfall": 0.0
+  },
+  {
+    "district": "La-Nkwantanang-Madina",
+    "region": "Greater Accra",
+    "year": 2035,
+    "projected_pop": 262981,
+    "current_facilities": 82,
+    "required_facilities": 23.7,
+    "projected_shortfall": 0.0
+  },
+  {
+    "district": "Cape Coast Metropolitan",
+    "region": "Central",
+    "year": 2026,
+    "projected_pop": 165370,
+    "current_facilities": 63,
+    "required_facilities": 14.9,
+    "projected_shortfall": 0.0
+  },
+  {
+    "district": "Cape Coast Metropolitan",
+    "region": "Central",
+    "year": 2030,
+    "projected_pop": 178301,
+    "current_facilities": 63,
+    "required_facilities": 16.0,
+    "projected_shortfall": 0.0
+  },
+  {
+    "district": "Cape Coast Metropolitan",
+    "region": "Central",
+    "year": 2035,
+    "projected_pop": 195895,
+    "current_facilities": 63,
+    "required_facilities": 17.6,
+    "projected_shortfall": 0.0
+  }
+]

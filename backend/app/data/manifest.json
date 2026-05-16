@@ -1,0 +1,20 @@
+{
+  "generated_at": "2026-05-15T20:53:18.922204+00:00",
+  "facility_count": 2484,
+  "district_count": 212,
+  "region_count": 16,
+  "tier_counts": {
+    "High Risk": 101,
+    "Critical Risk": 59,
+    "Moderate Risk": 31,
+    "Low Risk": 21
+  },
+  "weights": {
+    "see": "ml/pipeline/config.py"
+  },
+  "data_sources": {
+    "facilities": "OSM Ghana Health Facilities (HOTOSM, ODbL)",
+    "population": "Ghana 2021 PHC (GSS)",
+    "boundaries": "geoBoundaries Ghana ADM2 (CC-BY)"
+  }
+}

@@ -1,0 +1,29 @@
+# Environments
+.env
+.venv
+venv/
+__pycache__/
+*.pyc
+
+# Node
+node_modules/
+.next/
+out/
+.npm/
+
+# Build outputs
+ml/outputs/*.png
+ml/outputs/*.tmp
+backend/app/data/*.bak
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Editors
+.vscode/
+.idea/
+
+# Data — keep small reference files, ignore bulky raw downloads
+data/geo/*.geojson.bz2
+data/facilities/raw/
