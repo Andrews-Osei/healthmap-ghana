@@ -20,14 +20,12 @@ body {
   -webkit-font-smoothing: antialiased;
 }
 
-/* Subtle animated grid background — shared across pages */
+/* Smooth dark gradient — no grid lines */
 .bg-app {
-  background-image:
-    radial-gradient(60% 60% at 50% 0%, rgba(34,211,238,0.18) 0%, transparent 60%),
-    linear-gradient(180deg, transparent 0%, rgba(4,16,30,0.9) 100%),
-    linear-gradient(rgba(34,211,238,0.06) 1px, transparent 1px),
-    linear-gradient(90deg, rgba(34,211,238,0.06) 1px, transparent 1px);
-  background-size: auto, auto, 32px 32px, 32px 32px;
+  background:
+    radial-gradient(60% 60% at 50% 0%, rgba(34,211,238,0.10) 0%, transparent 60%),
+    radial-gradient(40% 50% at 90% 20%, rgba(16,185,129,0.08) 0%, transparent 70%),
+    linear-gradient(180deg, #051427 0%, #04101e 100%);
   background-attachment: fixed;
 }
 

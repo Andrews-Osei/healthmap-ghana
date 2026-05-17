@@ -18,10 +18,11 @@ export const tierColor: Record<string, string> = {
   "High Risk":      "#f59e0b",
   "Moderate Risk":  "#eab308",
   "Low Risk":       "#10b981",
+  "No Data Yet":    "#64748b",
 };
 
-export function cviColor(cvi: number) {
-  // Continuous color scale aligned with risk tiers
+export function cviColor(cvi: number | null | undefined) {
+  if (cvi == null || Number.isNaN(cvi)) return "#1f2a44";  // slate-grey
   if (cvi >= 80) return "#dc2626";
   if (cvi >= 60) return "#f97316";
   if (cvi >= 40) return "#eab308";

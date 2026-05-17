@@ -1,13 +1,16 @@
 export type RiskTier =
-  | "Critical Risk" | "High Risk" | "Moderate Risk" | "Low Risk";
+  | "Critical Risk" | "High Risk" | "Moderate Risk" | "Low Risk" | "No Data Yet";
+
+export type DataStatus = "scored" | "no_data_yet";
 
 export interface District {
   district_id: string;
   district:    string;
   region:      string;
-  rank:        number;
-  CVI_0_100:   number;
+  rank:        number | null;
+  CVI_0_100:   number | null;
   risk_tier:   RiskTier;
+  data_status: DataStatus;
   total_facilities:    number;
   hospitals_clinics:   number;
   pharmacies:          number;
@@ -44,6 +47,7 @@ export interface RegionSummary {
   population_2021: number;
   critical_count: number;
   high_count: number;
+  pending_no_data: number;
 }
 
 export interface Facility {
@@ -68,11 +72,27 @@ export interface ForecastRow {
 }
 
 export interface Manifest {
+  pipeline_version: string;
   generated_at: string;
   facility_count: number;
   district_count: number;
+  district_count_scored: number;
+  district_count_no_data_yet: number;
+  district_count_canonical: number;
+  coverage_pct: number;
   region_count:   number;
   tier_counts:    Record<string, number>;
+  orphaned_districts: string[];
   weights:        Record<string, unknown>;
   data_sources:   Record<string, string>;
+}
+
+export interface CoverageEntry {
+  ts: string;
+  pipeline_version: string;
+  scored: number;
+  no_data_yet: number;
+  canonical: number;
+  coverage_pct: number;
+  facilities: number;
 }

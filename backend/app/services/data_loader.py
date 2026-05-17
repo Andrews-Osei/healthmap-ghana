@@ -58,3 +58,11 @@ def reload_all() -> None:
     for fn in (districts, regions, facilities, recommendations,
                forecast, manifest):
         fn.cache_clear()
+
+
+@lru_cache(maxsize=1)
+def coverage_history() -> list[dict]:
+    path = Path(settings.data_dir) / "coverage_history.json"
+    if not path.exists():
+        return []
+    return json.loads(path.read_text())

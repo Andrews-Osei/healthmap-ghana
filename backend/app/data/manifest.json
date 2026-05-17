@@ -1,7 +1,12 @@
 {
-  "generated_at": "2026-05-15T20:53:18.922204+00:00",
+  "pipeline_version": "1.1.0",
+  "generated_at": "2026-05-16T20:05:20.279244+00:00",
   "facility_count": 2484,
-  "district_count": 212,
+  "district_count": 260,
+  "district_count_scored": 212,
+  "district_count_no_data_yet": 48,
+  "district_count_canonical": 260,
+  "coverage_pct": 81.54,
   "region_count": 16,
   "tier_counts": {
     "High Risk": 101,
@@ -9,6 +14,7 @@
     "Moderate Risk": 31,
     "Low Risk": 21
   },
+  "orphaned_districts": [],
   "weights": {
     "see": "ml/pipeline/config.py"
   },

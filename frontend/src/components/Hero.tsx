@@ -1,16 +1,40 @@
 "use client";
 import Link from "next/link";
+import Image from "next/image";
 import { motion } from "framer-motion";
 import { Activity, ArrowRight, Sparkles, MapPin, ShieldCheck } from "lucide-react";
+
+/**
+ * Hero with realistic photo collage.
+ *
+ * Photos are loaded from Unsplash's CDN — free to hotlink for non-commercial /
+ * editorial use. To swap in your own pictures, drop them into
+ * `frontend/public/hero/` and change the src strings below to relative paths
+ * (e.g. "/hero/main.jpg"). The component handles missing images gracefully.
+ */
+const HERO_PRIMARY =
+  "https://images.unsplash.com/photo-1576091160399-112ba8d25d1d?auto=format&fit=crop&w=1600&q=80";
+const HERO_PORTRAIT_1 =
+  "https://images.unsplash.com/photo-1538108149393-fbbd81895907?auto=format&fit=crop&w=600&q=80";
+const HERO_PORTRAIT_2 =
+  "https://images.unsplash.com/photo-1579684385127-1ef15d508118?auto=format&fit=crop&w=600&q=80";
 
 export default function Hero() {
   return (
     <section className="relative overflow-hidden">
-      <div className="max-w-7xl mx-auto px-5 sm:px-8 pt-16 sm:pt-24 pb-24
+      {/* Soft ambient glow behind everything */}
+      <div className="absolute inset-0 -z-10">
+        <div className="absolute top-[-120px] left-1/2 -translate-x-1/2
+                        w-[900px] h-[900px] rounded-full
+                        bg-gradient-to-br from-cyan-400/15 via-cyan-300/10 to-med-500/10
+                        blur-3xl"/>
+      </div>
+
+      <div className="max-w-7xl mx-auto px-5 sm:px-8 pt-14 sm:pt-20 pb-20
                       grid lg:grid-cols-12 gap-10 items-center">
 
         {/* Left: copy */}
-        <div className="lg:col-span-7">
+        <div className="lg:col-span-6 xl:col-span-7">
           <motion.span
             initial={{ opacity: 0, y: 8 }} animate={{ opacity: 1, y: 0 }}
             transition={{ duration: 0.5 }}
@@ -33,10 +57,11 @@ export default function Hero() {
             initial={{ opacity: 0, y: 12 }} animate={{ opacity: 1, y: 0 }}
             transition={{ duration: 0.6, delay: 0.1 }}
             className="mt-5 text-slate-300 max-w-2xl text-lg">
-            HealthMap Ghana scores healthcare-access vulnerability for all
-            212 districts using machine learning, geospatial analysis, and
+            HealthMap Ghana scores healthcare-access vulnerability for every
+            district using machine learning, geospatial analysis, and
             real-time GIS visualisation — turning raw facility data into
-            evidence-based investment priorities.
+            evidence-based investment priorities for the Ministry of Health,
+            Ghana Health Service, NGOs and the public.
           </motion.p>
 
           <motion.div
@@ -68,71 +93,72 @@ export default function Hero() {
           </motion.div>
         </div>
 
-        {/* Right: stylised map vignette */}
-        <div className="lg:col-span-5">
+        {/* Right: photo collage */}
+        <div className="lg:col-span-6 xl:col-span-5">
           <motion.div
-            initial={{ opacity: 0, scale: 0.95 }} animate={{ opacity: 1, scale: 1 }}
+            initial={{ opacity: 0, scale: 0.96 }}
+            animate={{ opacity: 1, scale: 1 }}
             transition={{ duration: 0.7 }}
-            className="relative glass p-3 h-[440px] overflow-hidden">
+            className="relative h-[480px] grid grid-cols-6 grid-rows-6 gap-3">
 
-            {/* SVG abstract map of Ghana — pure decorative */}
-            <svg viewBox="0 0 320 420" className="w-full h-full"
-                 xmlns="http://www.w3.org/2000/svg">
-              <defs>
-                <linearGradient id="g1" x1="0" y1="0" x2="1" y2="1">
-                  <stop offset="0%"  stopColor="#22d3ee" stopOpacity=".7"/>
-                  <stop offset="100%" stopColor="#10b981" stopOpacity=".6"/>
-                </linearGradient>
-                <filter id="glow"><feGaussianBlur stdDeviation="3"/></filter>
-              </defs>
-              {/* Stylised Ghana silhouette (approximation, decorative) */}
-              <path
-                d="M120 30 L195 35 L210 60 L225 90 L240 130 L235 175 L260 220
-                   L255 270 L240 310 L200 360 L150 395 L110 380 L85 330 L75 280
-                   L60 230 L70 180 L85 130 L95 80 Z"
-                fill="url(#g1)" opacity=".18" stroke="#22d3ee" strokeWidth="1.4"
-                strokeOpacity=".6"/>
-              <path
-                d="M120 30 L195 35 L210 60 L225 90 L240 130 L235 175 L260 220
-                   L255 270 L240 310 L200 360 L150 395 L110 380 L85 330 L75 280
-                   L60 230 L70 180 L85 130 L95 80 Z"
-                fill="none" stroke="#67e8f9" strokeWidth=".6"
-                strokeDasharray="3 4" opacity=".8"/>
-              {/* District dots */}
-              {[
-                [140,80,"#10b981"],[180,100,"#10b981"],[170,140,"#10b981"],
-                [160,180,"#eab308"],[190,200,"#eab308"],[140,220,"#f59e0b"],
-                [200,260,"#ef4444"],[170,290,"#ef4444"],[210,330,"#f59e0b"],
-                [150,310,"#ef4444"],[125,260,"#eab308"],[225,160,"#10b981"],
-                [195,75,"#10b981"],[120,140,"#10b981"],[100,200,"#eab308"],
-                [110,300,"#f59e0b"],[155,360,"#ef4444"],[185,360,"#ef4444"],
-              ].map(([x,y,c], i) => (
-                <g key={i}>
-                  <circle cx={x as number} cy={y as number} r="4"
-                          fill={c as string} filter="url(#glow)"/>
-                  <circle cx={x as number} cy={y as number} r="6"
-                          fill="none" stroke={c as string} strokeOpacity=".6">
-                    <animate attributeName="r" from="4" to="12" dur="2.4s"
-                             begin={`${i*0.15}s`} repeatCount="indefinite"/>
-                    <animate attributeName="opacity" from=".6" to="0" dur="2.4s"
-                             begin={`${i*0.15}s`} repeatCount="indefinite"/>
-                  </circle>
-                </g>
-              ))}
-              {/* Pulsing scan line */}
-              <line x1="60" y1="200" x2="260" y2="200"
-                    stroke="#22d3ee" strokeOpacity=".25" strokeWidth="1">
-                <animate attributeName="y1" values="60;390;60" dur="6s"
-                         repeatCount="indefinite"/>
-                <animate attributeName="y2" values="60;390;60" dur="6s"
-                         repeatCount="indefinite"/>
-              </line>
-            </svg>
+            {/* Main photo */}
+            <div className="col-span-6 row-span-4 relative overflow-hidden
+                            rounded-3xl border border-white/10 shadow-glass">
+              <img
+                src={HERO_PRIMARY}
+                alt="Healthcare professionals at work"
+                loading="eager" decoding="async"
+                className="absolute inset-0 w-full h-full object-cover"
+              />
+              {/* Tint overlay */}
+              <div className="absolute inset-0 bg-gradient-to-t
+                              from-ink-950/85 via-ink-900/35 to-transparent"/>
+              <div className="absolute inset-0 bg-gradient-to-tr
+                              from-cyan-500/15 via-transparent to-med-500/10
+                              mix-blend-overlay"/>
 
-            <div className="absolute bottom-3 left-3 right-3 flex justify-between
-                            items-center gap-2 text-xs">
-              <span className="pill">LIVE · Vulnerability layer</span>
-              <span className="text-slate-400">CVI 0–100</span>
+              {/* Floating glass overlay */}
+              <div className="absolute bottom-4 left-4 right-4 flex items-end
+                              justify-between gap-3">
+                <div className="glass-strong p-4 max-w-[280px]">
+                  <div className="flex items-center gap-2 text-xs text-cyan-300">
+                    <span className="relative flex w-2 h-2">
+                      <span className="absolute inset-0 rounded-full bg-cyan-400
+                                       animate-ping opacity-75"/>
+                      <span className="relative rounded-full bg-cyan-400 w-2 h-2"/>
+                    </span>
+                    LIVE · vulnerability layer
+                  </div>
+                  <div className="mt-2 text-2xl font-bold gradient-text">
+                    59 districts
+                  </div>
+                  <div className="text-xs text-slate-300">
+                    flagged Critical Risk
+                  </div>
+                </div>
+                <span className="pill">CVI 0–100</span>
+              </div>
+            </div>
+
+            {/* Two small portraits */}
+            <div className="col-span-3 row-span-2 relative overflow-hidden
+                            rounded-2xl border border-white/10">
+              <img src={HERO_PORTRAIT_1}
+                   alt="Doctor with stethoscope"
+                   loading="lazy" decoding="async"
+                   className="absolute inset-0 w-full h-full object-cover"/>
+              <div className="absolute inset-0 bg-gradient-to-t
+                              from-ink-950/70 to-transparent"/>
+            </div>
+
+            <div className="col-span-3 row-span-2 relative overflow-hidden
+                            rounded-2xl border border-white/10">
+              <img src={HERO_PORTRAIT_2}
+                   alt="Medical consultation"
+                   loading="lazy" decoding="async"
+                   className="absolute inset-0 w-full h-full object-cover"/>
+              <div className="absolute inset-0 bg-gradient-to-t
+                              from-ink-950/70 to-transparent"/>
             </div>
           </motion.div>
         </div>

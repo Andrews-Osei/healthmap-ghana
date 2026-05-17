@@ -1,0 +1,20 @@
+[
+  {
+    "ts": "2026-05-16T19:44:21.639246+00:00",
+    "pipeline_version": "1.1.0",
+    "scored": 212,
+    "no_data_yet": 48,
+    "canonical": 260,
+    "coverage_pct": 81.54,
+    "facilities": 2484
+  },
+  {
+    "ts": "2026-05-16T20:05:20.279244+00:00",
+    "pipeline_version": "1.1.0",
+    "scored": 212,
+    "no_data_yet": 48,
+    "canonical": 260,
+    "coverage_pct": 81.54,
+    "facilities": 2484
+  }
+]

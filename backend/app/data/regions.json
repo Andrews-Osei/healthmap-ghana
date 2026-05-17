@@ -8,7 +8,8 @@
     "mean_CVI": 84.256,
     "population_2021": 653266,
     "critical_count": 3,
-    "high_count": 1
+    "high_count": 1,
+    "pending_no_data": 0
   },
   {
     "region": "Bono",
@@ -19,7 +20,8 @@
     "mean_CVI": 81.556,
     "population_2021": 1208649,
     "critical_count": 4,
-    "high_count": 5
+    "high_count": 5,
+    "pending_no_data": 0
   },
   {
     "region": "Ashanti",
@@ -30,7 +32,8 @@
     "mean_CVI": 79.91758620689656,
     "population_2021": 5440463,
     "critical_count": 11,
-    "high_count": 15
+    "high_count": 15,
+    "pending_no_data": 0
   },
   {
     "region": "Western North",
@@ -41,7 +44,8 @@
     "mean_CVI": 79.21499999999999,
     "population_2021": 880921,
     "critical_count": 3,
-    "high_count": 1
+    "high_count": 1,
+    "pending_no_data": 0
   },
   {
     "region": "Eastern",
@@ -52,7 +56,8 @@
     "mean_CVI": 78.71615384615384,
     "population_2021": 2917039,
     "critical_count": 10,
-    "high_count": 12
+    "high_count": 12,
+    "pending_no_data": 0
   },
   {
     "region": "Northern",
@@ -63,7 +68,8 @@
     "mean_CVI": 78.66466666666666,
     "population_2021": 2310939,
     "critical_count": 6,
-    "high_count": 7
+    "high_count": 7,
+    "pending_no_data": 0
   },
   {
     "region": "Upper East",
@@ -74,7 +80,8 @@
     "mean_CVI": 77.625,
     "population_2021": 1301221,
     "critical_count": 3,
-    "high_count": 8
+    "high_count": 8,
+    "pending_no_data": 0
   },
   {
     "region": "Bono East",
@@ -85,7 +92,8 @@
     "mean_CVI": 76.61375,
     "population_2021": 1203400,
     "critical_count": 1,
-    "high_count": 7
+    "high_count": 7,
+    "pending_no_data": 0
   },
   {
     "region": "Upper West",
@@ -96,7 +104,8 @@
     "mean_CVI": 76.22875,
     "population_2021": 901502,
     "critical_count": 2,
-    "high_count": 5
+    "high_count": 5,
+    "pending_no_data": 0
   },
   {
     "region": "Central",
@@ -107,7 +116,8 @@
     "mean_CVI": 75.15894736842105,
     "population_2021": 2859821,
     "critical_count": 5,
-    "high_count": 11
+    "high_count": 11,
+    "pending_no_data": 0
   },
   {
     "region": "Northern East",
@@ -118,7 +128,8 @@
     "mean_CVI": 75.11333333333333,
     "population_2021": 658946,
     "critical_count": 0,
-    "high_count": 3
+    "high_count": 3,
+    "pending_no_data": 0
   },
   {
     "region": "Western",
@@ -129,7 +140,8 @@
     "mean_CVI": 70.90846153846154,
     "population_2021": 2060585,
     "critical_count": 2,
-    "high_count": 8
+    "high_count": 8,
+    "pending_no_data": 0
   },
   {
     "region": "Ahafo",
@@ -140,7 +152,8 @@
     "mean_CVI": 68.62666666666667,
     "population_2021": 564668,
     "critical_count": 1,
-    "high_count": 4
+    "high_count": 4,
+    "pending_no_data": 0
   },
   {
     "region": "Oti",
@@ -151,7 +164,8 @@
     "mean_CVI": 66.72375,
     "population_2021": 747257,
     "critical_count": 2,
-    "high_count": 2
+    "high_count": 2,
+    "pending_no_data": 0
   },
   {
     "region": "Volta",
@@ -162,7 +176,8 @@
     "mean_CVI": 54.95411764705882,
     "population_2021": 1659040,
     "critical_count": 3,
-    "high_count": 5
+    "high_count": 5,
+    "pending_no_data": 0
   },
   {
     "region": "Greater Accra",
@@ -173,6 +188,7 @@
     "mean_CVI": 46.479629629629635,
     "population_2021": 5455692,
     "critical_count": 3,
-    "high_count": 7
+    "high_count": 7,
+    "pending_no_data": 0
   }
 ]

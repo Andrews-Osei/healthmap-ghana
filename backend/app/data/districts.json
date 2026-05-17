@@ -20,6 +20,7 @@
     "CVI_0_100": 100.0,
     "risk_tier": "Critical Risk",
     "rank": 1,
+    "data_status": "scored",
     "district_id": "Central__Asikuma-Odoben-Brakwa"
   },
   {
@@ -43,6 +44,7 @@
     "CVI_0_100": 99.53,
     "risk_tier": "Critical Risk",
     "rank": 2,
+    "data_status": "scored",
     "district_id": "Ashanti__Amansie_South"
   },
   {
@@ -66,6 +68,7 @@
     "CVI_0_100": 99.36,
     "risk_tier": "Critical Risk",
     "rank": 3,
+    "data_status": "scored",
     "district_id": "Northern__Nanumba_South"
   },
   {
@@ -89,6 +92,7 @@
     "CVI_0_100": 99.34,
     "risk_tier": "Critical Risk",
     "rank": 4,
+    "data_status": "scored",
     "district_id": "Bono_East__Pru_East"
   },
   {
@@ -112,6 +116,7 @@
     "CVI_0_100": 99.34,
     "risk_tier": "Critical Risk",
     "rank": 5,
+    "data_status": "scored",
     "district_id": "Central__Agona_East"
   },
   {
@@ -135,6 +140,7 @@
     "CVI_0_100": 99.34,
     "risk_tier": "Critical Risk",
     "rank": 6,
+    "data_status": "scored",
     "district_id": "Central__Abura-Asebu-Kwamankese"
   },
   {
@@ -158,6 +164,7 @@
     "CVI_0_100": 98.91,
     "risk_tier": "Critical Risk",
     "rank": 7,
+    "data_status": "scored",
     "district_id": "Ashanti__Ejura-Sekyedumase"
   },
   {
@@ -181,6 +188,7 @@
     "CVI_0_100": 98.91,
     "risk_tier": "Critical Risk",
     "rank": 8,
+    "data_status": "scored",
     "district_id": "Ashanti__Asante_Akim_North"
   },
   {
@@ -204,6 +212,7 @@
     "CVI_0_100": 98.91,
     "risk_tier": "Critical Risk",
     "rank": 9,
+    "data_status": "scored",
     "district_id": "Ashanti__Bosomtwe"
   },
   {
@@ -227,6 +236,7 @@
     "CVI_0_100": 98.91,
     "risk_tier": "Critical Risk",
     "rank": 10,
+    "data_status": "scored",
     "district_id": "Ashanti__Sekyere_Kumawu"
   },
   {
@@ -250,6 +260,7 @@
     "CVI_0_100": 98.87,
     "risk_tier": "Critical Risk",
     "rank": 11,
+    "data_status": "scored",
     "district_id": "Greater_Accra__Ada_West"
   },
   {
@@ -273,6 +284,7 @@
     "CVI_0_100": 98.65,
     "risk_tier": "Critical Risk",
     "rank": 12,
+    "data_status": "scored",
     "district_id": "Western__Nzema_East"
   },
   {
@@ -296,6 +308,7 @@
     "CVI_0_100": 98.6,
     "risk_tier": "Critical Risk",
     "rank": 13,
+    "data_status": "scored",
     "district_id": "Northern__Nanton"
   },
   {
@@ -319,6 +332,7 @@
     "CVI_0_100": 98.6,
     "risk_tier": "Critical Risk",
     "rank": 14,
+    "data_status": "scored",
     "district_id": "Northern__Mion"
   },
   {
@@ -342,6 +356,7 @@
     "CVI_0_100": 98.6,
     "risk_tier": "Critical Risk",
     "rank": 15,
+    "data_status": "scored",
     "district_id": "Northern__Tatale_Sanguli"
   },
   {
@@ -365,6 +380,7 @@
     "CVI_0_100": 98.6,
     "risk_tier": "Critical Risk",
     "rank": 16,
+    "data_status": "scored",
     "district_id": "Northern__Kumbungu"
   },
   {
@@ -388,6 +404,7 @@
     "CVI_0_100": 98.56,
     "risk_tier": "Critical Risk",
     "rank": 17,
+    "data_status": "scored",
     "district_id": "Central__Gomoa_Central"
   },
   {
@@ -411,6 +428,7 @@
     "CVI_0_100": 98.52,
     "risk_tier": "Critical Risk",
     "rank": 18,
+    "data_status": "scored",
     "district_id": "Western_North__Juaboso"
   },
   {
@@ -434,6 +452,7 @@
     "CVI_0_100": 98.52,
     "risk_tier": "Critical Risk",
     "rank": 19,
+    "data_status": "scored",
     "district_id": "Western_North__Bia_East"
   },
   {
@@ -457,6 +476,7 @@
     "CVI_0_100": 98.52,
     "risk_tier": "Critical Risk",
     "rank": 20,
+    "data_status": "scored",
     "district_id": "Western_North__Bodi"
   },
   {
@@ -480,6 +500,7 @@
     "CVI_0_100": 98.3,
     "risk_tier": "Critical Risk",
     "rank": 21,
+    "data_status": "scored",
     "district_id": "Savannah__Bole"
   },
   {
@@ -503,6 +524,7 @@
     "CVI_0_100": 98.14,
     "risk_tier": "Critical Risk",
     "rank": 22,
+    "data_status": "scored",
     "district_id": "Bono__Dormaa_West"
   },
   {
@@ -526,6 +548,7 @@
     "CVI_0_100": 98.14,
     "risk_tier": "Critical Risk",
     "rank": 23,
+    "data_status": "scored",
     "district_id": "Bono__Berekum_West"
   },
   {
@@ -549,6 +572,7 @@
     "CVI_0_100": 98.14,
     "risk_tier": "Critical Risk",
     "rank": 24,
+    "data_status": "scored",
     "district_id": "Bono__Dormaa_East"
   },
   {
@@ -572,6 +596,7 @@
     "CVI_0_100": 98.14,
     "risk_tier": "Critical Risk",
     "rank": 25,
+    "data_status": "scored",
     "district_id": "Bono__Wenchi_Municipal"
   },
   {
@@ -595,6 +620,7 @@
     "CVI_0_100": 97.98,
     "risk_tier": "Critical Risk",
     "rank": 26,
+    "data_status": "scored",
     "district_id": "Upper_West__Lawra"
   },
   {
@@ -618,6 +644,7 @@
     "CVI_0_100": 97.97,
     "risk_tier": "Critical Risk",
     "rank": 27,
+    "data_status": "scored",
     "district_id": "Eastern__Kwahu_East"
   },
   {
@@ -641,6 +668,7 @@
     "CVI_0_100": 97.97,
     "risk_tier": "Critical Risk",
     "rank": 28,
+    "data_status": "scored",
     "district_id": "Eastern__Upper_Manya"
   },
   {
@@ -664,6 +692,7 @@
     "CVI_0_100": 97.97,
     "risk_tier": "Critical Risk",
     "rank": 29,
+    "data_status": "scored",
     "district_id": "Eastern__Denkyembour"
   },
   {
@@ -687,6 +716,7 @@
     "CVI_0_100": 97.97,
     "risk_tier": "Critical Risk",
     "rank": 30,
+    "data_status": "scored",
     "district_id": "Eastern__West_Akim"
   },
   {
@@ -710,6 +740,7 @@
     "CVI_0_100": 97.97,
     "risk_tier": "Critical Risk",
     "rank": 31,
+    "data_status": "scored",
     "district_id": "Eastern__Achiase"
   },
   {
@@ -733,6 +764,7 @@
     "CVI_0_100": 97.89,
     "risk_tier": "Critical Risk",
     "rank": 32,
+    "data_status": "scored",
     "district_id": "Upper_East__Bongo"
   },
   {
@@ -756,6 +788,7 @@
     "CVI_0_100": 97.89,
     "risk_tier": "Critical Risk",
     "rank": 33,
+    "data_status": "scored",
     "district_id": "Upper_East__Garu"
   },
   {
@@ -779,6 +812,7 @@
     "CVI_0_100": 97.72,
     "risk_tier": "Critical Risk",
     "rank": 34,
+    "data_status": "scored",
     "district_id": "Eastern__Nsawam_Adoagyiri"
   },
   {
@@ -802,6 +836,7 @@
     "CVI_0_100": 97.52,
     "risk_tier": "Critical Risk",
     "rank": 35,
+    "data_status": "scored",
     "district_id": "Ahafo__Tano_North_Municipal"
   },
   {
@@ -825,6 +860,7 @@
     "CVI_0_100": 96.3,
     "risk_tier": "Critical Risk",
     "rank": 36,
+    "data_status": "scored",
     "district_id": "Savannah__Central_Gonja"
   },
   {
@@ -848,6 +884,7 @@
     "CVI_0_100": 95.14,
     "risk_tier": "Critical Risk",
     "rank": 37,
+    "data_status": "scored",
     "district_id": "Greater_Accra__Ada_East"
   },
   {
@@ -871,6 +908,7 @@
     "CVI_0_100": 94.99,
     "risk_tier": "Critical Risk",
     "rank": 38,
+    "data_status": "scored",
     "district_id": "Ashanti__Sekyere_South"
   },
   {
@@ -894,6 +932,7 @@
     "CVI_0_100": 94.99,
     "risk_tier": "Critical Risk",
     "rank": 39,
+    "data_status": "scored",
     "district_id": "Ashanti__Asokwa__Municipal"
   },
   {
@@ -917,6 +956,7 @@
     "CVI_0_100": 94.99,
     "risk_tier": "Critical Risk",
     "rank": 40,
+    "data_status": "scored",
     "district_id": "Ashanti__Atwima_Mponua"
   },
   {
@@ -940,6 +980,7 @@
     "CVI_0_100": 94.99,
     "risk_tier": "Critical Risk",
     "rank": 41,
+    "data_status": "scored",
     "district_id": "Ashanti__Ahafo_Ano_North"
   },
   {
@@ -963,6 +1004,7 @@
     "CVI_0_100": 94.99,
     "risk_tier": "Critical Risk",
     "rank": 42,
+    "data_status": "scored",
     "district_id": "Ashanti__Ahafo_Ano_South_East"
   },
   {
@@ -986,6 +1028,7 @@
     "CVI_0_100": 94.8,
     "risk_tier": "Critical Risk",
     "rank": 43,
+    "data_status": "scored",
     "district_id": "Savannah__Sawla-Tuna-Kalba"
   },
   {
@@ -1009,6 +1052,7 @@
     "CVI_0_100": 94.45,
     "risk_tier": "Critical Risk",
     "rank": 44,
+    "data_status": "scored",
     "district_id": "Central__Ajumako-Enyan-Essiam"
   },
   {
@@ -1032,6 +1076,7 @@
     "CVI_0_100": 94.32,
     "risk_tier": "Critical Risk",
     "rank": 45,
+    "data_status": "scored",
     "district_id": "Upper_East__Builsa_North"
   },
   {
@@ -1055,6 +1100,7 @@
     "CVI_0_100": 93.53,
     "risk_tier": "Critical Risk",
     "rank": 46,
+    "data_status": "scored",
     "district_id": "Eastern__Okere"
   },
   {
@@ -1078,6 +1124,7 @@
     "CVI_0_100": 92.99,
     "risk_tier": "Critical Risk",
     "rank": 47,
+    "data_status": "scored",
     "district_id": "Volta__Ketu_North"
   },
   {
@@ -1101,6 +1148,7 @@
     "CVI_0_100": 92.99,
     "risk_tier": "Critical Risk",
     "rank": 48,
+    "data_status": "scored",
     "district_id": "Volta__Agotime_Ziope"
   },
   {
@@ -1124,6 +1172,7 @@
     "CVI_0_100": 92.99,
     "risk_tier": "Critical Risk",
     "rank": 49,
+    "data_status": "scored",
     "district_id": "Volta__North_Tongu"
   },
   {
@@ -1147,6 +1196,7 @@
     "CVI_0_100": 92.8,
     "risk_tier": "Critical Risk",
     "rank": 50,
+    "data_status": "scored",
     "district_id": "Oti__Krachi_West"
   },
   {
@@ -1170,6 +1220,7 @@
     "CVI_0_100": 92.67,
     "risk_tier": "Critical Risk",
     "rank": 51,
+    "data_status": "scored",
     "district_id": "Ashanti__Kwabre_East"
   },
   {
@@ -1193,6 +1244,7 @@
     "CVI_0_100": 91.56,
     "risk_tier": "Critical Risk",
     "rank": 52,
+    "data_status": "scored",
     "district_id": "Greater_Accra__Ga_Central_Municipal"
   },
   {
@@ -1216,6 +1268,7 @@
     "CVI_0_100": 91.15,
     "risk_tier": "Critical Risk",
     "rank": 53,
+    "data_status": "scored",
     "district_id": "Western__Ahanta_West_Municipal"
   },
   {
@@ -1239,6 +1292,7 @@
     "CVI_0_100": 90.95,
     "risk_tier": "Critical Risk",
     "rank": 54,
+    "data_status": "scored",
     "district_id": "Eastern__Asuogyaman"
   },
   {
@@ -1262,6 +1316,7 @@
     "CVI_0_100": 90.95,
     "risk_tier": "Critical Risk",
     "rank": 55,
+    "data_status": "scored",
     "district_id": "Eastern__Fanteakwa_South"
   },
   {
@@ -1285,6 +1340,7 @@
     "CVI_0_100": 90.95,
     "risk_tier": "Critical Risk",
     "rank": 56,
+    "data_status": "scored",
     "district_id": "Eastern__Abuakwa_North"
   },
   {
@@ -1308,6 +1364,7 @@
     "CVI_0_100": 89.7,
     "risk_tier": "Critical Risk",
     "rank": 57,
+    "data_status": "scored",
     "district_id": "Oti__Krachi_Nchumuru"
   },
   {
@@ -1331,6 +1388,7 @@
     "CVI_0_100": 89.69,
     "risk_tier": "Critical Risk",
     "rank": 58,
+    "data_status": "scored",
     "district_id": "Upper_West__Wa_East"
   },
   {
@@ -1354,6 +1412,7 @@
     "CVI_0_100": 89.19,
     "risk_tier": "Critical Risk",
     "rank": 59,
+    "data_status": "scored",
     "district_id": "Northern__Yendi_Municipal"
   },
   {
@@ -1377,6 +1436,7 @@
     "CVI_0_100": 86.52,
     "risk_tier": "High Risk",
     "rank": 60,
+    "data_status": "scored",
     "district_id": "Bono__Tain"
   },
   {
@@ -1400,6 +1460,7 @@
     "CVI_0_100": 86.32,
     "risk_tier": "High Risk",
     "rank": 61,
+    "data_status": "scored",
     "district_id": "Upper_West__Daffiama_Bussie_Issa"
   },
   {
@@ -1423,6 +1484,7 @@
     "CVI_0_100": 86.04,
     "risk_tier": "High Risk",
     "rank": 62,
+    "data_status": "scored",
     "district_id": "Central__Twifo_Hemang_Lower_Denkyira"
   },
   {
@@ -1446,6 +1508,7 @@
     "CVI_0_100": 85.26,
     "risk_tier": "High Risk",
     "rank": 63,
+    "data_status": "scored",
     "district_id": "Upper_West__Jirapa"
   },
   {
@@ -1469,6 +1532,7 @@
     "CVI_0_100": 83.94,
     "risk_tier": "High Risk",
     "rank": 64,
+    "data_status": "scored",
     "district_id": "Central__Gomoa_West"
   },
   {
@@ -1492,6 +1556,7 @@
     "CVI_0_100": 83.82,
     "risk_tier": "High Risk",
     "rank": 65,
+    "data_status": "scored",
     "district_id": "Western__Wassa_East"
   },
   {
@@ -1515,6 +1580,7 @@
     "CVI_0_100": 83.53,
     "risk_tier": "High Risk",
     "rank": 66,
+    "data_status": "scored",
     "district_id": "Northern__Gushegu"
   },
   {
@@ -1538,6 +1604,7 @@
     "CVI_0_100": 82.62,
     "risk_tier": "High Risk",
     "rank": 67,
+    "data_status": "scored",
     "district_id": "Central__Upper_Denkyira_East_Municipal"
   },
   {
@@ -1561,6 +1628,7 @@
     "CVI_0_100": 82.34,
     "risk_tier": "High Risk",
     "rank": 68,
+    "data_status": "scored",
     "district_id": "Eastern__Suhum_Municipal"
   },
   {
@@ -1584,6 +1652,7 @@
     "CVI_0_100": 82.31,
     "risk_tier": "High Risk",
     "rank": 69,
+    "data_status": "scored",
     "district_id": "Upper_West__Nandom"
   },
   {
@@ -1607,6 +1676,7 @@
     "CVI_0_100": 82.14,
     "risk_tier": "High Risk",
     "rank": 70,
+    "data_status": "scored",
     "district_id": "Upper_East__Bawku_West"
   },
   {
@@ -1630,6 +1700,7 @@
     "CVI_0_100": 81.75,
     "risk_tier": "High Risk",
     "rank": 71,
+    "data_status": "scored",
     "district_id": "Northern__Tolon"
   },
   {
@@ -1653,6 +1724,7 @@
     "CVI_0_100": 81.75,
     "risk_tier": "High Risk",
     "rank": 72,
+    "data_status": "scored",
     "district_id": "Bono_East__Pru_West"
   },
   {
@@ -1676,6 +1748,7 @@
     "CVI_0_100": 81.73,
     "risk_tier": "High Risk",
     "rank": 73,
+    "data_status": "scored",
     "district_id": "Bono_East__Atebubu_Amantin"
   },
   {
@@ -1699,6 +1772,7 @@
     "CVI_0_100": 81.54,
     "risk_tier": "High Risk",
     "rank": 74,
+    "data_status": "scored",
     "district_id": "Eastern__Akwapem_North"
   },
   {
@@ -1722,6 +1796,7 @@
     "CVI_0_100": 81.48,
     "risk_tier": "High Risk",
     "rank": 75,
+    "data_status": "scored",
     "district_id": "Eastern__Atiwa_East"
   },
   {
@@ -1745,6 +1820,7 @@
     "CVI_0_100": 81.35,
     "risk_tier": "High Risk",
     "rank": 76,
+    "data_status": "scored",
     "district_id": "Central__Awutu_Senya"
   },
   {
@@ -1768,6 +1844,7 @@
     "CVI_0_100": 81.15,
     "risk_tier": "High Risk",
     "rank": 77,
+    "data_status": "scored",
     "district_id": "Ashanti__Obuasi_Municipal"
   },
   {
@@ -1791,6 +1868,7 @@
     "CVI_0_100": 80.84,
     "risk_tier": "High Risk",
     "rank": 78,
+    "data_status": "scored",
     "district_id": "Western__Wassa_Amenfi_Central"
   },
   {
@@ -1814,6 +1892,7 @@
     "CVI_0_100": 80.67,
     "risk_tier": "High Risk",
     "rank": 79,
+    "data_status": "scored",
     "district_id": "Bono_East__Nkoranza_South"
   },
   {
@@ -1837,6 +1916,7 @@
     "CVI_0_100": 80.64,
     "risk_tier": "High Risk",
     "rank": 80,
+    "data_status": "scored",
     "district_id": "Ashanti__Atwima_Kwanwoma"
   },
   {
@@ -1860,6 +1940,7 @@
     "CVI_0_100": 80.48,
     "risk_tier": "High Risk",
     "rank": 81,
+    "data_status": "scored",
     "district_id": "Bono__Berekum_East_Municipal"
   },
   {
@@ -1883,6 +1964,7 @@
     "CVI_0_100": 80.47,
     "risk_tier": "High Risk",
     "rank": 82,
+    "data_status": "scored",
     "district_id": "Eastern__Kwaebibirem"
   },
   {
@@ -1906,6 +1988,7 @@
     "CVI_0_100": 80.43,
     "risk_tier": "High Risk",
     "rank": 83,
+    "data_status": "scored",
     "district_id": "Ashanti__Offinso_Municipal"
   },
   {
@@ -1929,6 +2012,7 @@
     "CVI_0_100": 79.71,
     "risk_tier": "High Risk",
     "rank": 84,
+    "data_status": "scored",
     "district_id": "Savannah__North_East_Gonja"
   },
   {
@@ -1952,6 +2036,7 @@
     "CVI_0_100": 79.62,
     "risk_tier": "High Risk",
     "rank": 85,
+    "data_status": "scored",
     "district_id": "Ashanti__Sekyere_Central"
   },
   {
@@ -1975,6 +2060,7 @@
     "CVI_0_100": 79.61,
     "risk_tier": "High Risk",
     "rank": 86,
+    "data_status": "scored",
     "district_id": "Ashanti__Mampong_Municipal"
   },
   {
@@ -1998,6 +2084,7 @@
     "CVI_0_100": 79.56,
     "risk_tier": "High Risk",
     "rank": 87,
+    "data_status": "scored",
     "district_id": "Upper_East__Tempane"
   },
   {
@@ -2021,6 +2108,7 @@
     "CVI_0_100": 79.49,
     "risk_tier": "High Risk",
     "rank": 88,
+    "data_status": "scored",
     "district_id": "Western_North__Bia_West"
   },
   {
@@ -2044,6 +2132,7 @@
     "CVI_0_100": 78.87,
     "risk_tier": "High Risk",
     "rank": 89,
+    "data_status": "scored",
     "district_id": "Bono__Jaman_North"
   },
   {
@@ -2067,6 +2156,7 @@
     "CVI_0_100": 78.76,
     "risk_tier": "High Risk",
     "rank": 90,
+    "data_status": "scored",
     "district_id": "Greater_Accra__Shai_Osudoku"
   },
   {
@@ -2090,6 +2180,7 @@
     "CVI_0_100": 78.73,
     "risk_tier": "High Risk",
     "rank": 91,
+    "data_status": "scored",
     "district_id": "Central__Upper_Denkyira_West"
   },
   {
@@ -2113,6 +2204,7 @@
     "CVI_0_100": 78.59,
     "risk_tier": "High Risk",
     "rank": 92,
+    "data_status": "scored",
     "district_id": "Oti__Krachi_East_Municipal"
   },
   {
@@ -2136,6 +2228,7 @@
     "CVI_0_100": 78.32,
     "risk_tier": "High Risk",
     "rank": 93,
+    "data_status": "scored",
     "district_id": "Western__Wassa_Amenfi_East"
   },
   {
@@ -2159,6 +2252,7 @@
     "CVI_0_100": 78.3,
     "risk_tier": "High Risk",
     "rank": 94,
+    "data_status": "scored",
     "district_id": "Ashanti__Bekwai_Municipal"
   },
   {
@@ -2182,6 +2276,7 @@
     "CVI_0_100": 78.11,
     "risk_tier": "High Risk",
     "rank": 95,
+    "data_status": "scored",
     "district_id": "Ashanti__Afigya_Kwabre_South"
   },
   {
@@ -2205,6 +2300,7 @@
     "CVI_0_100": 78.09,
     "risk_tier": "High Risk",
     "rank": 96,
+    "data_status": "scored",
     "district_id": "Northern__Karaga"
   },
   {
@@ -2228,6 +2324,7 @@
     "CVI_0_100": 77.96,
     "risk_tier": "High Risk",
     "rank": 97,
+    "data_status": "scored",
     "district_id": "Western__Wassa_Amenfi_West"
   },
   {
@@ -2251,6 +2348,7 @@
     "CVI_0_100": 77.34,
     "risk_tier": "High Risk",
     "rank": 98,
+    "data_status": "scored",
     "district_id": "Eastern__Kwahu_South"
   },
   {
@@ -2274,6 +2372,7 @@
     "CVI_0_100": 77.08,
     "risk_tier": "High Risk",
     "rank": 99,
+    "data_status": "scored",
     "district_id": "Northern__Nanumba_North"
   },
   {
@@ -2297,6 +2396,7 @@
     "CVI_0_100": 76.87,
     "risk_tier": "High Risk",
     "rank": 100,
+    "data_status": "scored",
     "district_id": "Upper_East__Bawku_Municipal"
   },
   {
@@ -2320,6 +2420,7 @@
     "CVI_0_100": 76.83,
     "risk_tier": "High Risk",
     "rank": 101,
+    "data_status": "scored",
     "district_id": "Western__Prestea/Huni_Valley"
   },
   {
@@ -2343,6 +2444,7 @@
     "CVI_0_100": 76.81,
     "risk_tier": "High Risk",
     "rank": 102,
+    "data_status": "scored",
     "district_id": "Eastern__Birim_Central_Municipal"
   },
   {
@@ -2366,6 +2468,7 @@
     "CVI_0_100": 76.72,
     "risk_tier": "High Risk",
     "rank": 103,
+    "data_status": "scored",
     "district_id": "Ahafo__Asutifi_North"
   },
   {
@@ -2389,6 +2492,7 @@
     "CVI_0_100": 76.62,
     "risk_tier": "High Risk",
     "rank": 104,
+    "data_status": "scored",
     "district_id": "Central__Agona_West_Municipal"
   },
   {
@@ -2412,6 +2516,7 @@
     "CVI_0_100": 76.35,
     "risk_tier": "High Risk",
     "rank": 105,
+    "data_status": "scored",
     "district_id": "Western__Shama"
   },
   {
@@ -2435,6 +2540,7 @@
     "CVI_0_100": 75.64,
     "risk_tier": "High Risk",
     "rank": 106,
+    "data_status": "scored",
     "district_id": "Eastern__Birim_North"
   },
   {
@@ -2458,6 +2564,7 @@
     "CVI_0_100": 75.38,
     "risk_tier": "High Risk",
     "rank": 107,
+    "data_status": "scored",
     "district_id": "Ashanti__Offinso_North"
   },
   {
@@ -2481,6 +2588,7 @@
     "CVI_0_100": 75.33,
     "risk_tier": "High Risk",
     "rank": 108,
+    "data_status": "scored",
     "district_id": "Eastern__Upper_West_Akim"
   },
   {
@@ -2504,6 +2612,7 @@
     "CVI_0_100": 75.26,
     "risk_tier": "High Risk",
     "rank": 109,
+    "data_status": "scored",
     "district_id": "Northern_East__West_Mamprusi_Municipal"
   },
   {
@@ -2527,6 +2636,7 @@
     "CVI_0_100": 75.23,
     "risk_tier": "High Risk",
     "rank": 110,
+    "data_status": "scored",
     "district_id": "Northern_East__Chereponi"
   },
   {
@@ -2550,6 +2660,7 @@
     "CVI_0_100": 75.2,
     "risk_tier": "High Risk",
     "rank": 111,
+    "data_status": "scored",
     "district_id": "Upper_East__Builsa_South"
   },
   {
@@ -2573,6 +2684,7 @@
     "CVI_0_100": 75.08,
     "risk_tier": "High Risk",
     "rank": 112,
+    "data_status": "scored",
     "district_id": "Eastern__Abuakwa_South"
   },
   {
@@ -2596,6 +2708,7 @@
     "CVI_0_100": 75.05,
     "risk_tier": "High Risk",
     "rank": 113,
+    "data_status": "scored",
     "district_id": "Volta__Anloga"
   },
   {
@@ -2619,6 +2732,7 @@
     "CVI_0_100": 74.97,
     "risk_tier": "High Risk",
     "rank": 114,
+    "data_status": "scored",
     "district_id": "Central__Awutu_Senya_East"
   },
   {
@@ -2642,6 +2756,7 @@
     "CVI_0_100": 74.85,
     "risk_tier": "High Risk",
     "rank": 115,
+    "data_status": "scored",
     "district_id": "Northern_East__East_Mamprusi"
   },
   {
@@ -2665,6 +2780,7 @@
     "CVI_0_100": 74.58,
     "risk_tier": "High Risk",
     "rank": 116,
+    "data_status": "scored",
     "district_id": "Ashanti__Sekyere_East"
   },
   {
@@ -2688,6 +2804,7 @@
     "CVI_0_100": 74.55,
     "risk_tier": "High Risk",
     "rank": 117,
+    "data_status": "scored",
     "district_id": "Northern__Kpandai"
   },
   {
@@ -2711,6 +2828,7 @@
     "CVI_0_100": 74.47,
     "risk_tier": "High Risk",
     "rank": 118,
+    "data_status": "scored",
     "district_id": "Eastern__Atiwa_West"
   },
   {
@@ -2734,6 +2852,7 @@
     "CVI_0_100": 74.45,
     "risk_tier": "High Risk",
     "rank": 119,
+    "data_status": "scored",
     "district_id": "Ashanti__Asokore_Mampong_Municipal"
   },
   {
@@ -2757,6 +2876,7 @@
     "CVI_0_100": 74.26,
     "risk_tier": "High Risk",
     "rank": 120,
+    "data_status": "scored",
     "district_id": "Ashanti__Asante_Akim_Central_Municipal"
   },
   {
@@ -2780,6 +2900,7 @@
     "CVI_0_100": 74.24,
     "risk_tier": "High Risk",
     "rank": 121,
+    "data_status": "scored",
     "district_id": "Central__Komenda-Edina-Eguafo-Abirem_Municipal"
   },
   {
@@ -2803,6 +2924,7 @@
     "CVI_0_100": 73.78,
     "risk_tier": "High Risk",
     "rank": 122,
+    "data_status": "scored",
     "district_id": "Bono_East__Techiman_North"
   },
   {
@@ -2826,6 +2948,7 @@
     "CVI_0_100": 73.54,
     "risk_tier": "High Risk",
     "rank": 123,
+    "data_status": "scored",
     "district_id": "Oti__Biakoye"
   },
   {
@@ -2849,6 +2972,7 @@
     "CVI_0_100": 73.28,
     "risk_tier": "High Risk",
     "rank": 124,
+    "data_status": "scored",
     "district_id": "Volta__Keta_Municipal"
   },
   {
@@ -2872,6 +2996,7 @@
     "CVI_0_100": 73.01,
     "risk_tier": "High Risk",
     "rank": 125,
+    "data_status": "scored",
     "district_id": "Eastern__Kwahu_Afram_Plains_South"
   },
   {
@@ -2895,6 +3020,7 @@
     "CVI_0_100": 72.79,
     "risk_tier": "High Risk",
     "rank": 126,
+    "data_status": "scored",
     "district_id": "Greater_Accra__Ga_West_Municipal"
   },
   {
@@ -2918,6 +3044,7 @@
     "CVI_0_100": 72.62,
     "risk_tier": "High Risk",
     "rank": 127,
+    "data_status": "scored",
     "district_id": "Volta__Akatsi_South"
   },
   {
@@ -2941,6 +3068,7 @@
     "CVI_0_100": 72.55,
     "risk_tier": "High Risk",
     "rank": 128,
+    "data_status": "scored",
     "district_id": "Western__Ellembelle"
   },
   {
@@ -2964,6 +3092,7 @@
     "CVI_0_100": 72.11,
     "risk_tier": "High Risk",
     "rank": 129,
+    "data_status": "scored",
     "district_id": "Upper_East__Kasena_Nankana_West"
   },
   {
@@ -2987,6 +3116,7 @@
     "CVI_0_100": 72.1,
     "risk_tier": "High Risk",
     "rank": 130,
+    "data_status": "scored",
     "district_id": "Bono__Sunyani_West"
   },
   {
@@ -3010,6 +3140,7 @@
     "CVI_0_100": 72.06,
     "risk_tier": "High Risk",
     "rank": 131,
+    "data_status": "scored",
     "district_id": "Ashanti__Ejisu_Municipal"
   },
   {
@@ -3033,6 +3164,7 @@
     "CVI_0_100": 72.05,
     "risk_tier": "High Risk",
     "rank": 132,
+    "data_status": "scored",
     "district_id": "Upper_West__Nadowli-Kaleo"
   },
   {
@@ -3056,6 +3188,7 @@
     "CVI_0_100": 71.7,
     "risk_tier": "High Risk",
     "rank": 133,
+    "data_status": "scored",
     "district_id": "Bono__Jaman_South_Municipal"
   },
   {
@@ -3079,6 +3212,7 @@
     "CVI_0_100": 71.25,
     "risk_tier": "High Risk",
     "rank": 134,
+    "data_status": "scored",
     "district_id": "Upper_East__Bolga__East"
   },
   {
@@ -3102,6 +3236,7 @@
     "CVI_0_100": 71.15,
     "risk_tier": "High Risk",
     "rank": 135,
+    "data_status": "scored",
     "district_id": "Northern__Savelugu"
   },
   {
@@ -3125,6 +3260,7 @@
     "CVI_0_100": 70.53,
     "risk_tier": "High Risk",
     "rank": 136,
+    "data_status": "scored",
     "district_id": "Bono_East__Kintampo_South"
   },
   {
@@ -3148,6 +3284,7 @@
     "CVI_0_100": 70.35,
     "risk_tier": "High Risk",
     "rank": 137,
+    "data_status": "scored",
     "district_id": "Ahafo__Tano_South_Municipal"
   },
   {
@@ -3171,6 +3308,7 @@
     "CVI_0_100": 70.15,
     "risk_tier": "High Risk",
     "rank": 138,
+    "data_status": "scored",
     "district_id": "Greater_Accra__Ayawaso_North_Municipal"
   },
   {
@@ -3194,6 +3332,7 @@
     "CVI_0_100": 69.61,
     "risk_tier": "High Risk",
     "rank": 139,
+    "data_status": "scored",
     "district_id": "Greater_Accra__Ablekuma_Central_Municipal"
   },
   {
@@ -3217,6 +3356,7 @@
     "CVI_0_100": 69.2,
     "risk_tier": "High Risk",
     "rank": 140,
+    "data_status": "scored",
     "district_id": "Upper_East__Talensi"
   },
   {
@@ -3240,6 +3380,7 @@
     "CVI_0_100": 68.47,
     "risk_tier": "High Risk",
     "rank": 141,
+    "data_status": "scored",
     "district_id": "Ahafo__Asutifi_South"
   },
   {
@@ -3263,6 +3404,7 @@
     "CVI_0_100": 68.46,
     "risk_tier": "High Risk",
     "rank": 142,
+    "data_status": "scored",
     "district_id": "Northern__Saboba"
   },
   {
@@ -3286,6 +3428,7 @@
     "CVI_0_100": 67.41,
     "risk_tier": "High Risk",
     "rank": 143,
+    "data_status": "scored",
     "district_id": "Central__Ekumfi"
   },
   {
@@ -3309,6 +3452,7 @@
     "CVI_0_100": 67.32,
     "risk_tier": "High Risk",
     "rank": 144,
+    "data_status": "scored",
     "district_id": "Ashanti__Old_Tafo_Municipal"
   },
   {
@@ -3332,6 +3476,7 @@
     "CVI_0_100": 66.99,
     "risk_tier": "High Risk",
     "rank": 145,
+    "data_status": "scored",
     "district_id": "Central__Mfantseman_Municipal"
   },
   {
@@ -3355,6 +3500,7 @@
     "CVI_0_100": 66.46,
     "risk_tier": "High Risk",
     "rank": 146,
+    "data_status": "scored",
     "district_id": "Greater_Accra__Ablekuma_West_Municipal"
   },
   {
@@ -3378,6 +3524,7 @@
     "CVI_0_100": 65.06,
     "risk_tier": "High Risk",
     "rank": 147,
+    "data_status": "scored",
     "district_id": "Upper_West__Wa_West"
   },
   {
@@ -3401,6 +3548,7 @@
     "CVI_0_100": 64.6,
     "risk_tier": "High Risk",
     "rank": 148,
+    "data_status": "scored",
     "district_id": "Bono_East__Kintampo_North_Municipal"
   },
   {
@@ -3424,6 +3572,7 @@
     "CVI_0_100": 64.46,
     "risk_tier": "High Risk",
     "rank": 149,
+    "data_status": "scored",
     "district_id": "Volta__South_Dayi"
   },
   {
@@ -3447,6 +3596,7 @@
     "CVI_0_100": 64.42,
     "risk_tier": "High Risk",
     "rank": 150,
+    "data_status": "scored",
     "district_id": "Ahafo__Asunafo_South"
   },
   {
@@ -3470,6 +3620,7 @@
     "CVI_0_100": 63.8,
     "risk_tier": "High Risk",
     "rank": 151,
+    "data_status": "scored",
     "district_id": "Western__Effia_Kwesimintsim_Municipal"
   },
   {
@@ -3493,6 +3644,7 @@
     "CVI_0_100": 62.13,
     "risk_tier": "High Risk",
     "rank": 152,
+    "data_status": "scored",
     "district_id": "Upper_East__Kasena_Nankana_East"
   },
   {
@@ -3516,6 +3668,7 @@
     "CVI_0_100": 62.11,
     "risk_tier": "High Risk",
     "rank": 153,
+    "data_status": "scored",
     "district_id": "Greater_Accra__Ningo/Prampram"
   },
   {
@@ -3539,6 +3692,7 @@
     "CVI_0_100": 61.97,
     "risk_tier": "High Risk",
     "rank": 154,
+    "data_status": "scored",
     "district_id": "Volta__Adaklu"
   },
   {
@@ -3562,6 +3716,7 @@
     "CVI_0_100": 61.3,
     "risk_tier": "High Risk",
     "rank": 155,
+    "data_status": "scored",
     "district_id": "Central__Gomoa_East"
   },
   {
@@ -3585,6 +3740,7 @@
     "CVI_0_100": 61.11,
     "risk_tier": "High Risk",
     "rank": 156,
+    "data_status": "scored",
     "district_id": "Greater_Accra__Kpone_Katamanso"
   },
   {
@@ -3608,6 +3764,7 @@
     "CVI_0_100": 60.51,
     "risk_tier": "High Risk",
     "rank": 157,
+    "data_status": "scored",
     "district_id": "Bono_East__Techiman_Municipal"
   },
   {
@@ -3631,6 +3788,7 @@
     "CVI_0_100": 60.27,
     "risk_tier": "High Risk",
     "rank": 158,
+    "data_status": "scored",
     "district_id": "Eastern__Kwahu_West"
   },
   {
@@ -3654,6 +3812,7 @@
     "CVI_0_100": 60.2,
     "risk_tier": "High Risk",
     "rank": 159,
+    "data_status": "scored",
     "district_id": "Ashanti__Atwima_Nwabiagya_South"
   },
   {
@@ -3677,6 +3836,7 @@
     "CVI_0_100": 60.02,
     "risk_tier": "High Risk",
     "rank": 160,
+    "data_status": "scored",
     "district_id": "Ashanti__Suame_Municipal"
   },
   {
@@ -3700,6 +3860,7 @@
     "CVI_0_100": 60.02,
     "risk_tier": "Moderate Risk",
     "rank": 161,
+    "data_status": "scored",
     "district_id": "Eastern__Yilo_Krobo"
   },
   {
@@ -3723,6 +3884,7 @@
     "CVI_0_100": 58.04,
     "risk_tier": "Moderate Risk",
     "rank": 162,
+    "data_status": "scored",
     "district_id": "Western__Jomoro"
   },
   {
@@ -3746,6 +3908,7 @@
     "CVI_0_100": 57.51,
     "risk_tier": "Moderate Risk",
     "rank": 163,
+    "data_status": "scored",
     "district_id": "Oti__Nkwanta_North"
   },
   {
@@ -3769,6 +3932,7 @@
     "CVI_0_100": 54.8,
     "risk_tier": "Moderate Risk",
     "rank": 164,
+    "data_status": "scored",
     "district_id": "Eastern__Lower_Manya"
   },
   {
@@ -3792,6 +3956,7 @@
     "CVI_0_100": 53.61,
     "risk_tier": "Moderate Risk",
     "rank": 165,
+    "data_status": "scored",
     "district_id": "Ashanti__Kwadaso_Municipal"
   },
   {
@@ -3815,6 +3980,7 @@
     "CVI_0_100": 53.5,
     "risk_tier": "Moderate Risk",
     "rank": 166,
+    "data_status": "scored",
     "district_id": "Western_North__Bibiani-Anhwiaso-Bekwai_Municipal"
   },
   {
@@ -3838,6 +4004,7 @@
     "CVI_0_100": 52.94,
     "risk_tier": "Moderate Risk",
     "rank": 167,
+    "data_status": "scored",
     "district_id": "Upper_East__Bolgatanga_Municipal"
   },
   {
@@ -3861,6 +4028,7 @@
     "CVI_0_100": 52.42,
     "risk_tier": "Moderate Risk",
     "rank": 168,
+    "data_status": "scored",
     "district_id": "Greater_Accra__Ashaiman_Municipal"
   },
   {
@@ -3884,6 +4052,7 @@
     "CVI_0_100": 52.32,
     "risk_tier": "Moderate Risk",
     "rank": 169,
+    "data_status": "scored",
     "district_id": "Oti__Jasikan"
   },
   {
@@ -3907,6 +4076,7 @@
     "CVI_0_100": 52.29,
     "risk_tier": "Moderate Risk",
     "rank": 170,
+    "data_status": "scored",
     "district_id": "Central__Twifo_Atti-Morkwa"
   },
   {
@@ -3930,6 +4100,7 @@
     "CVI_0_100": 52.17,
     "risk_tier": "Moderate Risk",
     "rank": 171,
+    "data_status": "scored",
     "district_id": "Savannah__West_Gonja"
   },
   {
@@ -3953,6 +4124,7 @@
     "CVI_0_100": 51.06,
     "risk_tier": "Moderate Risk",
     "rank": 172,
+    "data_status": "scored",
     "district_id": "Oti__Kadjebi"
   },
   {
@@ -3976,6 +4148,7 @@
     "CVI_0_100": 50.65,
     "risk_tier": "Moderate Risk",
     "rank": 173,
+    "data_status": "scored",
     "district_id": "Greater_Accra__Accra_Metropolis"
   },
   {
@@ -3999,6 +4172,7 @@
     "CVI_0_100": 49.83,
     "risk_tier": "Moderate Risk",
     "rank": 174,
+    "data_status": "scored",
     "district_id": "Central__Effutu_Municipal"
   },
   {
@@ -4022,6 +4196,7 @@
     "CVI_0_100": 49.51,
     "risk_tier": "Moderate Risk",
     "rank": 175,
+    "data_status": "scored",
     "district_id": "Eastern__Kwahu_Afram_Plains_North"
   },
   {
@@ -4045,6 +4220,7 @@
     "CVI_0_100": 48.76,
     "risk_tier": "Moderate Risk",
     "rank": 176,
+    "data_status": "scored",
     "district_id": "Volta__North_Dayi"
   },
   {
@@ -4068,6 +4244,7 @@
     "CVI_0_100": 47.48,
     "risk_tier": "Moderate Risk",
     "rank": 177,
+    "data_status": "scored",
     "district_id": "Volta__Ketu_South"
   },
   {
@@ -4091,6 +4268,7 @@
     "CVI_0_100": 47.09,
     "risk_tier": "Moderate Risk",
     "rank": 178,
+    "data_status": "scored",
     "district_id": "Greater_Accra__Ga_North_Municipal"
   },
   {
@@ -4114,6 +4292,7 @@
     "CVI_0_100": 46.74,
     "risk_tier": "Moderate Risk",
     "rank": 179,
+    "data_status": "scored",
     "district_id": "Western_North__Aowin"
   },
   {
@@ -4137,6 +4316,7 @@
     "CVI_0_100": 44.6,
     "risk_tier": "Moderate Risk",
     "rank": 180,
+    "data_status": "scored",
     "district_id": "Greater_Accra__Tema_Metropolitan"
   },
   {
@@ -4160,6 +4340,7 @@
     "CVI_0_100": 44.59,
     "risk_tier": "Moderate Risk",
     "rank": 181,
+    "data_status": "scored",
     "district_id": "Volta__Kpando_Municipal"
   },
   {
@@ -4183,6 +4364,7 @@
     "CVI_0_100": 44.37,
     "risk_tier": "Moderate Risk",
     "rank": 182,
+    "data_status": "scored",
     "district_id": "Ashanti__Oforikrom_Municipal"
   },
   {
@@ -4206,6 +4388,7 @@
     "CVI_0_100": 43.51,
     "risk_tier": "Low Risk",
     "rank": 183,
+    "data_status": "scored",
     "district_id": "Northern__Sagnerigu"
   },
   {
@@ -4229,6 +4412,7 @@
     "CVI_0_100": 40.71,
     "risk_tier": "Moderate Risk",
     "rank": 184,
+    "data_status": "scored",
     "district_id": "Ashanti__Kumasi_Metropolitan"
   },
   {
@@ -4252,6 +4436,7 @@
     "CVI_0_100": 40.45,
     "risk_tier": "Low Risk",
     "rank": 185,
+    "data_status": "scored",
     "district_id": "Greater_Accra__Tema_West_Municipal"
   },
   {
@@ -4275,6 +4460,7 @@
     "CVI_0_100": 39.57,
     "risk_tier": "Moderate Risk",
     "rank": 186,
+    "data_status": "scored",
     "district_id": "Volta__South_Tongu"
   },
   {
@@ -4298,6 +4484,7 @@
     "CVI_0_100": 39.29,
     "risk_tier": "Moderate Risk",
     "rank": 187,
+    "data_status": "scored",
     "district_id": "Western__Sekondi_Takoradi_Metropolis"
   },
   {
@@ -4321,6 +4508,7 @@
     "CVI_0_100": 38.27,
     "risk_tier": "Moderate Risk",
     "rank": 188,
+    "data_status": "scored",
     "district_id": "Oti__Nkwanta_South_Municipal"
   },
   {
@@ -4344,6 +4532,7 @@
     "CVI_0_100": 37.94,
     "risk_tier": "Low Risk",
     "rank": 189,
+    "data_status": "scored",
     "district_id": "Greater_Accra__Adenta_Municipal"
   },
   {
@@ -4367,6 +4556,7 @@
     "CVI_0_100": 34.62,
     "risk_tier": "Moderate Risk",
     "rank": 190,
+    "data_status": "scored",
     "district_id": "Volta__Afadzato_South"
   },
   {
@@ -4390,6 +4580,7 @@
     "CVI_0_100": 34.28,
     "risk_tier": "Low Risk",
     "rank": 191,
+    "data_status": "scored",
     "district_id": "Ahafo__Asunafo_North_Municipal"
   },
   {
@@ -4413,6 +4604,7 @@
     "CVI_0_100": 33.88,
     "risk_tier": "Moderate Risk",
     "rank": 192,
+    "data_status": "scored",
     "district_id": "Volta__Ho_West"
   },
   {
@@ -4436,6 +4628,7 @@
     "CVI_0_100": 33.77,
     "risk_tier": "Low Risk",
     "rank": 193,
+    "data_status": "scored",
     "district_id": "Greater_Accra__Weija_Gbawe_Municipal"
   },
   {
@@ -4459,6 +4652,7 @@
     "CVI_0_100": 33.33,
     "risk_tier": "Low Risk",
     "rank": 194,
+    "data_status": "scored",
     "district_id": "Bono__Sunyani_Municipal"
   },
   {
@@ -4482,6 +4676,7 @@
     "CVI_0_100": 32.94,
     "risk_tier": "Low Risk",
     "rank": 195,
+    "data_status": "scored",
     "district_id": "Greater_Accra__Ledzokuku_Municipal"
   },
   {
@@ -4505,6 +4700,7 @@
     "CVI_0_100": 31.34,
     "risk_tier": "Low Risk",
     "rank": 196,
+    "data_status": "scored",
     "district_id": "Greater_Accra__Ablekuma_North_Municipal"
   },
   {
@@ -4528,6 +4724,7 @@
     "CVI_0_100": 31.16,
     "risk_tier": "Moderate Risk",
     "rank": 197,
+    "data_status": "scored",
     "district_id": "Upper_West__Wa_Municipal"
   },
   {
@@ -4551,6 +4748,7 @@
     "CVI_0_100": 30.47,
     "risk_tier": "Moderate Risk",
     "rank": 198,
+    "data_status": "scored",
     "district_id": "Volta__Central_Tongu"
   },
   {
@@ -4574,6 +4772,7 @@
     "CVI_0_100": 29.49,
     "risk_tier": "Low Risk",
     "rank": 199,
+    "data_status": "scored",
     "district_id": "Greater_Accra__La_Dade-Kotopon"
   },
   {
@@ -4597,6 +4796,7 @@
     "CVI_0_100": 25.64,
     "risk_tier": "Low Risk",
     "rank": 200,
+    "data_status": "scored",
     "district_id": "Greater_Accra__Krowor_Municipal"
   },
   {
@@ -4620,6 +4820,7 @@
     "CVI_0_100": 24.21,
     "risk_tier": "Low Risk",
     "rank": 201,
+    "data_status": "scored",
     "district_id": "Western__Tarkwa_Nsuaem"
   },
   {
@@ -4643,6 +4844,7 @@
     "CVI_0_100": 18.9,
     "risk_tier": "Low Risk",
     "rank": 202,
+    "data_status": "scored",
     "district_id": "Northern__Tamale_Metropolitan"
   },
   {
@@ -4666,6 +4868,7 @@
     "CVI_0_100": 17.03,
     "risk_tier": "Low Risk",
     "rank": 203,
+    "data_status": "scored",
     "district_id": "Volta__Ho_Municipal"
   },
   {
@@ -4689,6 +4892,7 @@
     "CVI_0_100": 14.72,
     "risk_tier": "Low Risk",
     "rank": 204,
+    "data_status": "scored",
     "district_id": "Greater_Accra__Okaikwei_North_Municipal"
   },
   {
@@ -4712,6 +4916,7 @@
     "CVI_0_100": 14.56,
     "risk_tier": "Low Risk",
     "rank": 205,
+    "data_status": "scored",
     "district_id": "Eastern__New_Juaben_South_Municipal"
   },
   {
@@ -4735,6 +4940,7 @@
     "CVI_0_100": 14.2,
     "risk_tier": "Low Risk",
     "rank": 206,
+    "data_status": "scored",
     "district_id": "Greater_Accra__Ayawaso_East_Municipal"
   },
   {
@@ -4758,6 +4964,7 @@
     "CVI_0_100": 14.04,
     "risk_tier": "Low Risk",
     "rank": 207,
+    "data_status": "scored",
     "district_id": "Greater_Accra__Ayawaso_West"
   },
   {
@@ -4781,6 +4988,7 @@
     "CVI_0_100": 11.47,
     "risk_tier": "Moderate Risk",
     "rank": 208,
+    "data_status": "scored",
     "district_id": "Volta__Hohoe_Municipal"
   },
   {
@@ -4804,6 +5012,7 @@
     "CVI_0_100": 11.17,
     "risk_tier": "Low Risk",
     "rank": 209,
+    "data_status": "scored",
     "district_id": "Greater_Accra__Korle_Klottey_Municipal"
   },
   {
@@ -4827,6 +5036,7 @@
     "CVI_0_100": 6.27,
     "risk_tier": "Low Risk",
     "rank": 210,
+    "data_status": "scored",
     "district_id": "Greater_Accra__Ga_East"
   },
   {
@@ -4850,6 +5060,7 @@
     "CVI_0_100": 1.66,
     "risk_tier": "Low Risk",
     "rank": 211,
+    "data_status": "scored",
     "district_id": "Greater_Accra__La-Nkwantanang-Madina"
   },
   {
@@ -4873,6 +5084,1063 @@
     "CVI_0_100": 0.0,
     "risk_tier": "Low Risk",
     "rank": 212,
+    "data_status": "scored",
     "district_id": "Central__Cape_Coast_Metropolitan"
+  },
+  {
+    "district_id": "Unknown__Sissala_West",
+    "district": "Sissala West",
+    "region": "Unknown",
+    "rank": null,
+    "CVI_0_100": null,
+    "risk_tier": "No Data Yet",
+    "total_facilities": 0,
+    "hospitals_clinics": 0,
+    "pharmacies": 0,
+    "type_diversity": 0,
+    "median_nn_km_hosp": null,
+    "hosp_per_100k": 0.0,
+    "pharm_per_100k": 0.0,
+    "facilities_per_100k": 0.0,
+    "district_pop_proxy": 0,
+    "region_population_2021": 0,
+    "is_urban": 0,
+    "lat_centroid": 0.0,
+    "lon_centroid": 0.0,
+    "data_status": "no_data_yet"
+  },
+  {
+    "district_id": "Unknown__Lambussie-karni",
+    "district": "Lambussie-karni",
+    "region": "Unknown",
+    "rank": null,
+    "CVI_0_100": null,
+    "risk_tier": "No Data Yet",
+    "total_facilities": 0,
+    "hospitals_clinics": 0,
+    "pharmacies": 0,
+    "type_diversity": 0,
+    "median_nn_km_hosp": null,
+    "hosp_per_100k": 0.0,
+    "pharm_per_100k": 0.0,
+    "facilities_per_100k": 0.0,
+    "district_pop_proxy": 0,
+    "region_population_2021": 0,
+    "is_urban": 0,
+    "lat_centroid": 0.0,
+    "lon_centroid": 0.0,
+    "data_status": "no_data_yet"
+  },
+  {
+    "district_id": "Unknown__Asante_Akim_South",
+    "district": "Asante Akim South",
+    "region": "Unknown",
+    "rank": null,
+    "CVI_0_100": null,
+    "risk_tier": "No Data Yet",
+    "total_facilities": 0,
+    "hospitals_clinics": 0,
+    "pharmacies": 0,
+    "type_diversity": 0,
+    "median_nn_km_hosp": null,
+    "hosp_per_100k": 0.0,
+    "pharm_per_100k": 0.0,
+    "facilities_per_100k": 0.0,
+    "district_pop_proxy": 0,
+    "region_population_2021": 0,
+    "is_urban": 0,
+    "lat_centroid": 0.0,
+    "lon_centroid": 0.0,
+    "data_status": "no_data_yet"
+  },
+  {
+    "district_id": "Unknown__Sissala_East",
+    "district": "Sissala East",
+    "region": "Unknown",
+    "rank": null,
+    "CVI_0_100": null,
+    "risk_tier": "No Data Yet",
+    "total_facilities": 0,
+    "hospitals_clinics": 0,
+    "pharmacies": 0,
+    "type_diversity": 0,
+    "median_nn_km_hosp": null,
+    "hosp_per_100k": 0.0,
+    "pharm_per_100k": 0.0,
+    "facilities_per_100k": 0.0,
+    "district_pop_proxy": 0,
+    "region_population_2021": 0,
+    "is_urban": 0,
+    "lat_centroid": 0.0,
+    "lon_centroid": 0.0,
+    "data_status": "no_data_yet"
+  },
+  {
+    "district_id": "Unknown__Bunkpurugu_Nakpanduri",
+    "district": "Bunkpurugu Nakpanduri",
+    "region": "Unknown",
+    "rank": null,
+    "CVI_0_100": null,
+    "risk_tier": "No Data Yet",
+    "total_facilities": 0,
+    "hospitals_clinics": 0,
+    "pharmacies": 0,
+    "type_diversity": 0,
+    "median_nn_km_hosp": null,
+    "hosp_per_100k": 0.0,
+    "pharm_per_100k": 0.0,
+    "facilities_per_100k": 0.0,
+    "district_pop_proxy": 0,
+    "region_population_2021": 0,
+    "is_urban": 0,
+    "lat_centroid": 0.0,
+    "lon_centroid": 0.0,
+    "data_status": "no_data_yet"
+  },
+  {
+    "district_id": "Unknown__Suaman",
+    "district": "Suaman",
+    "region": "Unknown",
+    "rank": null,
+    "CVI_0_100": null,
+    "risk_tier": "No Data Yet",
+    "total_facilities": 0,
+    "hospitals_clinics": 0,
+    "pharmacies": 0,
+    "type_diversity": 0,
+    "median_nn_km_hosp": null,
+    "hosp_per_100k": 0.0,
+    "pharm_per_100k": 0.0,
+    "facilities_per_100k": 0.0,
+    "district_pop_proxy": 0,
+    "region_population_2021": 0,
+    "is_urban": 0,
+    "lat_centroid": 0.0,
+    "lon_centroid": 0.0,
+    "data_status": "no_data_yet"
+  },
+  {
+    "district_id": "Unknown__Nkoranza_North",
+    "district": "Nkoranza North",
+    "region": "Unknown",
+    "rank": null,
+    "CVI_0_100": null,
+    "risk_tier": "No Data Yet",
+    "total_facilities": 0,
+    "hospitals_clinics": 0,
+    "pharmacies": 0,
+    "type_diversity": 0,
+    "median_nn_km_hosp": null,
+    "hosp_per_100k": 0.0,
+    "pharm_per_100k": 0.0,
+    "facilities_per_100k": 0.0,
+    "district_pop_proxy": 0,
+    "region_population_2021": 0,
+    "is_urban": 0,
+    "lat_centroid": 0.0,
+    "lon_centroid": 0.0,
+    "data_status": "no_data_yet"
+  },
+  {
+    "district_id": "Unknown__Mpohor",
+    "district": "Mpohor",
+    "region": "Unknown",
+    "rank": null,
+    "CVI_0_100": null,
+    "risk_tier": "No Data Yet",
+    "total_facilities": 0,
+    "hospitals_clinics": 0,
+    "pharmacies": 0,
+    "type_diversity": 0,
+    "median_nn_km_hosp": null,
+    "hosp_per_100k": 0.0,
+    "pharm_per_100k": 0.0,
+    "facilities_per_100k": 0.0,
+    "district_pop_proxy": 0,
+    "region_population_2021": 0,
+    "is_urban": 0,
+    "lat_centroid": 0.0,
+    "lon_centroid": 0.0,
+    "data_status": "no_data_yet"
+  },
+  {
+    "district_id": "Unknown__Ga_South_Municipal",
+    "district": "Ga South Municipal",
+    "region": "Unknown",
+    "rank": null,
+    "CVI_0_100": null,
+    "risk_tier": "No Data Yet",
+    "total_facilities": 0,
+    "hospitals_clinics": 0,
+    "pharmacies": 0,
+    "type_diversity": 0,
+    "median_nn_km_hosp": null,
+    "hosp_per_100k": 0.0,
+    "pharm_per_100k": 0.0,
+    "facilities_per_100k": 0.0,
+    "district_pop_proxy": 0,
+    "region_population_2021": 0,
+    "is_urban": 0,
+    "lat_centroid": 0.0,
+    "lon_centroid": 0.0,
+    "data_status": "no_data_yet"
+  },
+  {
+    "district_id": "Unknown__Akatsi_North",
+    "district": "Akatsi North",
+    "region": "Unknown",
+    "rank": null,
+    "CVI_0_100": null,
+    "risk_tier": "No Data Yet",
+    "total_facilities": 0,
+    "hospitals_clinics": 0,
+    "pharmacies": 0,
+    "type_diversity": 0,
+    "median_nn_km_hosp": null,
+    "hosp_per_100k": 0.0,
+    "pharm_per_100k": 0.0,
+    "facilities_per_100k": 0.0,
+    "district_pop_proxy": 0,
+    "region_population_2021": 0,
+    "is_urban": 0,
+    "lat_centroid": 0.0,
+    "lon_centroid": 0.0,
+    "data_status": "no_data_yet"
+  },
+  {
+    "district_id": "Unknown__Adansi_South",
+    "district": "Adansi South",
+    "region": "Unknown",
+    "rank": null,
+    "CVI_0_100": null,
+    "risk_tier": "No Data Yet",
+    "total_facilities": 0,
+    "hospitals_clinics": 0,
+    "pharmacies": 0,
+    "type_diversity": 0,
+    "median_nn_km_hosp": null,
+    "hosp_per_100k": 0.0,
+    "pharm_per_100k": 0.0,
+    "facilities_per_100k": 0.0,
+    "district_pop_proxy": 0,
+    "region_population_2021": 0,
+    "is_urban": 0,
+    "lat_centroid": 0.0,
+    "lon_centroid": 0.0,
+    "data_status": "no_data_yet"
+  },
+  {
+    "district_id": "Unknown__Adansi_Asokwa",
+    "district": "Adansi Asokwa",
+    "region": "Unknown",
+    "rank": null,
+    "CVI_0_100": null,
+    "risk_tier": "No Data Yet",
+    "total_facilities": 0,
+    "hospitals_clinics": 0,
+    "pharmacies": 0,
+    "type_diversity": 0,
+    "median_nn_km_hosp": null,
+    "hosp_per_100k": 0.0,
+    "pharm_per_100k": 0.0,
+    "facilities_per_100k": 0.0,
+    "district_pop_proxy": 0,
+    "region_population_2021": 0,
+    "is_urban": 0,
+    "lat_centroid": 0.0,
+    "lon_centroid": 0.0,
+    "data_status": "no_data_yet"
+  },
+  {
+    "district_id": "Unknown__Bosome_Freho",
+    "district": "Bosome Freho",
+    "region": "Unknown",
+    "rank": null,
+    "CVI_0_100": null,
+    "risk_tier": "No Data Yet",
+    "total_facilities": 0,
+    "hospitals_clinics": 0,
+    "pharmacies": 0,
+    "type_diversity": 0,
+    "median_nn_km_hosp": null,
+    "hosp_per_100k": 0.0,
+    "pharm_per_100k": 0.0,
+    "facilities_per_100k": 0.0,
+    "district_pop_proxy": 0,
+    "region_population_2021": 0,
+    "is_urban": 0,
+    "lat_centroid": 0.0,
+    "lon_centroid": 0.0,
+    "data_status": "no_data_yet"
+  },
+  {
+    "district_id": "Unknown__Assin_North",
+    "district": "Assin North",
+    "region": "Unknown",
+    "rank": null,
+    "CVI_0_100": null,
+    "risk_tier": "No Data Yet",
+    "total_facilities": 0,
+    "hospitals_clinics": 0,
+    "pharmacies": 0,
+    "type_diversity": 0,
+    "median_nn_km_hosp": null,
+    "hosp_per_100k": 0.0,
+    "pharm_per_100k": 0.0,
+    "facilities_per_100k": 0.0,
+    "district_pop_proxy": 0,
+    "region_population_2021": 0,
+    "is_urban": 0,
+    "lat_centroid": 0.0,
+    "lon_centroid": 0.0,
+    "data_status": "no_data_yet"
+  },
+  {
+    "district_id": "Unknown__Assin_South",
+    "district": "Assin South",
+    "region": "Unknown",
+    "rank": null,
+    "CVI_0_100": null,
+    "risk_tier": "No Data Yet",
+    "total_facilities": 0,
+    "hospitals_clinics": 0,
+    "pharmacies": 0,
+    "type_diversity": 0,
+    "median_nn_km_hosp": null,
+    "hosp_per_100k": 0.0,
+    "pharm_per_100k": 0.0,
+    "facilities_per_100k": 0.0,
+    "district_pop_proxy": 0,
+    "region_population_2021": 0,
+    "is_urban": 0,
+    "lat_centroid": 0.0,
+    "lon_centroid": 0.0,
+    "data_status": "no_data_yet"
+  },
+  {
+    "district_id": "Unknown__Dormaa_Municipal",
+    "district": "Dormaa Municipal",
+    "region": "Unknown",
+    "rank": null,
+    "CVI_0_100": null,
+    "risk_tier": "No Data Yet",
+    "total_facilities": 0,
+    "hospitals_clinics": 0,
+    "pharmacies": 0,
+    "type_diversity": 0,
+    "median_nn_km_hosp": null,
+    "hosp_per_100k": 0.0,
+    "pharm_per_100k": 0.0,
+    "facilities_per_100k": 0.0,
+    "district_pop_proxy": 0,
+    "region_population_2021": 0,
+    "is_urban": 0,
+    "lat_centroid": 0.0,
+    "lon_centroid": 0.0,
+    "data_status": "no_data_yet"
+  },
+  {
+    "district_id": "Unknown__Sefwi_Akontombra",
+    "district": "Sefwi Akontombra",
+    "region": "Unknown",
+    "rank": null,
+    "CVI_0_100": null,
+    "risk_tier": "No Data Yet",
+    "total_facilities": 0,
+    "hospitals_clinics": 0,
+    "pharmacies": 0,
+    "type_diversity": 0,
+    "median_nn_km_hosp": null,
+    "hosp_per_100k": 0.0,
+    "pharm_per_100k": 0.0,
+    "facilities_per_100k": 0.0,
+    "district_pop_proxy": 0,
+    "region_population_2021": 0,
+    "is_urban": 0,
+    "lat_centroid": 0.0,
+    "lon_centroid": 0.0,
+    "data_status": "no_data_yet"
+  },
+  {
+    "district_id": "Unknown__Nabdam",
+    "district": "Nabdam",
+    "region": "Unknown",
+    "rank": null,
+    "CVI_0_100": null,
+    "risk_tier": "No Data Yet",
+    "total_facilities": 0,
+    "hospitals_clinics": 0,
+    "pharmacies": 0,
+    "type_diversity": 0,
+    "median_nn_km_hosp": null,
+    "hosp_per_100k": 0.0,
+    "pharm_per_100k": 0.0,
+    "facilities_per_100k": 0.0,
+    "district_pop_proxy": 0,
+    "region_population_2021": 0,
+    "is_urban": 0,
+    "lat_centroid": 0.0,
+    "lon_centroid": 0.0,
+    "data_status": "no_data_yet"
+  },
+  {
+    "district_id": "Unknown__Binduri",
+    "district": "Binduri",
+    "region": "Unknown",
+    "rank": null,
+    "CVI_0_100": null,
+    "risk_tier": "No Data Yet",
+    "total_facilities": 0,
+    "hospitals_clinics": 0,
+    "pharmacies": 0,
+    "type_diversity": 0,
+    "median_nn_km_hosp": null,
+    "hosp_per_100k": 0.0,
+    "pharm_per_100k": 0.0,
+    "facilities_per_100k": 0.0,
+    "district_pop_proxy": 0,
+    "region_population_2021": 0,
+    "is_urban": 0,
+    "lat_centroid": 0.0,
+    "lon_centroid": 0.0,
+    "data_status": "no_data_yet"
+  },
+  {
+    "district_id": "Unknown__Pusiga",
+    "district": "Pusiga",
+    "region": "Unknown",
+    "rank": null,
+    "CVI_0_100": null,
+    "risk_tier": "No Data Yet",
+    "total_facilities": 0,
+    "hospitals_clinics": 0,
+    "pharmacies": 0,
+    "type_diversity": 0,
+    "median_nn_km_hosp": null,
+    "hosp_per_100k": 0.0,
+    "pharm_per_100k": 0.0,
+    "facilities_per_100k": 0.0,
+    "district_pop_proxy": 0,
+    "region_population_2021": 0,
+    "is_urban": 0,
+    "lat_centroid": 0.0,
+    "lon_centroid": 0.0,
+    "data_status": "no_data_yet"
+  },
+  {
+    "district_id": "Unknown__North_Gonja",
+    "district": "North Gonja",
+    "region": "Unknown",
+    "rank": null,
+    "CVI_0_100": null,
+    "risk_tier": "No Data Yet",
+    "total_facilities": 0,
+    "hospitals_clinics": 0,
+    "pharmacies": 0,
+    "type_diversity": 0,
+    "median_nn_km_hosp": null,
+    "hosp_per_100k": 0.0,
+    "pharm_per_100k": 0.0,
+    "facilities_per_100k": 0.0,
+    "district_pop_proxy": 0,
+    "region_population_2021": 0,
+    "is_urban": 0,
+    "lat_centroid": 0.0,
+    "lon_centroid": 0.0,
+    "data_status": "no_data_yet"
+  },
+  {
+    "district_id": "Unknown__Mamprugu_Moagduri",
+    "district": "Mamprugu Moagduri",
+    "region": "Unknown",
+    "rank": null,
+    "CVI_0_100": null,
+    "risk_tier": "No Data Yet",
+    "total_facilities": 0,
+    "hospitals_clinics": 0,
+    "pharmacies": 0,
+    "type_diversity": 0,
+    "median_nn_km_hosp": null,
+    "hosp_per_100k": 0.0,
+    "pharm_per_100k": 0.0,
+    "facilities_per_100k": 0.0,
+    "district_pop_proxy": 0,
+    "region_population_2021": 0,
+    "is_urban": 0,
+    "lat_centroid": 0.0,
+    "lon_centroid": 0.0,
+    "data_status": "no_data_yet"
+  },
+  {
+    "district_id": "Unknown__Zabzugu",
+    "district": "Zabzugu",
+    "region": "Unknown",
+    "rank": null,
+    "CVI_0_100": null,
+    "risk_tier": "No Data Yet",
+    "total_facilities": 0,
+    "hospitals_clinics": 0,
+    "pharmacies": 0,
+    "type_diversity": 0,
+    "median_nn_km_hosp": null,
+    "hosp_per_100k": 0.0,
+    "pharm_per_100k": 0.0,
+    "facilities_per_100k": 0.0,
+    "district_pop_proxy": 0,
+    "region_population_2021": 0,
+    "is_urban": 0,
+    "lat_centroid": 0.0,
+    "lon_centroid": 0.0,
+    "data_status": "no_data_yet"
+  },
+  {
+    "district_id": "Unknown__Sene_East",
+    "district": "Sene East",
+    "region": "Unknown",
+    "rank": null,
+    "CVI_0_100": null,
+    "risk_tier": "No Data Yet",
+    "total_facilities": 0,
+    "hospitals_clinics": 0,
+    "pharmacies": 0,
+    "type_diversity": 0,
+    "median_nn_km_hosp": null,
+    "hosp_per_100k": 0.0,
+    "pharm_per_100k": 0.0,
+    "facilities_per_100k": 0.0,
+    "district_pop_proxy": 0,
+    "region_population_2021": 0,
+    "is_urban": 0,
+    "lat_centroid": 0.0,
+    "lon_centroid": 0.0,
+    "data_status": "no_data_yet"
+  },
+  {
+    "district_id": "Unknown__Sene_West",
+    "district": "Sene West",
+    "region": "Unknown",
+    "rank": null,
+    "CVI_0_100": null,
+    "risk_tier": "No Data Yet",
+    "total_facilities": 0,
+    "hospitals_clinics": 0,
+    "pharmacies": 0,
+    "type_diversity": 0,
+    "median_nn_km_hosp": null,
+    "hosp_per_100k": 0.0,
+    "pharm_per_100k": 0.0,
+    "facilities_per_100k": 0.0,
+    "district_pop_proxy": 0,
+    "region_population_2021": 0,
+    "is_urban": 0,
+    "lat_centroid": 0.0,
+    "lon_centroid": 0.0,
+    "data_status": "no_data_yet"
+  },
+  {
+    "district_id": "Unknown__Amansie_Central",
+    "district": "Amansie Central",
+    "region": "Unknown",
+    "rank": null,
+    "CVI_0_100": null,
+    "risk_tier": "No Data Yet",
+    "total_facilities": 0,
+    "hospitals_clinics": 0,
+    "pharmacies": 0,
+    "type_diversity": 0,
+    "median_nn_km_hosp": null,
+    "hosp_per_100k": 0.0,
+    "pharm_per_100k": 0.0,
+    "facilities_per_100k": 0.0,
+    "district_pop_proxy": 0,
+    "region_population_2021": 0,
+    "is_urban": 0,
+    "lat_centroid": 0.0,
+    "lon_centroid": 0.0,
+    "data_status": "no_data_yet"
+  },
+  {
+    "district_id": "Unknown__Amansie_West",
+    "district": "Amansie West",
+    "region": "Unknown",
+    "rank": null,
+    "CVI_0_100": null,
+    "risk_tier": "No Data Yet",
+    "total_facilities": 0,
+    "hospitals_clinics": 0,
+    "pharmacies": 0,
+    "type_diversity": 0,
+    "median_nn_km_hosp": null,
+    "hosp_per_100k": 0.0,
+    "pharm_per_100k": 0.0,
+    "facilities_per_100k": 0.0,
+    "district_pop_proxy": 0,
+    "region_population_2021": 0,
+    "is_urban": 0,
+    "lat_centroid": 0.0,
+    "lon_centroid": 0.0,
+    "data_status": "no_data_yet"
+  },
+  {
+    "district_id": "Unknown__Banda",
+    "district": "Banda",
+    "region": "Unknown",
+    "rank": null,
+    "CVI_0_100": null,
+    "risk_tier": "No Data Yet",
+    "total_facilities": 0,
+    "hospitals_clinics": 0,
+    "pharmacies": 0,
+    "type_diversity": 0,
+    "median_nn_km_hosp": null,
+    "hosp_per_100k": 0.0,
+    "pharm_per_100k": 0.0,
+    "facilities_per_100k": 0.0,
+    "district_pop_proxy": 0,
+    "region_population_2021": 0,
+    "is_urban": 0,
+    "lat_centroid": 0.0,
+    "lon_centroid": 0.0,
+    "data_status": "no_data_yet"
+  },
+  {
+    "district_id": "Unknown__Sefwi-wiawso",
+    "district": "Sefwi-wiawso",
+    "region": "Unknown",
+    "rank": null,
+    "CVI_0_100": null,
+    "risk_tier": "No Data Yet",
+    "total_facilities": 0,
+    "hospitals_clinics": 0,
+    "pharmacies": 0,
+    "type_diversity": 0,
+    "median_nn_km_hosp": null,
+    "hosp_per_100k": 0.0,
+    "pharm_per_100k": 0.0,
+    "facilities_per_100k": 0.0,
+    "district_pop_proxy": 0,
+    "region_population_2021": 0,
+    "is_urban": 0,
+    "lat_centroid": 0.0,
+    "lon_centroid": 0.0,
+    "data_status": "no_data_yet"
+  },
+  {
+    "district_id": "Unknown__Sekyere_Afram_Plains_North",
+    "district": "Sekyere Afram Plains North",
+    "region": "Unknown",
+    "rank": null,
+    "CVI_0_100": null,
+    "risk_tier": "No Data Yet",
+    "total_facilities": 0,
+    "hospitals_clinics": 0,
+    "pharmacies": 0,
+    "type_diversity": 0,
+    "median_nn_km_hosp": null,
+    "hosp_per_100k": 0.0,
+    "pharm_per_100k": 0.0,
+    "facilities_per_100k": 0.0,
+    "district_pop_proxy": 0,
+    "region_population_2021": 0,
+    "is_urban": 0,
+    "lat_centroid": 0.0,
+    "lon_centroid": 0.0,
+    "data_status": "no_data_yet"
+  },
+  {
+    "district_id": "Unknown__Yunyoo-nasuan",
+    "district": "Yunyoo-nasuan",
+    "region": "Unknown",
+    "rank": null,
+    "CVI_0_100": null,
+    "risk_tier": "No Data Yet",
+    "total_facilities": 0,
+    "hospitals_clinics": 0,
+    "pharmacies": 0,
+    "type_diversity": 0,
+    "median_nn_km_hosp": null,
+    "hosp_per_100k": 0.0,
+    "pharm_per_100k": 0.0,
+    "facilities_per_100k": 0.0,
+    "district_pop_proxy": 0,
+    "region_population_2021": 0,
+    "is_urban": 0,
+    "lat_centroid": 0.0,
+    "lon_centroid": 0.0,
+    "data_status": "no_data_yet"
+  },
+  {
+    "district_id": "Unknown__Assin_Fosu",
+    "district": "Assin Fosu",
+    "region": "Unknown",
+    "rank": null,
+    "CVI_0_100": null,
+    "risk_tier": "No Data Yet",
+    "total_facilities": 0,
+    "hospitals_clinics": 0,
+    "pharmacies": 0,
+    "type_diversity": 0,
+    "median_nn_km_hosp": null,
+    "hosp_per_100k": 0.0,
+    "pharm_per_100k": 0.0,
+    "facilities_per_100k": 0.0,
+    "district_pop_proxy": 0,
+    "region_population_2021": 0,
+    "is_urban": 0,
+    "lat_centroid": 0.0,
+    "lon_centroid": 0.0,
+    "data_status": "no_data_yet"
+  },
+  {
+    "district_id": "Unknown__Ahafo_Ano_South_West",
+    "district": "Ahafo Ano South West",
+    "region": "Unknown",
+    "rank": null,
+    "CVI_0_100": null,
+    "risk_tier": "No Data Yet",
+    "total_facilities": 0,
+    "hospitals_clinics": 0,
+    "pharmacies": 0,
+    "type_diversity": 0,
+    "median_nn_km_hosp": null,
+    "hosp_per_100k": 0.0,
+    "pharm_per_100k": 0.0,
+    "facilities_per_100k": 0.0,
+    "district_pop_proxy": 0,
+    "region_population_2021": 0,
+    "is_urban": 0,
+    "lat_centroid": 0.0,
+    "lon_centroid": 0.0,
+    "data_status": "no_data_yet"
+  },
+  {
+    "district_id": "Unknown__Atwima_Nwabiagya_North",
+    "district": "Atwima Nwabiagya North",
+    "region": "Unknown",
+    "rank": null,
+    "CVI_0_100": null,
+    "risk_tier": "No Data Yet",
+    "total_facilities": 0,
+    "hospitals_clinics": 0,
+    "pharmacies": 0,
+    "type_diversity": 0,
+    "median_nn_km_hosp": null,
+    "hosp_per_100k": 0.0,
+    "pharm_per_100k": 0.0,
+    "facilities_per_100k": 0.0,
+    "district_pop_proxy": 0,
+    "region_population_2021": 0,
+    "is_urban": 0,
+    "lat_centroid": 0.0,
+    "lon_centroid": 0.0,
+    "data_status": "no_data_yet"
+  },
+  {
+    "district_id": "Unknown__Adansi_Akrofuom",
+    "district": "Adansi Akrofuom",
+    "region": "Unknown",
+    "rank": null,
+    "CVI_0_100": null,
+    "risk_tier": "No Data Yet",
+    "total_facilities": 0,
+    "hospitals_clinics": 0,
+    "pharmacies": 0,
+    "type_diversity": 0,
+    "median_nn_km_hosp": null,
+    "hosp_per_100k": 0.0,
+    "pharm_per_100k": 0.0,
+    "facilities_per_100k": 0.0,
+    "district_pop_proxy": 0,
+    "region_population_2021": 0,
+    "is_urban": 0,
+    "lat_centroid": 0.0,
+    "lon_centroid": 0.0,
+    "data_status": "no_data_yet"
+  },
+  {
+    "district_id": "Unknown__Adansi_North",
+    "district": "Adansi North",
+    "region": "Unknown",
+    "rank": null,
+    "CVI_0_100": null,
+    "risk_tier": "No Data Yet",
+    "total_facilities": 0,
+    "hospitals_clinics": 0,
+    "pharmacies": 0,
+    "type_diversity": 0,
+    "median_nn_km_hosp": null,
+    "hosp_per_100k": 0.0,
+    "pharm_per_100k": 0.0,
+    "facilities_per_100k": 0.0,
+    "district_pop_proxy": 0,
+    "region_population_2021": 0,
+    "is_urban": 0,
+    "lat_centroid": 0.0,
+    "lon_centroid": 0.0,
+    "data_status": "no_data_yet"
+  },
+  {
+    "district_id": "Unknown__Obuasi_East",
+    "district": "Obuasi East",
+    "region": "Unknown",
+    "rank": null,
+    "CVI_0_100": null,
+    "risk_tier": "No Data Yet",
+    "total_facilities": 0,
+    "hospitals_clinics": 0,
+    "pharmacies": 0,
+    "type_diversity": 0,
+    "median_nn_km_hosp": null,
+    "hosp_per_100k": 0.0,
+    "pharm_per_100k": 0.0,
+    "facilities_per_100k": 0.0,
+    "district_pop_proxy": 0,
+    "region_population_2021": 0,
+    "is_urban": 0,
+    "lat_centroid": 0.0,
+    "lon_centroid": 0.0,
+    "data_status": "no_data_yet"
+  },
+  {
+    "district_id": "Unknown__Afigya_Kwabre_North",
+    "district": "Afigya Kwabre North",
+    "region": "Unknown",
+    "rank": null,
+    "CVI_0_100": null,
+    "risk_tier": "No Data Yet",
+    "total_facilities": 0,
+    "hospitals_clinics": 0,
+    "pharmacies": 0,
+    "type_diversity": 0,
+    "median_nn_km_hosp": null,
+    "hosp_per_100k": 0.0,
+    "pharm_per_100k": 0.0,
+    "facilities_per_100k": 0.0,
+    "district_pop_proxy": 0,
+    "region_population_2021": 0,
+    "is_urban": 0,
+    "lat_centroid": 0.0,
+    "lon_centroid": 0.0,
+    "data_status": "no_data_yet"
+  },
+  {
+    "district_id": "Unknown__Juaben_Municipal",
+    "district": "Juaben Municipal",
+    "region": "Unknown",
+    "rank": null,
+    "CVI_0_100": null,
+    "risk_tier": "No Data Yet",
+    "total_facilities": 0,
+    "hospitals_clinics": 0,
+    "pharmacies": 0,
+    "type_diversity": 0,
+    "median_nn_km_hosp": null,
+    "hosp_per_100k": 0.0,
+    "pharm_per_100k": 0.0,
+    "facilities_per_100k": 0.0,
+    "district_pop_proxy": 0,
+    "region_population_2021": 0,
+    "is_urban": 0,
+    "lat_centroid": 0.0,
+    "lon_centroid": 0.0,
+    "data_status": "no_data_yet"
+  },
+  {
+    "district_id": "Unknown__East_Gonja_Municipal",
+    "district": "East Gonja Municipal",
+    "region": "Unknown",
+    "rank": null,
+    "CVI_0_100": null,
+    "risk_tier": "No Data Yet",
+    "total_facilities": 0,
+    "hospitals_clinics": 0,
+    "pharmacies": 0,
+    "type_diversity": 0,
+    "median_nn_km_hosp": null,
+    "hosp_per_100k": 0.0,
+    "pharm_per_100k": 0.0,
+    "facilities_per_100k": 0.0,
+    "district_pop_proxy": 0,
+    "region_population_2021": 0,
+    "is_urban": 0,
+    "lat_centroid": 0.0,
+    "lon_centroid": 0.0,
+    "data_status": "no_data_yet"
+  },
+  {
+    "district_id": "Unknown__Ayawaso_Central_Municipal",
+    "district": "Ayawaso Central Municipal",
+    "region": "Unknown",
+    "rank": null,
+    "CVI_0_100": null,
+    "risk_tier": "No Data Yet",
+    "total_facilities": 0,
+    "hospitals_clinics": 0,
+    "pharmacies": 0,
+    "type_diversity": 0,
+    "median_nn_km_hosp": null,
+    "hosp_per_100k": 0.0,
+    "pharm_per_100k": 0.0,
+    "facilities_per_100k": 0.0,
+    "district_pop_proxy": 0,
+    "region_population_2021": 0,
+    "is_urban": 0,
+    "lat_centroid": 0.0,
+    "lon_centroid": 0.0,
+    "data_status": "no_data_yet"
+  },
+  {
+    "district_id": "Unknown__Asene_Akroso_Manso",
+    "district": "Asene Akroso Manso",
+    "region": "Unknown",
+    "rank": null,
+    "CVI_0_100": null,
+    "risk_tier": "No Data Yet",
+    "total_facilities": 0,
+    "hospitals_clinics": 0,
+    "pharmacies": 0,
+    "type_diversity": 0,
+    "median_nn_km_hosp": null,
+    "hosp_per_100k": 0.0,
+    "pharm_per_100k": 0.0,
+    "facilities_per_100k": 0.0,
+    "district_pop_proxy": 0,
+    "region_population_2021": 0,
+    "is_urban": 0,
+    "lat_centroid": 0.0,
+    "lon_centroid": 0.0,
+    "data_status": "no_data_yet"
+  },
+  {
+    "district_id": "Unknown__New_Juaben_North_Municipal",
+    "district": "New Juaben North Municipal",
+    "region": "Unknown",
+    "rank": null,
+    "CVI_0_100": null,
+    "risk_tier": "No Data Yet",
+    "total_facilities": 0,
+    "hospitals_clinics": 0,
+    "pharmacies": 0,
+    "type_diversity": 0,
+    "median_nn_km_hosp": null,
+    "hosp_per_100k": 0.0,
+    "pharm_per_100k": 0.0,
+    "facilities_per_100k": 0.0,
+    "district_pop_proxy": 0,
+    "region_population_2021": 0,
+    "is_urban": 0,
+    "lat_centroid": 0.0,
+    "lon_centroid": 0.0,
+    "data_status": "no_data_yet"
+  },
+  {
+    "district_id": "Unknown__Fanteakwa_North",
+    "district": "Fanteakwa North",
+    "region": "Unknown",
+    "rank": null,
+    "CVI_0_100": null,
+    "risk_tier": "No Data Yet",
+    "total_facilities": 0,
+    "hospitals_clinics": 0,
+    "pharmacies": 0,
+    "type_diversity": 0,
+    "median_nn_km_hosp": null,
+    "hosp_per_100k": 0.0,
+    "pharm_per_100k": 0.0,
+    "facilities_per_100k": 0.0,
+    "district_pop_proxy": 0,
+    "region_population_2021": 0,
+    "is_urban": 0,
+    "lat_centroid": 0.0,
+    "lon_centroid": 0.0,
+    "data_status": "no_data_yet"
+  },
+  {
+    "district_id": "Unknown__Akwapem_South",
+    "district": "Akwapem South",
+    "region": "Unknown",
+    "rank": null,
+    "CVI_0_100": null,
+    "risk_tier": "No Data Yet",
+    "total_facilities": 0,
+    "hospitals_clinics": 0,
+    "pharmacies": 0,
+    "type_diversity": 0,
+    "median_nn_km_hosp": null,
+    "hosp_per_100k": 0.0,
+    "pharm_per_100k": 0.0,
+    "facilities_per_100k": 0.0,
+    "district_pop_proxy": 0,
+    "region_population_2021": 0,
+    "is_urban": 0,
+    "lat_centroid": 0.0,
+    "lon_centroid": 0.0,
+    "data_status": "no_data_yet"
+  },
+  {
+    "district_id": "Unknown__Ayensuano",
+    "district": "Ayensuano",
+    "region": "Unknown",
+    "rank": null,
+    "CVI_0_100": null,
+    "risk_tier": "No Data Yet",
+    "total_facilities": 0,
+    "hospitals_clinics": 0,
+    "pharmacies": 0,
+    "type_diversity": 0,
+    "median_nn_km_hosp": null,
+    "hosp_per_100k": 0.0,
+    "pharm_per_100k": 0.0,
+    "facilities_per_100k": 0.0,
+    "district_pop_proxy": 0,
+    "region_population_2021": 0,
+    "is_urban": 0,
+    "lat_centroid": 0.0,
+    "lon_centroid": 0.0,
+    "data_status": "no_data_yet"
+  },
+  {
+    "district_id": "Unknown__Akyem_Mansa",
+    "district": "Akyem Mansa",
+    "region": "Unknown",
+    "rank": null,
+    "CVI_0_100": null,
+    "risk_tier": "No Data Yet",
+    "total_facilities": 0,
+    "hospitals_clinics": 0,
+    "pharmacies": 0,
+    "type_diversity": 0,
+    "median_nn_km_hosp": null,
+    "hosp_per_100k": 0.0,
+    "pharm_per_100k": 0.0,
+    "facilities_per_100k": 0.0,
+    "district_pop_proxy": 0,
+    "region_population_2021": 0,
+    "is_urban": 0,
+    "lat_centroid": 0.0,
+    "lon_centroid": 0.0,
+    "data_status": "no_data_yet"
+  },
+  {
+    "district_id": "Unknown__Birim_South",
+    "district": "Birim South",
+    "region": "Unknown",
+    "rank": null,
+    "CVI_0_100": null,
+    "risk_tier": "No Data Yet",
+    "total_facilities": 0,
+    "hospitals_clinics": 0,
+    "pharmacies": 0,
+    "type_diversity": 0,
+    "median_nn_km_hosp": null,
+    "hosp_per_100k": 0.0,
+    "pharm_per_100k": 0.0,
+    "facilities_per_100k": 0.0,
+    "district_pop_proxy": 0,
+    "region_population_2021": 0,
+    "is_urban": 0,
+    "lat_centroid": 0.0,
+    "lon_centroid": 0.0,
+    "data_status": "no_data_yet"
   }
 ]

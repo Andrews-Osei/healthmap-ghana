@@ -1,24 +1,36 @@
 "use client";
 import { useDashboard } from "@/store/dashboard";
-import { Building2, MapPin, AlertOctagon, ShieldCheck } from "lucide-react";
+import {
+  Building2, MapPin, AlertOctagon, ShieldCheck, Clock, Database,
+} from "lucide-react";
 
 export default function KpiStrip() {
   const { districts, regions, facilities } = useDashboard();
   const critical = districts.filter(d => d.risk_tier === "Critical Risk").length;
   const high     = districts.filter(d => d.risk_tier === "High Risk").length;
   const low      = districts.filter(d => d.risk_tier === "Low Risk").length;
+  const pending  = districts.filter(d => d.data_status === "no_data_yet").length;
+  const scored   = districts.length - pending;
+  const coverage = districts.length
+    ? Math.round((scored / districts.length) * 1000) / 10
+    : 0;
 
   const kpis = [
-    { label: "Districts",  value: districts.length,  icon: MapPin,
-      tone: "text-cyan-300" },
-    { label: "Regions",    value: regions.length,    icon: ShieldCheck,
-      tone: "text-med-400" },
-    { label: "Facilities", value: facilities.length, icon: Building2,
-      tone: "text-cyan-300" },
-    { label: "Critical-risk districts", value: critical,
+    { label: "Districts",  value: districts.length, sub: "Canonical",
+      icon: MapPin, tone: "text-cyan-300" },
+    { label: "Regions",    value: regions.length, sub: "Coverage",
+      icon: ShieldCheck, tone: "text-med-400" },
+    { label: "Facilities", value: facilities.length, sub: "OSM-mapped",
+      icon: Building2, tone: "text-cyan-300" },
+    { label: "Critical-risk", value: critical, sub: "districts",
       icon: AlertOctagon, tone: "text-red-400" },
-    { label: "High-risk",  value: high, icon: AlertOctagon, tone: "text-orange-400" },
-    { label: "Low-risk",   value: low,  icon: ShieldCheck,  tone: "text-med-400" },
+    { label: "High-risk",  value: high, sub: "districts",
+      icon: AlertOctagon, tone: "text-orange-400" },
+    { label: pending > 0 ? "Awaiting data" : "Low-risk",
+      value: pending > 0 ? pending : low,
+      sub:   pending > 0 ? `coverage ${coverage}%` : "districts",
+      icon:  pending > 0 ? Clock : ShieldCheck,
+      tone:  pending > 0 ? "text-slate-300" : "text-med-400" },
   ];
 
   return (
@@ -29,9 +41,8 @@ export default function KpiStrip() {
             <k.icon className={`w-3.5 h-3.5 ${k.tone}`}/>
             <span>{k.label}</span>
           </div>
-          <div className="mt-1 text-2xl font-bold tracking-tight">
-            {k.value}
-          </div>
+          <div className="mt-1 text-2xl font-bold tracking-tight">{k.value}</div>
+          <div className="text-[10px] text-slate-500 mt-0.5">{k.sub}</div>
         </div>
       ))}
     </div>

@@ -1,6 +1,8 @@
 /** @type {import('next').NextConfig} */
 const nextConfig = {
-  reactStrictMode: true,
+  // Strict mode double-mounts components in dev, which compounds map cost.
+  // Turn off in dev for smoother dashboard interaction.
+  reactStrictMode: false,
   experimental: {
     serverActions: { allowedOrigins: ["localhost:3000"] },
   },
