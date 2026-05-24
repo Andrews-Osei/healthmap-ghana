@@ -30,10 +30,6 @@ export default function LoginPage() {
     }
   }
 
-  function useDemo(u: string, p: string) {
-    setUsername(u); setPassword(p);
-  }
-
   return (
     <main className="min-h-screen relative grid lg:grid-cols-2 overflow-hidden">
 
@@ -170,7 +166,7 @@ export default function LoginPage() {
                   <input value={username}
                          onChange={e => setUsername(e.target.value)}
                          autoComplete="username" required
-                         placeholder="demo"
+                         placeholder="Your username"
                          className="w-full pl-10 pr-3 py-2.5 rounded-lg
                                     bg-ink-900/80 border border-white/10
                                     focus:outline-none focus:border-cyan-400
@@ -230,26 +226,10 @@ export default function LoginPage() {
               </button>
             </form>
 
-            <div className="mt-6 pt-6 border-t border-white/10">
-              <div className="text-[11px] uppercase tracking-wide text-slate-500 mb-2">
-                Demo credentials
-              </div>
-              <div className="grid grid-cols-2 gap-2">
-                <button onClick={() => useDemo("demo", "demo")}
-                        className="text-xs text-left p-3 rounded-lg
-                                   bg-white/[0.03] border border-white/10
-                                   hover:border-cyan-500/40 transition">
-                  <div className="text-cyan-300 font-mono">demo / demo</div>
-                  <div className="text-[10px] text-slate-500 mt-0.5">Analyst role</div>
-                </button>
-                <button onClick={() => useDemo("admin", "admin")}
-                        className="text-xs text-left p-3 rounded-lg
-                                   bg-white/[0.03] border border-white/10
-                                   hover:border-cyan-500/40 transition">
-                  <div className="text-cyan-300 font-mono">admin / admin</div>
-                  <div className="text-[10px] text-slate-500 mt-0.5">Admin role</div>
-                </button>
-              </div>
+            <div className="mt-6 pt-6 border-t border-white/10
+                            flex items-center gap-2 text-[11px] text-slate-500">
+              <ShieldCheck className="w-3.5 h-3.5 text-med-400"/>
+              Authorised personnel only. Contact your administrator for access.
             </div>
           </div>
 

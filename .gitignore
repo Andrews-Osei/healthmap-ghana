@@ -27,3 +27,10 @@ Thumbs.db
 # Data — keep small reference files, ignore bulky raw downloads
 data/geo/*.geojson.bz2
 data/facilities/raw/
+
+# Local user store (bcrypt hashes) — never commit
+backend/app/data/users.json
+
+# TS build cache
+*.tsbuildinfo
+frontend/tsconfig.tsbuildinfo

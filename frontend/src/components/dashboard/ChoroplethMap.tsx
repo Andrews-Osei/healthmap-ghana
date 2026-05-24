@@ -12,6 +12,8 @@ const GHANA_BOUNDS: LatLngBoundsExpression = [[4.6, -3.4], [11.3, 1.3]];
 const FACILITY_ZOOM_THRESHOLD = 9;
 const FACILITY_RENDER_CAP = 600;
 
+const norm = (s: any) => String(s ?? "").replace(/[^a-z0-9]/gi, "").toLowerCase();
+
 const facilityColor: Record<string, string> = {
   hospital: "#22d3ee", clinic: "#67e8f9", health_post: "#10b981",
   doctors:  "#7ce3c9", pharmacy: "#f59e0b", dentist: "#a78bfa", CHPs: "#34d399",
@@ -20,7 +22,7 @@ const facilityColor: Record<string, string> = {
 /* ─────────────────────────────────────────────────────────────────
  *  District layer — imperative
  * ───────────────────────────────────────────────────────────────── */
-function DistrictLayer() {
+function DistrictLayer({ publicMode = false }: { publicMode?: boolean }) {
   const map       = useMap();
   const districts = useDashboard(s => s.districts);
   const filters   = useDashboard(s => s.filters);
@@ -56,6 +58,11 @@ function DistrictLayer() {
     const d = lookup(feature?.properties);
     if (!d) return { color: "#1f2a44", weight: 0.5,
                      fillColor: "#1a2640", fillOpacity: 0.35 };
+    // Public locator view — neutral fill, no vulnerability colouring
+    if (publicMode) {
+      return { color: "#0c1525", weight: 0.6,
+               fillColor: "#1e293b", fillOpacity: 0.5 };
+    }
     // Pending district — slate grey, dashed border
     if (d.data_status === "no_data_yet") {
       return { color: "#475569", weight: 0.6, dashArray: "3 3",
@@ -70,7 +77,7 @@ function DistrictLayer() {
       fillColor: cviColor(d.CVI_0_100),
       fillOpacity: passes ? 0.78 : 0.16,
     };
-  }, [lookup, filters]);
+  }, [lookup, filters, publicMode]);
 
   useEffect(() => {
     if (fetchedRef.current || districts.length === 0) return;
@@ -106,22 +113,32 @@ function DistrictLayer() {
                 mouseout: (e) => layerRef.current?.resetStyle(e.target),
               });
 
-              // Null-safe tooltip: works for scored AND no_data_yet districts
-              const cviStr  = d.CVI_0_100 != null
-                                ? `CVI <b>${d.CVI_0_100.toFixed(1)}</b>`
-                                : "Awaiting OSM data";
-              const tierStr = d.risk_tier;
-              const facStr  = `${d.total_facilities} facilities · ` +
-                              `${(d.facilities_per_100k ?? 0).toFixed(1)} / 100k`;
-
-              l.bindTooltip(
-                `<div style="min-width:170px">
-                   <div style="font-weight:600">${d.district}</div>
-                   <div style="opacity:.7;font-size:12px">${d.region}</div>
-                   <div style="margin-top:4px">${cviStr} · ${tierStr}</div>
-                   <div style="opacity:.7;font-size:12px">${facStr}</div>
-                 </div>`,
-                { direction: "top" });
+              if (publicMode) {
+                // Public view — locations only, no vulnerability scores
+                l.bindTooltip(
+                  `<div style="min-width:150px">
+                     <div style="font-weight:600">${d.district}</div>
+                     <div style="opacity:.7;font-size:12px">${d.region}</div>
+                     <div style="opacity:.7;font-size:12px">${d.total_facilities} facilities</div>
+                   </div>`,
+                  { direction: "top" });
+              } else {
+                // Null-safe tooltip: works for scored AND no_data_yet districts
+                const cviStr  = d.CVI_0_100 != null
+                                  ? `CVI <b>${d.CVI_0_100.toFixed(1)}</b>`
+                                  : "Awaiting OSM data";
+                const tierStr = d.risk_tier;
+                const facStr  = `${d.total_facilities} facilities · ` +
+                                `${(d.facilities_per_100k ?? 0).toFixed(1)} / 100k`;
+                l.bindTooltip(
+                  `<div style="min-width:170px">
+                     <div style="font-weight:600">${d.district}</div>
+                     <div style="opacity:.7;font-size:12px">${d.region}</div>
+                     <div style="margin-top:4px">${cviStr} · ${tierStr}</div>
+                     <div style="opacity:.7;font-size:12px">${facStr}</div>
+                   </div>`,
+                  { direction: "top" });
+              }
             },
           }).addTo(map);
           layerRef.current = layer;
@@ -223,23 +240,101 @@ function FacilityLayer({ onZoom }: { onZoom: (z: number) => void }) {
 }
 
 /* ─────────────────────────────────────────────────────────────────
- *  Fly to selected district
+ *  Highlight layer — pulsing pin + glowing outline for the
+ *  selected district (so decision-makers see the EXACT place on zoom)
  * ───────────────────────────────────────────────────────────────── */
-function FlyTo() {
-  const map = useMap();
-  const sel = useDashboard(s => s.selected);
+function HighlightLayer() {
+  const map        = useMap();
+  const selected   = useDashboard(s => s.selected);
+  const idxRef     = useRef<Map<string, any>>(new Map());
+  const outlineRef = useRef<L.GeoJSON | null>(null);
+  const markerRef  = useRef<L.Marker | null>(null);
+  const [loaded, setLoaded] = useState(false);
+
+  // Create a dedicated pane (above the canvas) + load geometry once.
   useEffect(() => {
-    if (sel && sel.lat_centroid && sel.lon_centroid) {
-      map.flyTo([sel.lat_centroid, sel.lon_centroid], 10, { duration: 0.8 });
+    if (!map.getPane("hmHighlight")) {
+      map.createPane("hmHighlight");
+      const p = map.getPane("hmHighlight");
+      if (p) { p.style.zIndex = "450"; p.style.pointerEvents = "none"; }
     }
-  }, [sel, map]);
+    let aborted = false;
+    fetch("/ghana_adm2.geojson")
+      .then(r => r.ok ? r.json() : Promise.reject(`HTTP ${r.status}`))
+      .then((geo: any) => {
+        if (aborted) return;
+        const idx = new Map<string, any>();
+        for (const f of geo.features ?? []) {
+          const pr = f.properties ?? {};
+          for (const c of [pr.shapeName, pr.NAME_2, pr.name, pr.adm2_name, pr.ADM2_EN]) {
+            if (c) idx.set(norm(c), f);
+          }
+        }
+        idxRef.current = idx;
+        setLoaded(true);
+      })
+      .catch(e => console.error("highlight geojson load failed:", e));
+    return () => { aborted = true; };
+  }, [map]);
+
+  const clear = useCallback(() => {
+    if (outlineRef.current) { outlineRef.current.remove(); outlineRef.current = null; }
+    if (markerRef.current)  { markerRef.current.remove();  markerRef.current = null; }
+  }, []);
+
+  useEffect(() => {
+    clear();
+    if (!selected) return;
+
+    const feature = idxRef.current.get(norm(selected.district));
+    let center: [number, number] | null =
+      (selected.lat_centroid != null && selected.lon_centroid != null)
+        ? [selected.lat_centroid, selected.lon_centroid] : null;
+
+    if (feature) {
+      try {
+        const outline = L.geoJSON(feature, {
+          pane: "hmHighlight",
+          renderer: L.svg({ pane: "hmHighlight" }),
+          interactive: false,
+          style: () => ({
+            className: "hm-outline",
+            color: "#22d3ee", weight: 3, opacity: 1, fill: false,
+          }) as any,
+        } as any).addTo(map);
+        outlineRef.current = outline;
+        const b = outline.getBounds();
+        if (b.isValid()) {
+          if (!center) center = [b.getCenter().lat, b.getCenter().lng];
+          map.fitBounds(b, { padding: [40, 40], maxZoom: 11,
+                             animate: true, duration: 0.8 });
+        }
+      } catch (e) { console.error("highlight outline failed:", e); }
+    } else if (center) {
+      map.flyTo(center, 11, { duration: 0.8 });
+    }
+
+    if (center) {
+      const icon = L.divIcon({
+        className: "hm-pin-wrap",
+        html: '<div class="hm-pin"><span class="ring"></span>' +
+              '<span class="ring ring2"></span><span class="core"></span></div>',
+        iconSize: [20, 20], iconAnchor: [10, 10],
+      });
+      markerRef.current = L.marker(center, {
+        icon, interactive: false, zIndexOffset: 1000,
+      }).addTo(map);
+    }
+  }, [selected, loaded, map, clear]);
+
+  useEffect(() => () => clear(), [clear]);
   return null;
 }
 
 /* ─────────────────────────────────────────────────────────────────
  *  Component
  * ───────────────────────────────────────────────────────────────── */
-export default function ChoroplethMap() {
+export default function ChoroplethMap({ publicMode = false }: { publicMode?: boolean }) {
   const facilitiesTotal = useDashboard(s => s.facilities.length);
   const [zoom, setZoom] = useState(7);
   const onZoom = useCallback((z: number) => setZoom(z), []);
@@ -247,6 +342,38 @@ export default function ChoroplethMap() {
   return (
     <div className="relative h-full w-full rounded-2xl overflow-hidden
                     border border-white/10">
+      {/* Pulsing pin + glowing outline animations */}
+      <style>{`
+        @keyframes hmPulseRing {
+          0%   { transform: scale(0.5); opacity: 0.85; }
+          70%  { transform: scale(2.8); opacity: 0; }
+          100% { opacity: 0; }
+        }
+        @keyframes hmOutline {
+          0%, 100% { stroke-opacity: 1;   stroke-width: 2; }
+          50%      { stroke-opacity: 0.3; stroke-width: 6; }
+        }
+        .hm-pin-wrap { background: transparent !important; border: none !important; }
+        .hm-pin { position: relative; width: 20px; height: 20px; }
+        .hm-pin .ring {
+          position: absolute; inset: 0; border-radius: 9999px;
+          background: rgba(34, 211, 238, 0.55);
+          animation: hmPulseRing 1.5s ease-out infinite;
+        }
+        .hm-pin .ring2 { animation-delay: 0.75s; }
+        .hm-pin .core {
+          position: absolute; left: 50%; top: 50%;
+          width: 11px; height: 11px; margin: -5.5px 0 0 -5.5px;
+          border-radius: 9999px; background: #22d3ee;
+          border: 2px solid #04101e;
+          box-shadow: 0 0 9px 2px rgba(34, 211, 238, 0.95);
+        }
+        path.hm-outline {
+          filter: drop-shadow(0 0 6px #22d3ee);
+          animation: hmOutline 1.3s ease-in-out infinite;
+        }
+      `}</style>
+
       <MapContainer
         center={GHANA_CENTER} zoom={7} minZoom={6}
         maxBounds={GHANA_BOUNDS}
@@ -266,37 +393,44 @@ export default function ChoroplethMap() {
           </LayersControl.BaseLayer>
         </LayersControl>
 
-        <DistrictLayer/>
+        <DistrictLayer publicMode={publicMode}/>
         <FacilityLayer onZoom={onZoom}/>
-        <FlyTo/>
+        <HighlightLayer/>
       </MapContainer>
 
-      <Legend zoom={zoom} total={facilitiesTotal}/>
+      <Legend zoom={zoom} total={facilitiesTotal} publicMode={publicMode}/>
     </div>
   );
 }
 
-function Legend({ zoom, total }: { zoom: number; total: number }) {
+function Legend({ zoom, total, publicMode = false }: { zoom: number; total: number; publicMode?: boolean }) {
   return (
     <div className="absolute bottom-3 left-3 glass p-3 text-xs space-y-2
                     pointer-events-none z-[400]">
-      <div>
-        <div className="font-semibold mb-1">Vulnerability Index</div>
-        <div className="flex items-center gap-1">
-          {[10, 30, 50, 70, 90].map(v => (
-            <div key={v} className="w-7 h-3" style={{ background: cviColor(v) }}/>
-          ))}
+      {publicMode ? (
+        <div>
+          <div className="font-semibold mb-1">Health facilities</div>
+          <div className="text-[10px] text-slate-400">Locations across Ghana</div>
         </div>
-        <div className="flex justify-between text-[10px] text-slate-400 mt-1
-                        w-[150px]">
-          <span>0</span><span>50</span><span>100</span>
+      ) : (
+        <div>
+          <div className="font-semibold mb-1">Vulnerability Index</div>
+          <div className="flex items-center gap-1">
+            {[10, 30, 50, 70, 90].map(v => (
+              <div key={v} className="w-7 h-3" style={{ background: cviColor(v) }}/>
+            ))}
+          </div>
+          <div className="flex justify-between text-[10px] text-slate-400 mt-1
+                          w-[150px]">
+            <span>0</span><span>50</span><span>100</span>
+          </div>
+          <div className="flex items-center gap-1.5 mt-2 text-[10px] text-slate-400">
+            <div className="w-7 h-3 border border-slate-500"
+                 style={{ background: "#334155" }}/>
+            No data yet
+          </div>
         </div>
-        <div className="flex items-center gap-1.5 mt-2 text-[10px] text-slate-400">
-          <div className="w-7 h-3 border border-slate-500"
-               style={{ background: "#334155" }}/>
-          No data yet
-        </div>
-      </div>
+      )}
       <div className="border-t border-white/10 pt-2 text-[11px] text-slate-400">
         {zoom < FACILITY_ZOOM_THRESHOLD
           ? `Zoom in (${zoom}/${FACILITY_ZOOM_THRESHOLD}+) to see ${total} facilities`

@@ -14,16 +14,16 @@ from .routes import (
     auth as auth_route,
     health as health_route,
     coverage as coverage_route,
+    assistant as assistant_route,
 )
 
 app = FastAPI(
     title=settings.app_name,
     version=settings.version,
     description=(
-        "REST API for the HealthMap Ghana platform. Serves district-level "
-        "healthcare vulnerability scores, facility locations, AI-generated "
-        "intervention recommendations, demand-forecasting projections, "
-        "and data-coverage telemetry."
+        "REST API for the HealthMap Ghana platform: vulnerability scores, "
+        "facility data, AI recommendations, forecasts, and the dual-mode "
+        "AI assistant (patient triage + decision-maker analytics)."
     ),
     openapi_tags=[
         {"name": "Districts",       "description": "District-level CVI scoring"},
@@ -32,6 +32,7 @@ app = FastAPI(
         {"name": "Vulnerability",   "description": "Ranked vulnerability queries"},
         {"name": "Recommendations", "description": "AI intervention engine"},
         {"name": "Forecast",        "description": "Demand projections"},
+        {"name": "Assistant",       "description": "Dual-mode AI assistant"},
         {"name": "Coverage",        "description": "Pipeline coverage history"},
         {"name": "Auth",            "description": "Auth scaffolding (JWT)"},
         {"name": "Health",          "description": "Service liveness"},
@@ -41,6 +42,9 @@ app = FastAPI(
 app.add_middleware(
     CORSMiddleware,
     allow_origins=settings.origins,
+    # Dev-friendly: accept localhost / 127.0.0.1 on any port so the frontend
+    # never hits a CORS origin-mismatch (the usual cause of "Failed to fetch").
+    allow_origin_regex=r"https?://(localhost|127\.0\.0\.1)(:\d+)?",
     allow_credentials=True,
     allow_methods=["*"],
     allow_headers=["*"],
@@ -56,6 +60,7 @@ app.include_router(vulnerability_route.router,    prefix=API_V1, tags=["Vulnerab
 app.include_router(recommendations_route.router,  prefix=API_V1, tags=["Recommendations"])
 app.include_router(forecast_route.router,         prefix=API_V1, tags=["Forecast"])
 app.include_router(coverage_route.router,         prefix=API_V1, tags=["Coverage"])
+app.include_router(assistant_route.router,        prefix=API_V1, tags=["Assistant"])
 app.include_router(auth_route.router,             prefix=API_V1, tags=["Auth"])
 
 

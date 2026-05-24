@@ -30,3 +30,82 @@ export const api = {
   recommendations: (id: string)                    => get<Recommendation[]>(`/recommendations/${id}`),
   forecast:        (id: string)                    => get<ForecastRow[]>(`/forecast/${id}`),
 };
+
+
+// ───────────── Assistant ─────────────
+export type AssistantMode = "patient" | "decision_maker";
+
+export interface AssistantRequest {
+  mode: AssistantMode;
+  query?: string;
+  user_lat?: number;
+  user_lon?: number;
+  user_region?: string;
+  filter_region?: string;
+  place?: string;
+}
+
+export async function askAssistant(req: AssistantRequest) {
+  const BASE = process.env.NEXT_PUBLIC_API_BASE ?? "http://localhost:8000/api/v1";
+  const r = await fetch(`${BASE}/assistant/query`, {
+    method: "POST",
+    headers: { "Content-Type": "application/json" },
+    body: JSON.stringify(req),
+  });
+  if (!r.ok) throw new Error(`Assistant API ${r.status}`);
+  return r.json() as Promise<any>;
+}
+
+
+// ───────────── Admin: user management (admin JWT required) ─────────────
+const _TOKEN_KEY = "healthmap.jwt";
+function _authHeaders(): Record<string, string> {
+  const t = typeof window !== "undefined"
+    ? localStorage.getItem(_TOKEN_KEY) : null;
+  return t ? { Authorization: `Bearer ${t}` } : {};
+}
+async function _errText(r: Response): Promise<string> {
+  try { const j = await r.json(); return j.detail ?? `HTTP ${r.status}`; }
+  catch { return `HTTP ${r.status}`; }
+}
+
+export interface AdminUser {
+  username: string; role: string; active: boolean;
+  created_at?: string; created_by?: string;
+}
+
+const ADMIN_BASE = process.env.NEXT_PUBLIC_API_BASE ?? "http://localhost:8000/api/v1";
+
+export const adminApi = {
+  listUsers: async (): Promise<AdminUser[]> => {
+    const r = await fetch(`${ADMIN_BASE}/auth/users`, { headers: _authHeaders() });
+    if (!r.ok) throw new Error(await _errText(r));
+    return r.json();
+  },
+  createUser: async (b: { username: string; password: string; role: string }) => {
+    const r = await fetch(`${ADMIN_BASE}/auth/users`, {
+      method: "POST",
+      headers: { "Content-Type": "application/json", ..._authHeaders() },
+      body: JSON.stringify(b),
+    });
+    if (!r.ok) throw new Error(await _errText(r));
+    return r.json();
+  },
+  updateUser: async (username: string,
+                     b: { role?: string; active?: boolean; password?: string }) => {
+    const r = await fetch(`${ADMIN_BASE}/auth/users/${encodeURIComponent(username)}`, {
+      method: "PATCH",
+      headers: { "Content-Type": "application/json", ..._authHeaders() },
+      body: JSON.stringify(b),
+    });
+    if (!r.ok) throw new Error(await _errText(r));
+    return r.json();
+  },
+  deleteUser: async (username: string) => {
+    const r = await fetch(`${ADMIN_BASE}/auth/users/${encodeURIComponent(username)}`, {
+      method: "DELETE", headers: _authHeaders(),
+    });
+    if (!r.ok) throw new Error(await _errText(r));
+    return r.json();
+  },
+};
